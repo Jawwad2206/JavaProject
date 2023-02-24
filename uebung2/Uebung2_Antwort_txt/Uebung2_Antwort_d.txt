@@ -1,0 +1,18 @@
+mit Datumsfilter a) nur eins; b) für ein Bereich
+
+a) 
+
+Datum: 2017-10-23
+
+The session with the nr: 1 had a duration of: 6 hours and 3 min
+
+b) 
+
+Datum1: 2017-10-23
+Datum2: 2017-12-24
+
+The session with the nr: 2 had a duration of: 9 hours and 42 min
+The session with the nr: 4 had a duration of: 9 hours and 1 min
+The session with the nr: 5 had a duration of: 8 hours and 46 min
+The session with the nr: 1 had a duration of: 6 hours and 3 min
+The session with the nr: 3 had a duration of: 5 hours and 1 min

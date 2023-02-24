@@ -1,0 +1,571 @@
+NamedEntity-Organisation: Präsident! |frequenzy: 82
+NamedEntity-Organisation: SPD |frequenzy: 67
+NamedEntity-Organisation: CDU |frequenzy: 66
+NamedEntity-Organisation: Die Linke |frequenzy: 60
+NamedEntity-Organisation: Bundeswehr |frequenzy: 56
+NamedEntity-Organisation: FDP |frequenzy: 53
+NamedEntity-Organisation: Bundestag |frequenzy: 42
+NamedEntity-Organisation: Deutschen Bundestag |frequenzy: 41
+NamedEntity-Organisation: CDU/CSU |frequenzy: 38
+NamedEntity-Organisation: Die Grünen |frequenzy: 37
+NamedEntity-Organisation: Vereinten Nationen |frequenzy: 34
+NamedEntity-Organisation: AfD |frequenzy: 30
+NamedEntity-Organisation: Europäischen Union |frequenzy: 26
+NamedEntity-Organisation: NATO |frequenzy: 25
+NamedEntity-Organisation: SPD-Fraktion |frequenzy: 25
+NamedEntity-Organisation: Siemens |frequenzy: 23
+NamedEntity-Organisation: FDP-Fraktion |frequenzy: 20
+NamedEntity-Organisation: Damen |frequenzy: 20
+NamedEntity-Organisation: EU |frequenzy: 19
+NamedEntity-Organisation: Deutsche Bundestag |frequenzy: 16
+NamedEntity-Organisation: Europäische Union |frequenzy: 16
+NamedEntity-Organisation: Union |frequenzy: 14
+NamedEntity-Organisation: PESCO |frequenzy: 14
+NamedEntity-Organisation: Deutschen Bundestages |frequenzy: 13
+NamedEntity-Organisation: IS |frequenzy: 13
+NamedEntity-Organisation: Grüne |frequenzy: 13
+NamedEntity-Organisation: Freien Demokraten |frequenzy: 13
+NamedEntity-Organisation: Kommission |frequenzy: 12
+NamedEntity-Organisation: Assad |frequenzy: 12
+NamedEntity-Organisation: Glyphosat |frequenzy: 11
+NamedEntity-Organisation: Deutschland |frequenzy: 11
+NamedEntity-Organisation: Grünen |frequenzy: 10
+NamedEntity-Organisation: AfD-Fraktion |frequenzy: 10
+NamedEntity-Organisation: Abgeordneten |frequenzy: 10
+NamedEntity-Organisation: Taliban |frequenzy: 9
+NamedEntity-Organisation: Bundestages |frequenzy: 9
+NamedEntity-Organisation: EuGH |frequenzy: 9
+NamedEntity-Organisation: Gewerkschaften |frequenzy: 8
+NamedEntity-Organisation: Linken |frequenzy: 8
+NamedEntity-Organisation: Danke |frequenzy: 8
+NamedEntity-Organisation: Sozialdemokraten |frequenzy: 8
+NamedEntity-Organisation: die Grünen |frequenzy: 8
+NamedEntity-Organisation: Partei |frequenzy: 7
+NamedEntity-Organisation: UN |frequenzy: 7
+NamedEntity-Organisation: CSU |frequenzy: 7
+NamedEntity-Organisation: UNAMID |frequenzy: 7
+NamedEntity-Organisation: Sea Guardian |frequenzy: 7
+NamedEntity-Organisation: IWF |frequenzy: 7
+NamedEntity-Organisation: Demokraten |frequenzy: 7
+NamedEntity-Organisation: Streitkräfte |frequenzy: 6
+NamedEntity-Organisation: SPD-Bundestagsfraktion |frequenzy: 6
+NamedEntity-Organisation: EZB |frequenzy: 6
+NamedEntity-Organisation: WHO |frequenzy: 6
+NamedEntity-Organisation: Linke |frequenzy: 6
+NamedEntity-Organisation: Europäische Kommission |frequenzy: 6
+NamedEntity-Organisation: Europäischen Gerichtshof |frequenzy: 6
+NamedEntity-Organisation: Hisbollah |frequenzy: 6
+NamedEntity-Organisation: Europäischen Kommission |frequenzy: 5
+NamedEntity-Organisation: Freie Demokraten |frequenzy: 5
+NamedEntity-Organisation: UN-Mandat |frequenzy: 5
+NamedEntity-Organisation: KfW |frequenzy: 5
+NamedEntity-Organisation: Bombardier |frequenzy: 5
+NamedEntity-Organisation: EU-Kommission |frequenzy: 5
+NamedEntity-Organisation: IARC |frequenzy: 4
+NamedEntity-Organisation: Europäischen Zentralbank |frequenzy: 4
+NamedEntity-Organisation: Militär |frequenzy: 4
+NamedEntity-Organisation: Europäischen Rat |frequenzy: 4
+NamedEntity-Organisation: Bundes |frequenzy: 4
+NamedEntity-Organisation: den Grünen |frequenzy: 4
+NamedEntity-Organisation: Afrikanische Union |frequenzy: 4
+NamedEntity-Organisation: Europa |frequenzy: 4
+NamedEntity-Organisation: UNIFIL |frequenzy: 4
+NamedEntity-Organisation: UN-Sicherheitsrat |frequenzy: 4
+NamedEntity-Organisation: UNO |frequenzy: 4
+NamedEntity-Organisation: Ostdeutschland |frequenzy: 4
+NamedEntity-Organisation: Deutschen Bundestags |frequenzy: 4
+NamedEntity-Organisation: Terror |frequenzy: 4
+NamedEntity-Organisation: Air Berlin |frequenzy: 4
+NamedEntity-Organisation: EU-Bürger |frequenzy: 3
+NamedEntity-Organisation: Internationale Agentur für Krebsforschung |frequenzy: 3
+NamedEntity-Organisation: Afrikanischen Union |frequenzy: 3
+NamedEntity-Organisation: UNMISS |frequenzy: 3
+NamedEntity-Organisation: BMBF |frequenzy: 3
+NamedEntity-Organisation: EFSF |frequenzy: 3
+NamedEntity-Organisation: OECD |frequenzy: 3
+NamedEntity-Organisation: irakischen Streitkräfte |frequenzy: 3
+NamedEntity-Organisation: IOM |frequenzy: 3
+NamedEntity-Organisation: UN-Mission |frequenzy: 3
+NamedEntity-Organisation: IS-Terror |frequenzy: 3
+NamedEntity-Organisation: Wir Freien Demokraten |frequenzy: 3
+NamedEntity-Organisation: absurd |frequenzy: 3
+NamedEntity-Organisation: Apple |frequenzy: 3
+NamedEntity-Organisation: Zentralbank |frequenzy: 3
+NamedEntity-Organisation: Europäische Gerichtshof |frequenzy: 3
+NamedEntity-Organisation: Internationalen Organisation für Migration |frequenzy: 3
+NamedEntity-Organisation: Siemens-Konzern |frequenzy: 3
+NamedEntity-Organisation: EUTM Mali |frequenzy: 3
+NamedEntity-Organisation: AfD! |frequenzy: 3
+NamedEntity-Organisation: Parlament |frequenzy: 3
+NamedEntity-Organisation: ISAF |frequenzy: 3
+NamedEntity-Organisation: Marine |frequenzy: 3
+NamedEntity-Organisation: Zentrum |frequenzy: 3
+NamedEntity-Organisation: Euro-Zone |frequenzy: 3
+NamedEntity-Organisation: internationalen Gemeinschaft |frequenzy: 3
+NamedEntity-Organisation: Übergangsregierung |frequenzy: 2
+NamedEntity-Organisation: GRÜNENDr |frequenzy: 2
+NamedEntity-Organisation: Europäischen Verteidigungsfonds |frequenzy: 2
+NamedEntity-Organisation: Terrororganisation IS |frequenzy: 2
+NamedEntity-Organisation: Parlaments |frequenzy: 2
+NamedEntity-Organisation: sudanesischen Regierung |frequenzy: 2
+NamedEntity-Organisation: Demokrat |frequenzy: 2
+NamedEntity-Organisation: UNIFIL-Mandat |frequenzy: 2
+NamedEntity-Organisation: AWACS-Flugzeugen |frequenzy: 2
+NamedEntity-Organisation: EZB-Rat |frequenzy: 2
+NamedEntity-Organisation: Ihres Antrags |frequenzy: 2
+NamedEntity-Organisation: EU-Staaten |frequenzy: 2
+NamedEntity-Organisation: Wählerinnen |frequenzy: 2
+NamedEntity-Organisation: Resolute Support |frequenzy: 2
+NamedEntity-Organisation: britische Regierung |frequenzy: 2
+NamedEntity-Organisation: Ministerin |frequenzy: 2
+NamedEntity-Organisation: EU-Vertrag |frequenzy: 2
+NamedEntity-Organisation: Deutscher Bundestag |frequenzy: 2
+NamedEntity-Organisation: deutsche Einwanderungsrecht |frequenzy: 2
+NamedEntity-Organisation: Soldatinnen und Soldaten |frequenzy: 2
+NamedEntity-Organisation: der Grünen |frequenzy: 2
+NamedEntity-Organisation: deutsche Marine |frequenzy: 2
+NamedEntity-Organisation: EFSM |frequenzy: 2
+NamedEntity-Organisation: BfR |frequenzy: 2
+NamedEntity-Organisation: Gewerkschaft |frequenzy: 2
+NamedEntity-Organisation: Abgeordnete! |frequenzy: 2
+NamedEntity-Organisation: EUNAVFOR |frequenzy: 2
+NamedEntity-Organisation: VN-Mission |frequenzy: 2
+NamedEntity-Organisation: Europäische Parlament |frequenzy: 2
+NamedEntity-Organisation: Bundesinstitut für Risikobewertung |frequenzy: 2
+NamedEntity-Organisation: Ihre Partei |frequenzy: 2
+NamedEntity-Organisation: Daesh |frequenzy: 2
+NamedEntity-Organisation: ERP |frequenzy: 2
+NamedEntity-Organisation: IG Metall |frequenzy: 2
+NamedEntity-Organisation: ElisabethWinkelmeier-BeckerCDU |frequenzy: 2
+NamedEntity-Organisation: Saudi-Arabien |frequenzy: 2
+NamedEntity-Organisation: Lambsdorff |frequenzy: 2
+NamedEntity-Organisation: Pariser Nonsenszielen |frequenzy: 2
+NamedEntity-Organisation: Antrags der Bundesregierung |frequenzy: 2
+NamedEntity-Organisation: Liberalen |frequenzy: 2
+NamedEntity-Organisation: Internationalen Währungsfonds |frequenzy: 2
+NamedEntity-Organisation: EUNAVFOR MED |frequenzy: 2
+NamedEntity-Organisation: Effizienz |frequenzy: 2
+NamedEntity-Organisation: UN-Generalsekretär |frequenzy: 2
+NamedEntity-Organisation: General Electric |frequenzy: 2
+NamedEntity-Organisation: Tarifpartnern |frequenzy: 2
+NamedEntity-Organisation: Bundesagentur für Arbeit |frequenzy: 2
+NamedEntity-Organisation: Deutschen BundeswehrVerbandes |frequenzy: 2
+NamedEntity-Organisation: Ausbildungsmission |frequenzy: 2
+NamedEntity-Organisation: Multidimensionalen Integrierten Stabilisierungsmission |frequenzy: 2
+NamedEntity-Organisation: Einsatzes der Bundeswehr |frequenzy: 2
+NamedEntity-Organisation: Küstenwache |frequenzy: 2
+NamedEntity-Organisation: Wir Freie Demokraten |frequenzy: 2
+NamedEntity-Organisation: Notice and take down |frequenzy: 2
+NamedEntity-Organisation: YPG |frequenzy: 2
+NamedEntity-Organisation: Kommune |frequenzy: 2
+NamedEntity-Organisation: Monsanto |frequenzy: 2
+NamedEntity-Organisation: deutsche Parlament |frequenzy: 2
+NamedEntity-Organisation: Europäische Rat |frequenzy: 2
+NamedEntity-Organisation: VDS |frequenzy: 1
+NamedEntity-Organisation: Mission beteiligter Nationen |frequenzy: 1
+NamedEntity-Organisation: Bundesinstitut |frequenzy: 1
+NamedEntity-Organisation: Thyssen |frequenzy: 1
+NamedEntity-Organisation: BundeswehrVerband |frequenzy: 1
+NamedEntity-Organisation: Europas |frequenzy: 1
+NamedEntity-Organisation: Resolute Support Mission |frequenzy: 1
+NamedEntity-Organisation: Ihres Vorredners |frequenzy: 1
+NamedEntity-Organisation: Ihrem Wahlprogramm |frequenzy: 1
+NamedEntity-Organisation: Europäischen Investitionsbank  |frequenzy: 1
+NamedEntity-Organisation: Mission Sea Guardian |frequenzy: 1
+NamedEntity-Organisation: Schengen-Raumes |frequenzy: 1
+NamedEntity-Organisation: Streitkräfte im Nordirak |frequenzy: 1
+NamedEntity-Organisation: Liebe Kolleginnen! |frequenzy: 1
+NamedEntity-Organisation: Europäischen Union – das |frequenzy: 1
+NamedEntity-Organisation: Pestizid- |frequenzy: 1
+NamedEntity-Organisation: Siemens-Werk |frequenzy: 1
+NamedEntity-Organisation: Irak |frequenzy: 1
+NamedEntity-Organisation: Schutzsuchende! |frequenzy: 1
+NamedEntity-Organisation: Multis |frequenzy: 1
+NamedEntity-Organisation: EU-Beratungsmission |frequenzy: 1
+NamedEntity-Organisation: Anfangsziele |frequenzy: 1
+NamedEntity-Organisation: Thorsten Frei |frequenzy: 1
+NamedEntity-Organisation: Bunt-FDP |frequenzy: 1
+NamedEntity-Organisation: Europäischen Verteidigungsunion |frequenzy: 1
+NamedEntity-Organisation: Fug |frequenzy: 1
+NamedEntity-Organisation: Par­adise Papers |frequenzy: 1
+NamedEntity-Organisation: EU-Parlament |frequenzy: 1
+NamedEntity-Organisation: CSUFlorian |frequenzy: 1
+NamedEntity-Organisation: deutsche Außen- und Sicherheitspolitik |frequenzy: 1
+NamedEntity-Organisation: Strafbarkeit |frequenzy: 1
+NamedEntity-Organisation: PS |frequenzy: 1
+NamedEntity-Organisation: ThorstenFreiCDU |frequenzy: 1
+NamedEntity-Organisation: Weimarer Republik |frequenzy: 1
+NamedEntity-Organisation: UNAMID-Mandat |frequenzy: 1
+NamedEntity-Organisation: KMK |frequenzy: 1
+NamedEntity-Organisation: NATO-Partner |frequenzy: 1
+NamedEntity-Organisation: Europäische Verteidigungsfonds |frequenzy: 1
+NamedEntity-Organisation: EU-Bluecard-Aufenthaltstitel |frequenzy: 1
+NamedEntity-Organisation: Landwirtschaftsminister |frequenzy: 1
+NamedEntity-Organisation: Bundesamt für Verbraucherschutz und Lebensmittelsicherheit |frequenzy: 1
+NamedEntity-Organisation: Europäischen Rats |frequenzy: 1
+NamedEntity-Organisation: Hause |frequenzy: 1
+NamedEntity-Organisation: Mannesmann |frequenzy: 1
+NamedEntity-Organisation: VN-Sicherheitsrat |frequenzy: 1
+NamedEntity-Organisation: Internationalen Gerichtshof |frequenzy: 1
+NamedEntity-Organisation: Bund und Ländern |frequenzy: 1
+NamedEntity-Organisation: Union Schulterzucken |frequenzy: 1
+NamedEntity-Organisation: EU-Mitglieder |frequenzy: 1
+NamedEntity-Organisation: PKK |frequenzy: 1
+NamedEntity-Organisation: Antiterrorkampfes |frequenzy: 1
+NamedEntity-Organisation: à la Hollywood |frequenzy: 1
+NamedEntity-Organisation: Blauen Karte EU |frequenzy: 1
+NamedEntity-Organisation: Bundesamt für Migration und Flüchtlinge |frequenzy: 1
+NamedEntity-Organisation: Bund für die Länder |frequenzy: 1
+NamedEntity-Organisation: Amnesty International |frequenzy: 1
+NamedEntity-Organisation: UN-Ideologen |frequenzy: 1
+NamedEntity-Organisation: Vereinten Nationen für internationale Sicherheit und Weltfrieden |frequenzy: 1
+NamedEntity-Organisation: christlichen Union |frequenzy: 1
+NamedEntity-Organisation: Stiftung Wissenschaft und Politik |frequenzy: 1
+NamedEntity-Organisation: Europäische Union  |frequenzy: 1
+NamedEntity-Organisation: Wand |frequenzy: 1
+NamedEntity-Organisation: Europäische Union international die Initiative |frequenzy: 1
+NamedEntity-Organisation: Instituts der deutschen Wirtschaft |frequenzy: 1
+NamedEntity-Organisation: Sozialdemokrat |frequenzy: 1
+NamedEntity-Organisation: Wertpapiere |frequenzy: 1
+NamedEntity-Organisation: Unrechtsbewusstsein |frequenzy: 1
+NamedEntity-Organisation: AfD Herr Dr   |frequenzy: 1
+NamedEntity-Organisation: Huthi |frequenzy: 1
+NamedEntity-Organisation: IS-Schreckensherrschaft |frequenzy: 1
+NamedEntity-Organisation: Gemeinschaft |frequenzy: 1
+NamedEntity-Organisation: Unglücks |frequenzy: 1
+NamedEntity-Organisation: deutschen Abstimmungsverhaltens |frequenzy: 1
+NamedEntity-Organisation: BA |frequenzy: 1
+NamedEntity-Organisation: Agentur für Arbeit |frequenzy: 1
+NamedEntity-Organisation: Le Monde |frequenzy: 1
+NamedEntity-Organisation: Lehman Brothers |frequenzy: 1
+NamedEntity-Organisation: europäische Sicherheitsunion |frequenzy: 1
+NamedEntity-Organisation: Europäischen Sicherheits- und Verteidigungspolitik |frequenzy: 1
+NamedEntity-Organisation: StefanKaufmannCDU |frequenzy: 1
+NamedEntity-Organisation: SPD-Parteivorsitzenden |frequenzy: 1
+NamedEntity-Organisation: Bewertungsmethoden |frequenzy: 1
+NamedEntity-Organisation: Minister Schmidt |frequenzy: 1
+NamedEntity-Organisation: US-Air-Base Ramstein |frequenzy: 1
+NamedEntity-Organisation: GUS |frequenzy: 1
+NamedEntity-Organisation: BundesregierungFortsetzung |frequenzy: 1
+NamedEntity-Organisation: Artikel-5-Komponente |frequenzy: 1
+NamedEntity-Organisation: Division „Power and Gas |frequenzy: 1
+NamedEntity-Organisation: GRÜNENMaria Klein-Schmeink |frequenzy: 1
+NamedEntity-Organisation: Kreditanstalt für Wiederaufbau |frequenzy: 1
+NamedEntity-Organisation: Europäischen Bürgerinitiative |frequenzy: 1
+NamedEntity-Organisation: EU-Militärunion |frequenzy: 1
+NamedEntity-Organisation: Irish Bank |frequenzy: 1
+NamedEntity-Organisation: Rheinmetall |frequenzy: 1
+NamedEntity-Organisation: EU-Bürokraten |frequenzy: 1
+NamedEntity-Organisation: US-Behörde |frequenzy: 1
+NamedEntity-Organisation: Streitkräfte des Landes |frequenzy: 1
+NamedEntity-Organisation: UN-Angaben |frequenzy: 1
+NamedEntity-Organisation: Blauhelmsoldaten |frequenzy: 1
+NamedEntity-Organisation: Internationale Kampagne |frequenzy: 1
+NamedEntity-Organisation: EU-Verordnungen |frequenzy: 1
+NamedEntity-Organisation: Verteidigungsministerium |frequenzy: 1
+NamedEntity-Organisation: Tag der Unabhängigkeit |frequenzy: 1
+NamedEntity-Organisation: DDR |frequenzy: 1
+NamedEntity-Organisation: Konstrukt IS |frequenzy: 1
+NamedEntity-Organisation: BenQ |frequenzy: 1
+NamedEntity-Organisation: Sowjets |frequenzy: 1
+NamedEntity-Organisation: EU-Zentralisierungspolitik |frequenzy: 1
+NamedEntity-Organisation: Glyphosat für Gesundheit und Natur |frequenzy: 1
+NamedEntity-Organisation: Terrormiliz IS |frequenzy: 1
+NamedEntity-Organisation: EU-Haushalt |frequenzy: 1
+NamedEntity-Organisation: al-Qaida |frequenzy: 1
+NamedEntity-Organisation: europäischen Partnern |frequenzy: 1
+NamedEntity-Organisation: IWF-Experten |frequenzy: 1
+NamedEntity-Organisation: Verlässlichkeit –  |frequenzy: 1
+NamedEntity-Organisation: Finanzminister Wolfgang Schäuble |frequenzy: 1
+NamedEntity-Organisation: SPD-Außenministern |frequenzy: 1
+NamedEntity-Organisation: Bayer |frequenzy: 1
+NamedEntity-Organisation: Managementfehler |frequenzy: 1
+NamedEntity-Organisation: Bundes für die Schulen im Land |frequenzy: 1
+NamedEntity-Organisation: Deutsche Gesellschaft für die Vereinten Nationen |frequenzy: 1
+NamedEntity-Organisation: Weltwelche Tonne CO 2 |frequenzy: 1
+NamedEntity-Organisation: United Nations Hybrid Operation |frequenzy: 1
+NamedEntity-Organisation: Irland |frequenzy: 1
+NamedEntity-Organisation: afghanischen Streitkräfte |frequenzy: 1
+NamedEntity-Organisation: Europäischen Rates |frequenzy: 1
+NamedEntity-Organisation: Liebe FDP |frequenzy: 1
+NamedEntity-Organisation: Anschlags |frequenzy: 1
+NamedEntity-Organisation: Rheinisch-Westfälischen Technischen Hochschule Aachen |frequenzy: 1
+NamedEntity-Organisation: Friedenspartei |frequenzy: 1
+NamedEntity-Organisation: FlorianHahnCDU |frequenzy: 1
+NamedEntity-Organisation: Mittal |frequenzy: 1
+NamedEntity-Organisation: Air Base Ramstein |frequenzy: 1
+NamedEntity-Organisation: Ausbildungs- und Arbeitsmigration |frequenzy: 1
+NamedEntity-Organisation: KirstenTackmannDIE |frequenzy: 1
+NamedEntity-Organisation: Hausnummern |frequenzy: 1
+NamedEntity-Organisation: Radikale Rebellengruppen |frequenzy: 1
+NamedEntity-Organisation: Bundesministerium der Verteidigung  |frequenzy: 1
+NamedEntity-Organisation: NotzBÜNDNIS 90/ |frequenzy: 1
+NamedEntity-Organisation: fatal |frequenzy: 1
+NamedEntity-Organisation: Europäischen Union für gemeinsame Investitionen |frequenzy: 1
+NamedEntity-Organisation: Sicherheitsrats der Vereinten Nationen |frequenzy: 1
+NamedEntity-Organisation: irakische Regierung |frequenzy: 1
+NamedEntity-Organisation: Erfurt! |frequenzy: 1
+NamedEntity-Organisation: Katar |frequenzy: 1
+NamedEntity-Organisation: die Grünen zu Freien Demokraten |frequenzy: 1
+NamedEntity-Organisation: Managementfehlern |frequenzy: 1
+NamedEntity-Organisation: DIGITAL FIRST |frequenzy: 1
+NamedEntity-Organisation: brutalen IS |frequenzy: 1
+NamedEntity-Organisation: Tata Steel |frequenzy: 1
+NamedEntity-Organisation: Jesidinnen und Jesiden |frequenzy: 1
+NamedEntity-Organisation: libanesischen Küste |frequenzy: 1
+NamedEntity-Organisation: Kriegsvölkerrechtes |frequenzy: 1
+NamedEntity-Organisation: Ministerium |frequenzy: 1
+NamedEntity-Organisation: ESM |frequenzy: 1
+NamedEntity-Organisation: Nokia |frequenzy: 1
+NamedEntity-Organisation: SED |frequenzy: 1
+NamedEntity-Organisation: OMT |frequenzy: 1
+NamedEntity-Organisation: Europäischen Währungsunion |frequenzy: 1
+NamedEntity-Organisation: EU-Mitgliedstaaten |frequenzy: 1
+NamedEntity-Organisation: IG Metall |frequenzy: 1
+NamedEntity-Organisation: coparion |frequenzy: 1
+NamedEntity-Organisation: Bund-Länder-Programm |frequenzy: 1
+NamedEntity-Organisation: Herrn Minister Schmidt |frequenzy: 1
+NamedEntity-Organisation: Counter Daesh |frequenzy: 1
+NamedEntity-Organisation: Gesellschaft  |frequenzy: 1
+NamedEntity-Organisation: wir Freien Demokraten |frequenzy: 1
+NamedEntity-Organisation: Kohlekraftwerke |frequenzy: 1
+NamedEntity-Organisation: UNMISS-Soldaten |frequenzy: 1
+NamedEntity-Organisation: amerikanischen Regierung |frequenzy: 1
+NamedEntity-Organisation: Müller-Homann-Gruppe |frequenzy: 1
+NamedEntity-Organisation: Siemens AG |frequenzy: 1
+NamedEntity-Organisation: Sicherheitssektors |frequenzy: 1
+NamedEntity-Organisation: Luftwaffe |frequenzy: 1
+NamedEntity-Organisation: Force conjointe du G 5 Sahel |frequenzy: 1
+NamedEntity-Organisation: European Recovery Program  |frequenzy: 1
+NamedEntity-Organisation: Washington Post |frequenzy: 1
+NamedEntity-Organisation: Bankkredit |frequenzy: 1
+NamedEntity-Organisation: Menschenrettung |frequenzy: 1
+NamedEntity-Organisation: Paradise Papers |frequenzy: 1
+NamedEntity-Organisation: NATO Libyen |frequenzy: 1
+NamedEntity-Organisation: Europas Besonderheit |frequenzy: 1
+NamedEntity-Organisation: Nigger |frequenzy: 1
+NamedEntity-Organisation: Soziale Marktwirtschaft |frequenzy: 1
+NamedEntity-Organisation: Die Grünen Dr  Konstantin von Notz |frequenzy: 1
+NamedEntity-Organisation: Rede Macrons |frequenzy: 1
+NamedEntity-Organisation: Alleiniges |frequenzy: 1
+NamedEntity-Organisation: Bund für den Kitaausbau |frequenzy: 1
+NamedEntity-Organisation: Venture Capital Fonds |frequenzy: 1
+NamedEntity-Organisation: Gesellschaft! |frequenzy: 1
+NamedEntity-Organisation: Freie Syrische Armee |frequenzy: 1
+NamedEntity-Organisation: Tarifvertrag Soziales |frequenzy: 1
+NamedEntity-Organisation: Arbeitsplatzwechsel |frequenzy: 1
+NamedEntity-Organisation: Arabischen Liga |frequenzy: 1
+NamedEntity-Organisation: KfW IPEX-Bank GmbH |frequenzy: 1
+NamedEntity-Organisation: GRÜNENOliver |frequenzy: 1
+NamedEntity-Organisation: Prinzips |frequenzy: 1
+NamedEntity-Organisation: CSU-geführten Regierung |frequenzy: 1
+NamedEntity-Organisation: Bund-Länder-Zusammenarbeit |frequenzy: 1
+NamedEntity-Organisation: Abdel-Samad |frequenzy: 1
+NamedEntity-Organisation: Der Spiegel |frequenzy: 1
+NamedEntity-Organisation: Deutsche Bahn |frequenzy: 1
+NamedEntity-Organisation: Kooperationsverbot! |frequenzy: 1
+NamedEntity-Organisation: NATO-Mission Sea Guardian |frequenzy: 1
+NamedEntity-Organisation: Deutsche Investitions- und Entwicklungsgesellschaft |frequenzy: 1
+NamedEntity-Organisation: World Relief |frequenzy: 1
+NamedEntity-Organisation: Tata |frequenzy: 1
+NamedEntity-Organisation: FAO-Agentur |frequenzy: 1
+NamedEntity-Organisation: Organisation für das Verbot chemischer Waffen |frequenzy: 1
+NamedEntity-Organisation: Konkret |frequenzy: 1
+NamedEntity-Organisation: Sonderberichterstatters für |frequenzy: 1
+NamedEntity-Organisation: EU-Kommissarin |frequenzy: 1
+NamedEntity-Organisation: Deutsche Krankenhausgesellschaft |frequenzy: 1
+NamedEntity-Organisation: Ernährungs- und Landwirtschaftsorganisation |frequenzy: 1
+NamedEntity-Organisation: Kollege Annen |frequenzy: 1
+NamedEntity-Organisation: Europäische Bürgerinitiative |frequenzy: 1
+NamedEntity-Organisation: AQIM |frequenzy: 1
+NamedEntity-Organisation: Deutschen Bank |frequenzy: 1
+NamedEntity-Organisation: Unsere Soldatinnen |frequenzy: 1
+NamedEntity-Organisation: ’s! |frequenzy: 1
+NamedEntity-Organisation: FDP Und |frequenzy: 1
+NamedEntity-Organisation: Cyberabwehr |frequenzy: 1
+NamedEntity-Organisation: NATO-AWACS |frequenzy: 1
+NamedEntity-Organisation: EU-Binnenmarkt |frequenzy: 1
+NamedEntity-Organisation: Siemens-Werke |frequenzy: 1
+NamedEntity-Organisation: Erbil |frequenzy: 1
+NamedEntity-Organisation: Afghanistan |frequenzy: 1
+NamedEntity-Organisation: BND |frequenzy: 1
+NamedEntity-Organisation: Siemens! |frequenzy: 1
+NamedEntity-Organisation: BEPS |frequenzy: 1
+NamedEntity-Organisation: lesen;denn |frequenzy: 1
+NamedEntity-Organisation: Dumpingpreisen |frequenzy: 1
+NamedEntity-Organisation: Initiative Neue Soziale Marktwirtschaft |frequenzy: 1
+NamedEntity-Organisation: Finanzministeriums |frequenzy: 1
+NamedEntity-Organisation: Kollege Gehring |frequenzy: 1
+NamedEntity-Organisation: Oxfam |frequenzy: 1
+NamedEntity-Organisation: Ausschusses für Wirtschaft und Energie |frequenzy: 1
+NamedEntity-Organisation: Global Forum on Steel |frequenzy: 1
+NamedEntity-Organisation: Sahra Wagenknecht |frequenzy: 1
+NamedEntity-Organisation: Allianz |frequenzy: 1
+NamedEntity-Organisation: Herrschaft Europa |frequenzy: 1
+NamedEntity-Organisation: Streitkräften |frequenzy: 1
+NamedEntity-Organisation: Uns Grünen |frequenzy: 1
+NamedEntity-Organisation: SPD-Papier |frequenzy: 1
+NamedEntity-Organisation: OCHA |frequenzy: 1
+NamedEntity-Organisation: IPPNW |frequenzy: 1
+NamedEntity-Organisation: BEPS-Initiative |frequenzy: 1
+NamedEntity-Organisation: SPD-Minister |frequenzy: 1
+NamedEntity-Organisation: Deutsche Reich |frequenzy: 1
+NamedEntity-Organisation: Philipp Holzmann AG |frequenzy: 1
+NamedEntity-Organisation: AuswärtigenBundesminister |frequenzy: 1
+NamedEntity-Organisation: Bundes Deutscher Verwaltungsrichter |frequenzy: 1
+NamedEntity-Organisation: Abgeordneter |frequenzy: 1
+NamedEntity-Organisation: UN-Charta |frequenzy: 1
+NamedEntity-Organisation: Islamischen Staats“ Die Kämpferinnen und Kämpfer |frequenzy: 1
+NamedEntity-Organisation: KfW  Angesichts Ihres Duktus |frequenzy: 1
+NamedEntity-Organisation: Green Climate Fund |frequenzy: 1
+NamedEntity-Organisation: Vorbedingungen |frequenzy: 1
+NamedEntity-Organisation: meiner Partei |frequenzy: 1
+NamedEntity-Organisation: KFOR-Mandat |frequenzy: 1
+NamedEntity-Organisation: EU-Parlaments |frequenzy: 1
+NamedEntity-Organisation: EZB-Politik |frequenzy: 1
+NamedEntity-Organisation: Sozialdemokratische Partei Deutschlands |frequenzy: 1
+NamedEntity-Organisation: UN-Sonderberichterstatter für Meinungsfreiheit |frequenzy: 1
+NamedEntity-Organisation: gefährlichste UN-Mission |frequenzy: 1
+NamedEntity-Organisation: IT-Systeme |frequenzy: 1
+NamedEntity-Organisation: Mission Resolute Support |frequenzy: 1
+NamedEntity-Organisation: Warum |frequenzy: 1
+NamedEntity-Organisation: Lindners |frequenzy: 1
+NamedEntity-Organisation: EPA |frequenzy: 1
+NamedEntity-Organisation: Schulpreisen |frequenzy: 1
+NamedEntity-Organisation: Siemens Werke |frequenzy: 1
+NamedEntity-Organisation: Haus- und Kleingartenbereich |frequenzy: 1
+NamedEntity-Organisation: Wir Demokraten |frequenzy: 1
+NamedEntity-Organisation: Binnenmigration |frequenzy: 1
+NamedEntity-Organisation: AdR |frequenzy: 1
+NamedEntity-Organisation: Hartmann |frequenzy: 1
+NamedEntity-Organisation: CSUHermann |frequenzy: 1
+NamedEntity-Organisation: Internationalen Agentur für Krebsforschung |frequenzy: 1
+NamedEntity-Organisation: UN-Mandats |frequenzy: 1
+NamedEntity-Organisation: libysche Küstenwache |frequenzy: 1
+NamedEntity-Organisation: Dänemark |frequenzy: 1
+NamedEntity-Organisation: Kündigungsschutz |frequenzy: 1
+NamedEntity-Organisation: AFISMA |frequenzy: 1
+NamedEntity-Organisation: Regierungsbank |frequenzy: 1
+NamedEntity-Organisation: Kollege Dürr |frequenzy: 1
+NamedEntity-Organisation: RSM |frequenzy: 1
+NamedEntity-Organisation: Dr  Harbarth |frequenzy: 1
+NamedEntity-Organisation: FAO |frequenzy: 1
+NamedEntity-Organisation: Einsatzgruppenversorgers |frequenzy: 1
+NamedEntity-Organisation: Putin |frequenzy: 1
+NamedEntity-Organisation: Security Sector Reform |frequenzy: 1
+NamedEntity-Organisation: Regierungsarmee |frequenzy: 1
+NamedEntity-Organisation: Hinten |frequenzy: 1
+NamedEntity-Organisation: Standorts |frequenzy: 1
+NamedEntity-Organisation: Deutsche Ethikrat |frequenzy: 1
+NamedEntity-Organisation: EU-Armee |frequenzy: 1
+NamedEntity-Organisation: UN-Welternährungsprogramm |frequenzy: 1
+NamedEntity-Organisation: Deutsche Bundesbank |frequenzy: 1
+NamedEntity-Organisation: Social Media |frequenzy: 1
+NamedEntity-Organisation: EU-Verträge |frequenzy: 1
+NamedEntity-Organisation: Bundesamt |frequenzy: 1
+NamedEntity-Organisation: französische Regierung |frequenzy: 1
+NamedEntity-Organisation: Hauruck-Umschwungs |frequenzy: 1
+NamedEntity-Organisation: Saudi Arabien |frequenzy: 1
+NamedEntity-Organisation: Wir Grünen |frequenzy: 1
+NamedEntity-Organisation: Einziehen der Steuerschulden |frequenzy: 1
+NamedEntity-Organisation: Herrschaft der Taliban |frequenzy: 1
+NamedEntity-Organisation: GRÜNENRenate |frequenzy: 1
+NamedEntity-Organisation: Beteiligung deutscher Streitkräfte |frequenzy: 1
+NamedEntity-Organisation: Danke! |frequenzy: 1
+NamedEntity-Organisation: Interessenlage Russlands |frequenzy: 1
+NamedEntity-Organisation: Assad-Regimes |frequenzy: 1
+NamedEntity-Organisation: Venture Capital |frequenzy: 1
+NamedEntity-Organisation: Tonne! |frequenzy: 1
+NamedEntity-Organisation: Europäischen Gerichtshofes |frequenzy: 1
+NamedEntity-Organisation: Europäischen Gerichtshofs |frequenzy: 1
+NamedEntity-Organisation: deutsche Polizei |frequenzy: 1
+NamedEntity-Organisation: Unsere Gesellschaft |frequenzy: 1
+NamedEntity-Organisation: Höchst |frequenzy: 1
+NamedEntity-Organisation: EWG |frequenzy: 1
+NamedEntity-Organisation: China |frequenzy: 1
+NamedEntity-Organisation: Marktreife |frequenzy: 1
+NamedEntity-Organisation: Friedrich-Ebert-Stiftung |frequenzy: 1
+NamedEntity-Organisation: Europäischen Parlament |frequenzy: 1
+NamedEntity-Organisation: NATO-Imperialpolitik |frequenzy: 1
+NamedEntity-Organisation: Bundesministerium der Verteidigung |frequenzy: 1
+NamedEntity-Organisation: Europäische Zentralbank |frequenzy: 1
+NamedEntity-Organisation: AU |frequenzy: 1
+NamedEntity-Organisation: Weltgesundheitsorganisation |frequenzy: 1
+NamedEntity-Organisation: UN-Waffenembargo |frequenzy: 1
+NamedEntity-Organisation: Kurs |frequenzy: 1
+NamedEntity-Organisation: Europäischen Zentralbank Nachteile |frequenzy: 1
+NamedEntity-Organisation: MRS |frequenzy: 1
+NamedEntity-Organisation: Deutschlands Sicherheit |frequenzy: 1
+NamedEntity-Organisation: BMEL |frequenzy: 1
+NamedEntity-Organisation: Glyphosat-Wirkung |frequenzy: 1
+NamedEntity-Organisation: Milliardeninvestitionen |frequenzy: 1
+NamedEntity-Organisation: Bertelsmann-Stiftung |frequenzy: 1
+NamedEntity-Organisation: UNMISS-Mandat |frequenzy: 1
+NamedEntity-Organisation: EZB-Beschlüsse |frequenzy: 1
+NamedEntity-Organisation: StephanMayerCDU |frequenzy: 1
+NamedEntity-Organisation: NATO-Staaten |frequenzy: 1
+NamedEntity-Organisation: britische Parlament |frequenzy: 1
+NamedEntity-Organisation: Schlagkraft |frequenzy: 1
+NamedEntity-Organisation: UN-Truppen |frequenzy: 1
+NamedEntity-Organisation: Liebe Gäste |frequenzy: 1
+NamedEntity-Organisation: Sächsischen Zeitung |frequenzy: 1
+NamedEntity-Organisation: Anpassungsprogrammes |frequenzy: 1
+NamedEntity-Organisation: ERP-Sondervermögens |frequenzy: 1
+NamedEntity-Organisation: UN-Kinderhilfswerk |frequenzy: 1
+NamedEntity-Organisation: EU-Bürgerinnen |frequenzy: 1
+NamedEntity-Organisation: Herzen |frequenzy: 1
+NamedEntity-Organisation: Autonomiebehörde |frequenzy: 1
+NamedEntity-Organisation: UN-Weltklimakonferenz |frequenzy: 1
+NamedEntity-Organisation: Capacity Building |frequenzy: 1
+NamedEntity-Organisation: deutschen Finanzministers |frequenzy: 1
+NamedEntity-Organisation: Bildung |frequenzy: 1
+NamedEntity-Organisation: Siemens AG |frequenzy: 1
+NamedEntity-Organisation: JürgenHardtCDU |frequenzy: 1
+NamedEntity-Organisation: EFSA-Studien |frequenzy: 1
+NamedEntity-Organisation: französische Armee |frequenzy: 1
+NamedEntity-Organisation: Bundesbank |frequenzy: 1
+NamedEntity-Organisation: Grosse-Brömer |frequenzy: 1
+NamedEntity-Organisation: EU-Verfassung |frequenzy: 1
+NamedEntity-Organisation: Fed |frequenzy: 1
+NamedEntity-Organisation: Organisation des Terrors |frequenzy: 1
+NamedEntity-Organisation: NATO In |frequenzy: 1
+NamedEntity-Organisation: Rates für Allgemeine Angelegenheiten zur Ständigen |frequenzy: 1
+NamedEntity-Organisation: Damoklesschwert Kohle |frequenzy: 1
+NamedEntity-Organisation: Liberalala |frequenzy: 1
+NamedEntity-Organisation: Bundesnachrichtendienstes |frequenzy: 1
+NamedEntity-Organisation: Reichstags |frequenzy: 1
+NamedEntity-Organisation: SPD-geführten Gewerkschaften |frequenzy: 1
+NamedEntity-Organisation: IS-Herrschaft |frequenzy: 1
+NamedEntity-Organisation: Nastic |frequenzy: 1
+NamedEntity-Organisation: UNHCR |frequenzy: 1
+NamedEntity-Organisation: FDP-Vorschlag |frequenzy: 1
+NamedEntity-Organisation: Europäischen Finanzstabilisierungsmechanismus |frequenzy: 1
+NamedEntity-Organisation: Meinungs-TÜV |frequenzy: 1
+NamedEntity-Organisation: Tarif Ost |frequenzy: 1
+NamedEntity-Organisation: Irland Kredite |frequenzy: 1
+NamedEntity-Organisation: Dieselruß |frequenzy: 1
+NamedEntity-Organisation: AFRICOM Stuttgart |frequenzy: 1
+NamedEntity-Organisation: Bluecard-Inhaber |frequenzy: 1
+NamedEntity-Organisation: CARE |frequenzy: 1
+NamedEntity-Organisation: Julius-Kühn-Institut |frequenzy: 1
+NamedEntity-Organisation: EU-Mission |frequenzy: 1
+NamedEntity-Organisation: UNICEF |frequenzy: 1
+NamedEntity-Organisation: EZB-System |frequenzy: 1
+NamedEntity-Organisation: Europäischem Rat |frequenzy: 1
+NamedEntity-Organisation: MINUSMA |frequenzy: 1
+NamedEntity-Organisation: Digitalisierungs-FDP |frequenzy: 1
+NamedEntity-Organisation: NAFTA |frequenzy: 1
+NamedEntity-Organisation: Gemeinschaft für Verbindlichkeiten der Mitgliedstaaten |frequenzy: 1
+NamedEntity-Organisation: NGOs |frequenzy: 1
+NamedEntity-Organisation: Wirtschafts- und Währungsunion |frequenzy: 1
+NamedEntity-Organisation: YPG Herr de Maizière |frequenzy: 1
+NamedEntity-Organisation: Deutschen Bundesbank |frequenzy: 1
+NamedEntity-Organisation: Bundestagsabgeordneter |frequenzy: 1
+NamedEntity-Organisation: Vereinten Nationen im Jahr 2007 |frequenzy: 1
+NamedEntity-Organisation: Ihrer Partei |frequenzy: 1
+NamedEntity-Organisation: EU-Partner |frequenzy: 1
+NamedEntity-Organisation: Außen- und Sicherheitspolitik |frequenzy: 1
+NamedEntity-Organisation: Katholische Arbeitsgemeinschaft für Soldatenbetreuung |frequenzy: 1
+NamedEntity-Organisation: Siemens-Werke Ihnen |frequenzy: 1
+NamedEntity-Organisation: Mission Counter Daesh |frequenzy: 1
+NamedEntity-Organisation: KfW-Bankengruppe |frequenzy: 1

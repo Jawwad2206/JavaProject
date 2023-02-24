@@ -1,0 +1,955 @@
+NamedEntity-Location: Deutschland |frequenzy: 166
+NamedEntity-Location: Europa |frequenzy: 62
+NamedEntity-Location: Syrien |frequenzy: 44
+NamedEntity-Location: Landes |frequenzy: 32
+NamedEntity-Location: Irak |frequenzy: 31
+NamedEntity-Location: Deutschlands |frequenzy: 28
+NamedEntity-Location: Staaten |frequenzy: 28
+NamedEntity-Location: Afghanistan |frequenzy: 24
+NamedEntity-Location: Berlin |frequenzy: 20
+NamedEntity-Location: Iran |frequenzy: 18
+NamedEntity-Location: Europas |frequenzy: 18
+NamedEntity-Location: Mittelmeer |frequenzy: 17
+NamedEntity-Location: Zweitens |frequenzy: 17
+NamedEntity-Location: Saudi-Arabien |frequenzy: 16
+NamedEntity-Location: Kurden |frequenzy: 16
+NamedEntity-Location: USA |frequenzy: 16
+NamedEntity-Location: Mali |frequenzy: 15
+NamedEntity-Location: Paris |frequenzy: 15
+NamedEntity-Location: Bundesrepublik Deutschland |frequenzy: 15
+NamedEntity-Location: Russland |frequenzy: 14
+NamedEntity-Location: Erstens |frequenzy: 14
+NamedEntity-Location: Frankreich |frequenzy: 14
+NamedEntity-Location: Bundesverfassungsgericht |frequenzy: 13
+NamedEntity-Location: Afrika |frequenzy: 13
+NamedEntity-Location: Bund |frequenzy: 13
+NamedEntity-Location: Brüssel |frequenzy: 13
+NamedEntity-Location: Irland |frequenzy: 13
+NamedEntity-Location: Hohen Hause |frequenzy: 12
+NamedEntity-Location: Erfurt |frequenzy: 12
+NamedEntity-Location: Islamische Staat |frequenzy: 12
+NamedEntity-Location: Union |frequenzy: 11
+NamedEntity-Location: Interfraktionell |frequenzy: 11
+NamedEntity-Location: Görlitz |frequenzy: 11
+NamedEntity-Location: China |frequenzy: 11
+NamedEntity-Location: Türkei |frequenzy: 11
+NamedEntity-Location: Syriens |frequenzy: 10
+NamedEntity-Location: Großbritannien |frequenzy: 10
+NamedEntity-Location: Islamischen Staat |frequenzy: 10
+NamedEntity-Location: Hohen Haus |frequenzy: 10
+NamedEntity-Location: Libanon |frequenzy: 10
+NamedEntity-Location: Südsudan |frequenzy: 10
+NamedEntity-Location: Libyen |frequenzy: 9
+NamedEntity-Location: Sudan |frequenzy: 9
+NamedEntity-Location: Bagdad |frequenzy: 9
+NamedEntity-Location: Nordirak |frequenzy: 9
+NamedEntity-Location: Darfur |frequenzy: 9
+NamedEntity-Location: Drittens |frequenzy: 9
+NamedEntity-Location: Leyen |frequenzy: 9
+NamedEntity-Location: Brexit |frequenzy: 8
+NamedEntity-Location: Land |frequenzy: 8
+NamedEntity-Location: Glyphosat |frequenzy: 8
+NamedEntity-Location: Erbil |frequenzy: 7
+NamedEntity-Location: Leipzig |frequenzy: 7
+NamedEntity-Location: Jemen |frequenzy: 7
+NamedEntity-Location: Islamischen Staates |frequenzy: 7
+NamedEntity-Location: Afghanistans |frequenzy: 7
+NamedEntity-Location: Bayern |frequenzy: 7
+NamedEntity-Location: Augsburg |frequenzy: 7
+NamedEntity-Location: Bundesrepublik |frequenzy: 7
+NamedEntity-Location: Malis |frequenzy: 7
+NamedEntity-Location: Warum |frequenzy: 6
+NamedEntity-Location: Ägypten |frequenzy: 6
+NamedEntity-Location: Jamaika |frequenzy: 6
+NamedEntity-Location: Israel |frequenzy: 6
+NamedEntity-Location: Mandates |frequenzy: 6
+NamedEntity-Location: Hindukusch |frequenzy: 6
+NamedEntity-Location: Kurdistan-Irak |frequenzy: 6
+NamedEntity-Location: IS |frequenzy: 6
+NamedEntity-Location: Russlands |frequenzy: 6
+NamedEntity-Location: Schweden |frequenzy: 6
+NamedEntity-Location: Plenum |frequenzy: 6
+NamedEntity-Location: Iraks |frequenzy: 6
+NamedEntity-Location: Netzwerkdurchsetzungsgesetzes |frequenzy: 6
+NamedEntity-Location: Bundesverfassungsgerichts |frequenzy: 6
+NamedEntity-Location: Finanzminister |frequenzy: 5
+NamedEntity-Location: europäischen Staaten |frequenzy: 5
+NamedEntity-Location: den USA |frequenzy: 5
+NamedEntity-Location: Konsens |frequenzy: 5
+NamedEntity-Location: Portugal |frequenzy: 5
+NamedEntity-Location: Offensichtlich |frequenzy: 5
+NamedEntity-Location: Bamako |frequenzy: 5
+NamedEntity-Location: Irlands |frequenzy: 5
+NamedEntity-Location: Erde |frequenzy: 5
+NamedEntity-Location: Hetze |frequenzy: 5
+NamedEntity-Location: Lausitz |frequenzy: 5
+NamedEntity-Location: Kabul |frequenzy: 5
+NamedEntity-Location: Italien |frequenzy: 5
+NamedEntity-Location: Bonn |frequenzy: 5
+NamedEntity-Location: Bundes |frequenzy: 5
+NamedEntity-Location: Heidelberg |frequenzy: 5
+NamedEntity-Location: Briten |frequenzy: 5
+NamedEntity-Location: Jordanien |frequenzy: 5
+NamedEntity-Location: Ihrem |frequenzy: 4
+NamedEntity-Location: Amerikaner |frequenzy: 4
+NamedEntity-Location: Schleswig-Holstein |frequenzy: 4
+NamedEntity-Location: Mülheim |frequenzy: 4
+NamedEntity-Location: Offenbach |frequenzy: 4
+NamedEntity-Location: Dänemark |frequenzy: 4
+NamedEntity-Location: Lesen |frequenzy: 4
+NamedEntity-Location: Nein |frequenzy: 4
+NamedEntity-Location: Juba |frequenzy: 4
+NamedEntity-Location: Rot-Grün |frequenzy: 4
+NamedEntity-Location: Kurdistan |frequenzy: 4
+NamedEntity-Location: Spanien |frequenzy: 4
+NamedEntity-Location: Hause |frequenzy: 4
+NamedEntity-Location: Nordirland |frequenzy: 4
+NamedEntity-Location: Afrikas |frequenzy: 4
+NamedEntity-Location: Panama Papers |frequenzy: 4
+NamedEntity-Location: Pariser |frequenzy: 3
+NamedEntity-Location: Krisenzeiten |frequenzy: 3
+NamedEntity-Location: Wagniskapital |frequenzy: 3
+NamedEntity-Location: Krankenhäusern |frequenzy: 3
+NamedEntity-Location: Hohen Hauses |frequenzy: 3
+NamedEntity-Location: Mittelmeerraum |frequenzy: 3
+NamedEntity-Location: Rolle |frequenzy: 3
+NamedEntity-Location: Haustür |frequenzy: 3
+NamedEntity-Location: Thomae |frequenzy: 3
+NamedEntity-Location: Mosul |frequenzy: 3
+NamedEntity-Location: Vereinigten Staaten von Europa |frequenzy: 3
+NamedEntity-Location: Defizite |frequenzy: 3
+NamedEntity-Location: Republik |frequenzy: 3
+NamedEntity-Location: Niedersachsen |frequenzy: 3
+NamedEntity-Location: Erachtens |frequenzy: 3
+NamedEntity-Location: Konzerne |frequenzy: 3
+NamedEntity-Location: Stahlbranche |frequenzy: 3
+NamedEntity-Location: Republik Irland |frequenzy: 3
+NamedEntity-Location: Sachsen |frequenzy: 3
+NamedEntity-Location: Wieso |frequenzy: 3
+NamedEntity-Location: US-Präsident |frequenzy: 3
+NamedEntity-Location: Gao |frequenzy: 3
+NamedEntity-Location: Vereinigten Staaten |frequenzy: 3
+NamedEntity-Location: Islam |frequenzy: 3
+NamedEntity-Location: Nahe |frequenzy: 3
+NamedEntity-Location: Vereinigten Staaten von Amerika |frequenzy: 3
+NamedEntity-Location: Katar |frequenzy: 3
+NamedEntity-Location: Zulassungsbehörden |frequenzy: 3
+NamedEntity-Location: Franzosen |frequenzy: 3
+NamedEntity-Location: Auswärtige Amt |frequenzy: 3
+NamedEntity-Location: Israels |frequenzy: 3
+NamedEntity-Location: Frankreichs |frequenzy: 3
+NamedEntity-Location: Morgen |frequenzy: 3
+NamedEntity-Location: Damaskus |frequenzy: 3
+NamedEntity-Location: Thüringen |frequenzy: 3
+NamedEntity-Location: Niederlande |frequenzy: 3
+NamedEntity-Location: Uns |frequenzy: 3
+NamedEntity-Location: Sorbonne |frequenzy: 3
+NamedEntity-Location: Amerika |frequenzy: 3
+NamedEntity-Location: Versöhnungsprozess |frequenzy: 3
+NamedEntity-Location: Ostdeutschland |frequenzy: 3
+NamedEntity-Location: Masar-i-Scharif |frequenzy: 3
+NamedEntity-Location: Afghanen |frequenzy: 3
+NamedEntity-Location: Kanada |frequenzy: 3
+NamedEntity-Location: Aleppo |frequenzy: 3
+NamedEntity-Location: Polen |frequenzy: 3
+NamedEntity-Location: Kurzum |frequenzy: 3
+NamedEntity-Location: Incirlik |frequenzy: 3
+NamedEntity-Location: Sotschi |frequenzy: 3
+NamedEntity-Location: Beteiligungskapital |frequenzy: 3
+NamedEntity-Location: Lindner |frequenzy: 3
+NamedEntity-Location: Ländern |frequenzy: 3
+NamedEntity-Location: Sahelregion |frequenzy: 2
+NamedEntity-Location: Arbeitnehmerseite |frequenzy: 2
+NamedEntity-Location: Haushaltsüberschüssen |frequenzy: 2
+NamedEntity-Location: pauschal |frequenzy: 2
+NamedEntity-Location: Tisch |frequenzy: 2
+NamedEntity-Location: Atareb |frequenzy: 2
+NamedEntity-Location: Erlangen |frequenzy: 2
+NamedEntity-Location: ­NATO-Einsatz |frequenzy: 2
+NamedEntity-Location: Afghanistan-Einsatz |frequenzy: 2
+NamedEntity-Location: Auslandseinsatz |frequenzy: 2
+NamedEntity-Location: Bremen |frequenzy: 2
+NamedEntity-Location: Griechenland |frequenzy: 2
+NamedEntity-Location: Libanon  |frequenzy: 2
+NamedEntity-Location: Äthiopien |frequenzy: 2
+NamedEntity-Location: Wüste |frequenzy: 2
+NamedEntity-Location: Ungarn |frequenzy: 2
+NamedEntity-Location: Saarland |frequenzy: 2
+NamedEntity-Location: Khartum |frequenzy: 2
+NamedEntity-Location: Jamaika-Verhandlungen |frequenzy: 2
+NamedEntity-Location: Kurs |frequenzy: 2
+NamedEntity-Location: Baden-Württemberg |frequenzy: 2
+NamedEntity-Location: NRW |frequenzy: 2
+NamedEntity-Location: Herr Kubicki |frequenzy: 2
+NamedEntity-Location: Allgemeinen Geschäftsbedingungen |frequenzy: 2
+NamedEntity-Location: Zypern |frequenzy: 2
+NamedEntity-Location: Arbeitsplätzen |frequenzy: 2
+NamedEntity-Location: Fidschi-Inseln |frequenzy: 2
+NamedEntity-Location: Danke |frequenzy: 2
+NamedEntity-Location: al-Azraq |frequenzy: 2
+NamedEntity-Location: Brasilien |frequenzy: 2
+NamedEntity-Location: Kraftwerkssparte |frequenzy: 2
+NamedEntity-Location: Fake News |frequenzy: 2
+NamedEntity-Location: London |frequenzy: 2
+NamedEntity-Location: Flüchtlingslagern |frequenzy: 2
+NamedEntity-Location: Bundesminister |frequenzy: 2
+NamedEntity-Location: Punktesystem |frequenzy: 2
+NamedEntity-Location: Türken |frequenzy: 2
+NamedEntity-Location: Pflegepersonal |frequenzy: 2
+NamedEntity-Location: Pakistan |frequenzy: 2
+NamedEntity-Location: Mortler |frequenzy: 2
+NamedEntity-Location: Seenot |frequenzy: 2
+NamedEntity-Location: Kräfteansatz |frequenzy: 2
+NamedEntity-Location: Niemand |frequenzy: 2
+NamedEntity-Location: Viertens |frequenzy: 2
+NamedEntity-Location: Kanadier |frequenzy: 2
+NamedEntity-Location: Heuchelei |frequenzy: 2
+NamedEntity-Location: Hohe Haus |frequenzy: 2
+NamedEntity-Location: OVG Münster |frequenzy: 2
+NamedEntity-Location: Großbritanniens |frequenzy: 2
+NamedEntity-Location: Problems |frequenzy: 2
+NamedEntity-Location: Konya |frequenzy: 2
+NamedEntity-Location: Start-ups |frequenzy: 2
+NamedEntity-Location: Vereinigten Königreich |frequenzy: 2
+NamedEntity-Location: Nordrhein-Westfalen |frequenzy: 2
+NamedEntity-Location: Bahrain |frequenzy: 2
+NamedEntity-Location: Siemens |frequenzy: 2
+NamedEntity-Location: Abg |frequenzy: 2
+NamedEntity-Location: Millionenhöhe |frequenzy: 2
+NamedEntity-Location: Rheinland-Pfalz |frequenzy: 2
+NamedEntity-Location: Idlib |frequenzy: 2
+NamedEntity-Location: Parallelitätsklausel |frequenzy: 2
+NamedEntity-Location: Kiesewetter |frequenzy: 2
+NamedEntity-Location: Frankfurt am Main |frequenzy: 2
+NamedEntity-Location: Frieden |frequenzy: 2
+NamedEntity-Location: Maas |frequenzy: 2
+NamedEntity-Location: Kalifornien |frequenzy: 2
+NamedEntity-Location: Unterschiede |frequenzy: 2
+NamedEntity-Location: Barcelona |frequenzy: 2
+NamedEntity-Location: Verfassungsgericht |frequenzy: 2
+NamedEntity-Location: New York |frequenzy: 2
+NamedEntity-Location: Kreises |frequenzy: 2
+NamedEntity-Location: Monat |frequenzy: 2
+NamedEntity-Location: Washington |frequenzy: 2
+NamedEntity-Location: Stein |frequenzy: 2
+NamedEntity-Location: Golf |frequenzy: 2
+NamedEntity-Location: Breitscheidplatz |frequenzy: 2
+NamedEntity-Location: Kurdinnen |frequenzy: 2
+NamedEntity-Location: Libyens |frequenzy: 2
+NamedEntity-Location: Milliardenhöhe |frequenzy: 2
+NamedEntity-Location: Sahara |frequenzy: 2
+NamedEntity-Location: Mitgliedern |frequenzy: 2
+NamedEntity-Location: Hauptausschuss |frequenzy: 2
+NamedEntity-Location: Potte |frequenzy: 2
+NamedEntity-Location: Stimmt |frequenzy: 2
+NamedEntity-Location: Paradise Papers |frequenzy: 2
+NamedEntity-Location: Kleinwaffen |frequenzy: 2
+NamedEntity-Location: Anrainerstaaten |frequenzy: 2
+NamedEntity-Location: Problem |frequenzy: 2
+NamedEntity-Location: Hardt |frequenzy: 2
+NamedEntity-Location: Europapolitik |frequenzy: 2
+NamedEntity-Location: Kompromissen |frequenzy: 2
+NamedEntity-Location: Umweltminister |frequenzy: 1
+NamedEntity-Location: Islamischen Staates“ Deswegen |frequenzy: 1
+NamedEntity-Location: Göring-Eckardt |frequenzy: 1
+NamedEntity-Location: Mali  |frequenzy: 1
+NamedEntity-Location: Istanbul |frequenzy: 1
+NamedEntity-Location: Europarecht |frequenzy: 1
+NamedEntity-Location: unternehmens­interner |frequenzy: 1
+NamedEntity-Location: Millionen |frequenzy: 1
+NamedEntity-Location: Sykes-Picot-Abkommen |frequenzy: 1
+NamedEntity-Location: Krankhäusern |frequenzy: 1
+NamedEntity-Location: Praxischeck |frequenzy: 1
+NamedEntity-Location: Opfern |frequenzy: 1
+NamedEntity-Location: KfW  |frequenzy: 1
+NamedEntity-Location: Provisorium |frequenzy: 1
+NamedEntity-Location: Rechtsprechungen |frequenzy: 1
+NamedEntity-Location: Flüchtlingsinitiativen |frequenzy: 1
+NamedEntity-Location: Schwerin |frequenzy: 1
+NamedEntity-Location: Mordaufrufen |frequenzy: 1
+NamedEntity-Location: UN-Charta |frequenzy: 1
+NamedEntity-Location: Steuerzahlerinnen |frequenzy: 1
+NamedEntity-Location: Sea Guardian |frequenzy: 1
+NamedEntity-Location: Weihnachtsgeschenke |frequenzy: 1
+NamedEntity-Location: Förderinstrumentarien |frequenzy: 1
+NamedEntity-Location: Genf |frequenzy: 1
+NamedEntity-Location: Ost-Ghouta |frequenzy: 1
+NamedEntity-Location: Pestiziden |frequenzy: 1
+NamedEntity-Location: Chancengerechtigkeit |frequenzy: 1
+NamedEntity-Location: Pflegebedürftigen |frequenzy: 1
+NamedEntity-Location: Bildungsrepublik |frequenzy: 1
+NamedEntity-Location: Belgiern |frequenzy: 1
+NamedEntity-Location: Riesenzahlen |frequenzy: 1
+NamedEntity-Location: Sicherheitsanforderungen |frequenzy: 1
+NamedEntity-Location: Rakka |frequenzy: 1
+NamedEntity-Location: EIF-Mezzanine-Dachfonds |frequenzy: 1
+NamedEntity-Location: Verzug |frequenzy: 1
+NamedEntity-Location: Notz |frequenzy: 1
+NamedEntity-Location: Sindschar |frequenzy: 1
+NamedEntity-Location: Maghreb |frequenzy: 1
+NamedEntity-Location: Halle |frequenzy: 1
+NamedEntity-Location: Anschlagsopfer |frequenzy: 1
+NamedEntity-Location: Kein Staat |frequenzy: 1
+NamedEntity-Location: Bewohner |frequenzy: 1
+NamedEntity-Location: Richterbund |frequenzy: 1
+NamedEntity-Location: Billigstahl |frequenzy: 1
+NamedEntity-Location: Hessen |frequenzy: 1
+NamedEntity-Location: Lucassen  |frequenzy: 1
+NamedEntity-Location: Sondierungsergebnissen |frequenzy: 1
+NamedEntity-Location: Somalia |frequenzy: 1
+NamedEntity-Location: Selbstbestimmung |frequenzy: 1
+NamedEntity-Location: Kündigungen |frequenzy: 1
+NamedEntity-Location: Liste von Beschlüssen |frequenzy: 1
+NamedEntity-Location: Deutsch Hirn |frequenzy: 1
+NamedEntity-Location: Themenfeldern |frequenzy: 1
+NamedEntity-Location: Steuerzahlern |frequenzy: 1
+NamedEntity-Location: Sicherheitsbedürfnissen |frequenzy: 1
+NamedEntity-Location: Country-by-Country Reporting |frequenzy: 1
+NamedEntity-Location: Zweifelsfällen |frequenzy: 1
+NamedEntity-Location: Leuchttürme |frequenzy: 1
+NamedEntity-Location: Dschihadisten |frequenzy: 1
+NamedEntity-Location: Sharia |frequenzy: 1
+NamedEntity-Location: Ägäis |frequenzy: 1
+NamedEntity-Location: Schreckliches |frequenzy: 1
+NamedEntity-Location: GRÜNENKatharina |frequenzy: 1
+NamedEntity-Location: Dissen |frequenzy: 1
+NamedEntity-Location: Enge |frequenzy: 1
+NamedEntity-Location: Verbandwechsel |frequenzy: 1
+NamedEntity-Location: Uganda |frequenzy: 1
+NamedEntity-Location: Waffenexporten |frequenzy: 1
+NamedEntity-Location: Sandmännchenpolitik |frequenzy: 1
+NamedEntity-Location: Redlichkeit |frequenzy: 1
+NamedEntity-Location: Tarifausgleich |frequenzy: 1
+NamedEntity-Location: Gaziantep |frequenzy: 1
+NamedEntity-Location: Mitarbeitern |frequenzy: 1
+NamedEntity-Location: Schädlingsbekämpfungsmittel |frequenzy: 1
+NamedEntity-Location: Kollaps |frequenzy: 1
+NamedEntity-Location: Finanzierungsmitteln |frequenzy: 1
+NamedEntity-Location: Migrationsrouten |frequenzy: 1
+NamedEntity-Location: Saatari |frequenzy: 1
+NamedEntity-Location: Kaczmarek |frequenzy: 1
+NamedEntity-Location: den Niederlanden |frequenzy: 1
+NamedEntity-Location: Schwarz-Gelb |frequenzy: 1
+NamedEntity-Location: UN-Agentur |frequenzy: 1
+NamedEntity-Location: Schlimmste |frequenzy: 1
+NamedEntity-Location: Büsche |frequenzy: 1
+NamedEntity-Location: Eisbergs |frequenzy: 1
+NamedEntity-Location: Folterkellern |frequenzy: 1
+NamedEntity-Location: Kidal |frequenzy: 1
+NamedEntity-Location: stellen – |frequenzy: 1
+NamedEntity-Location: MINUSMA |frequenzy: 1
+NamedEntity-Location: hochaggressiv |frequenzy: 1
+NamedEntity-Location: Klimaschutzplans |frequenzy: 1
+NamedEntity-Location: Force Conjointe du G 5 Sahel |frequenzy: 1
+NamedEntity-Location: Make it in Germany |frequenzy: 1
+NamedEntity-Location: Bautzen |frequenzy: 1
+NamedEntity-Location: Hamburgs |frequenzy: 1
+NamedEntity-Location: Regierungsbildungsprozessen |frequenzy: 1
+NamedEntity-Location: Castor |frequenzy: 1
+NamedEntity-Location: Treffen |frequenzy: 1
+NamedEntity-Location: Lohnstückkosten |frequenzy: 1
+NamedEntity-Location: Cybergrooming |frequenzy: 1
+NamedEntity-Location: Bluecard-Inhaber |frequenzy: 1
+NamedEntity-Location: Unterstützers Russland |frequenzy: 1
+NamedEntity-Location: Terrorregime |frequenzy: 1
+NamedEntity-Location: Target2 |frequenzy: 1
+NamedEntity-Location: Umweltbundesamt |frequenzy: 1
+NamedEntity-Location: Grauen |frequenzy: 1
+NamedEntity-Location: Tornados |frequenzy: 1
+NamedEntity-Location: Zuwandernden |frequenzy: 1
+NamedEntity-Location: Schweiz |frequenzy: 1
+NamedEntity-Location: Tonne |frequenzy: 1
+NamedEntity-Location: Musterländer |frequenzy: 1
+NamedEntity-Location: Gefängnissen |frequenzy: 1
+NamedEntity-Location: Aufständischen |frequenzy: 1
+NamedEntity-Location: Peacebuilding-Maßnahmen |frequenzy: 1
+NamedEntity-Location: Luxemburg  |frequenzy: 1
+NamedEntity-Location: Bildungsfragen |frequenzy: 1
+NamedEntity-Location: Kraftwerksbauer |frequenzy: 1
+NamedEntity-Location: Beute |frequenzy: 1
+NamedEntity-Location: Auswärtigen Ausschusses |frequenzy: 1
+NamedEntity-Location: Libanesen |frequenzy: 1
+NamedEntity-Location: Antragstellers |frequenzy: 1
+NamedEntity-Location: Beschäftigtenzahlen |frequenzy: 1
+NamedEntity-Location: Paradigmenwechsel |frequenzy: 1
+NamedEntity-Location: Moin |frequenzy: 1
+NamedEntity-Location: Hauptproblem |frequenzy: 1
+NamedEntity-Location: Burkina Faso |frequenzy: 1
+NamedEntity-Location: EU-Bluecard-Richtlinie |frequenzy: 1
+NamedEntity-Location: Fatal |frequenzy: 1
+NamedEntity-Location: Michelbach |frequenzy: 1
+NamedEntity-Location: Superreichen |frequenzy: 1
+NamedEntity-Location: Brüsseler |frequenzy: 1
+NamedEntity-Location: Unzulänglichkeiten |frequenzy: 1
+NamedEntity-Location: Kostensenkungen |frequenzy: 1
+NamedEntity-Location: US-Amerikaner |frequenzy: 1
+NamedEntity-Location: Opt-ins |frequenzy: 1
+NamedEntity-Location: nationale Ebene |frequenzy: 1
+NamedEntity-Location: deutschen Staat |frequenzy: 1
+NamedEntity-Location: Kanzlerwahl |frequenzy: 1
+NamedEntity-Location: Halabdscha |frequenzy: 1
+NamedEntity-Location: Heimatbundesland Sachsen |frequenzy: 1
+NamedEntity-Location: Dilemmata |frequenzy: 1
+NamedEntity-Location: Bottrop |frequenzy: 1
+NamedEntity-Location: Effizienz |frequenzy: 1
+NamedEntity-Location: Weltfrieden |frequenzy: 1
+NamedEntity-Location: Neiße 960 |frequenzy: 1
+NamedEntity-Location: Fritzlar |frequenzy: 1
+NamedEntity-Location: der Schweiz |frequenzy: 1
+NamedEntity-Location: Künast |frequenzy: 1
+NamedEntity-Location: Hilfspaket |frequenzy: 1
+NamedEntity-Location: Preisdruck |frequenzy: 1
+NamedEntity-Location: Nachbarn Frankreich |frequenzy: 1
+NamedEntity-Location: Herr Weinberg |frequenzy: 1
+NamedEntity-Location: Demenz |frequenzy: 1
+NamedEntity-Location: Rawa |frequenzy: 1
+NamedEntity-Location: Bull-Bischoff |frequenzy: 1
+NamedEntity-Location: Redebeiträgen |frequenzy: 1
+NamedEntity-Location: Venture-Finanzierungen |frequenzy: 1
+NamedEntity-Location: bitter |frequenzy: 1
+NamedEntity-Location: Schicksale |frequenzy: 1
+NamedEntity-Location: Institutionen |frequenzy: 1
+NamedEntity-Location: Blauhelmeinsatzes |frequenzy: 1
+NamedEntity-Location: Pflegebedürftige |frequenzy: 1
+NamedEntity-Location: Anti-IS-Einsatzes |frequenzy: 1
+NamedEntity-Location: Ninive-Ebene |frequenzy: 1
+NamedEntity-Location: Betriebsrates |frequenzy: 1
+NamedEntity-Location: kenne |frequenzy: 1
+NamedEntity-Location: Hama |frequenzy: 1
+NamedEntity-Location: Reform­ehrgeiz |frequenzy: 1
+NamedEntity-Location: Weltwirtschaftsforums |frequenzy: 1
+NamedEntity-Location: Vitalzeichenkontrolle |frequenzy: 1
+NamedEntity-Location: Malta |frequenzy: 1
+NamedEntity-Location: Zinsniveau |frequenzy: 1
+NamedEntity-Location: Görlitzer |frequenzy: 1
+NamedEntity-Location: World Trade Center |frequenzy: 1
+NamedEntity-Location: Herr Bartke |frequenzy: 1
+NamedEntity-Location: Nährboden |frequenzy: 1
+NamedEntity-Location: Gefühlslage |frequenzy: 1
+NamedEntity-Location: Wissenschaftliche Dienst |frequenzy: 1
+NamedEntity-Location: Niedersächsischen Landtag |frequenzy: 1
+NamedEntity-Location: Indonesien |frequenzy: 1
+NamedEntity-Location: Verschwörungen |frequenzy: 1
+NamedEntity-Location: Bagdadbahn |frequenzy: 1
+NamedEntity-Location: EU-Zentralstaat |frequenzy: 1
+NamedEntity-Location: Kraft |frequenzy: 1
+NamedEntity-Location: Vereinigten Königreichs |frequenzy: 1
+NamedEntity-Location: Beirut |frequenzy: 1
+NamedEntity-Location: Kompromisse |frequenzy: 1
+NamedEntity-Location: Marktzinses |frequenzy: 1
+NamedEntity-Location: Holland |frequenzy: 1
+NamedEntity-Location: Biomasseanlagen |frequenzy: 1
+NamedEntity-Location: Herr Dr  Diaby |frequenzy: 1
+NamedEntity-Location: demokratischer Staat |frequenzy: 1
+NamedEntity-Location: Bedrängnis |frequenzy: 1
+NamedEntity-Location: Fernseher |frequenzy: 1
+NamedEntity-Location: re |frequenzy: 1
+NamedEntity-Location: Barkhane |frequenzy: 1
+NamedEntity-Location: Eritrea |frequenzy: 1
+NamedEntity-Location: Westdeutschland |frequenzy: 1
+NamedEntity-Location: Wider |frequenzy: 1
+NamedEntity-Location: Herrn Minister |frequenzy: 1
+NamedEntity-Location: Schlusssatz |frequenzy: 1
+NamedEntity-Location: Spurwechsel |frequenzy: 1
+NamedEntity-Location: Wismar |frequenzy: 1
+NamedEntity-Location: EU-Grundrechtecharta |frequenzy: 1
+NamedEntity-Location: Unternehmensgründern |frequenzy: 1
+NamedEntity-Location: satt |frequenzy: 1
+NamedEntity-Location: Provinz |frequenzy: 1
+NamedEntity-Location: Außenministers |frequenzy: 1
+NamedEntity-Location: irischen Staat |frequenzy: 1
+NamedEntity-Location: Jargon |frequenzy: 1
+NamedEntity-Location: Leim |frequenzy: 1
+NamedEntity-Location: programmatischen Unzulänglichkeiten |frequenzy: 1
+NamedEntity-Location: Oberverwaltungsgericht Münster |frequenzy: 1
+NamedEntity-Location: Qualitätsjournalismus |frequenzy: 1
+NamedEntity-Location: näherer Zeit |frequenzy: 1
+NamedEntity-Location: Leitprinzip |frequenzy: 1
+NamedEntity-Location: Luftsicherheitsgesetz |frequenzy: 1
+NamedEntity-Location: Richtig |frequenzy: 1
+NamedEntity-Location: Herr Dürr |frequenzy: 1
+NamedEntity-Location: Afghanistan-Mandats |frequenzy: 1
+NamedEntity-Location: Sinai-Halbinsel |frequenzy: 1
+NamedEntity-Location: Daseinsvorsorge |frequenzy: 1
+NamedEntity-Location: Silicon Valley |frequenzy: 1
+NamedEntity-Location: Äckern |frequenzy: 1
+NamedEntity-Location: Königsweg |frequenzy: 1
+NamedEntity-Location: Chancen“ Was |frequenzy: 1
+NamedEntity-Location: Halbmast |frequenzy: 1
+NamedEntity-Location: Kein Problem |frequenzy: 1
+NamedEntity-Location: reden;schließlich |frequenzy: 1
+NamedEntity-Location: Vieles |frequenzy: 1
+NamedEntity-Location: Reich |frequenzy: 1
+NamedEntity-Location: Bildmaterials |frequenzy: 1
+NamedEntity-Location: Globus |frequenzy: 1
+NamedEntity-Location: Kapitalmarkt |frequenzy: 1
+NamedEntity-Location: Weltmarkt |frequenzy: 1
+NamedEntity-Location: BKA-Gesetz |frequenzy: 1
+NamedEntity-Location: Tallowamin |frequenzy: 1
+NamedEntity-Location: Anlagenbaus |frequenzy: 1
+NamedEntity-Location: Thyssen |frequenzy: 1
+NamedEntity-Location: Institute |frequenzy: 1
+NamedEntity-Location: kündigen |frequenzy: 1
+NamedEntity-Location: Euro-Raums |frequenzy: 1
+NamedEntity-Location: al-Fashir |frequenzy: 1
+NamedEntity-Location: Jamaika-Gezocke |frequenzy: 1
+NamedEntity-Location: Dahuk |frequenzy: 1
+NamedEntity-Location: Motivlagen |frequenzy: 1
+NamedEntity-Location: Grundgedanke |frequenzy: 1
+NamedEntity-Location: Südostasien |frequenzy: 1
+NamedEntity-Location: Jerusalem |frequenzy: 1
+NamedEntity-Location: Trümmern |frequenzy: 1
+NamedEntity-Location: Ihre Heuchelei |frequenzy: 1
+NamedEntity-Location: Pakistans |frequenzy: 1
+NamedEntity-Location: Europäer |frequenzy: 1
+NamedEntity-Location: Weltklimakonferenz |frequenzy: 1
+NamedEntity-Location: Unterstützen |frequenzy: 1
+NamedEntity-Location: NATO- |frequenzy: 1
+NamedEntity-Location: Legal |frequenzy: 1
+NamedEntity-Location: Informieren |frequenzy: 1
+NamedEntity-Location: nationalistisch |frequenzy: 1
+NamedEntity-Location: Regierungsprogramm |frequenzy: 1
+NamedEntity-Location: Siemens-Managements |frequenzy: 1
+NamedEntity-Location: Kommunales |frequenzy: 1
+NamedEntity-Location: Sahelzone |frequenzy: 1
+NamedEntity-Location: Zeitlupe |frequenzy: 1
+NamedEntity-Location: Lagebericht |frequenzy: 1
+NamedEntity-Location: epochal |frequenzy: 1
+NamedEntity-Location: Neu  |frequenzy: 1
+NamedEntity-Location: Mitgliedstaates |frequenzy: 1
+NamedEntity-Location: Haus da  |frequenzy: 1
+NamedEntity-Location: Riads |frequenzy: 1
+NamedEntity-Location: Counter Daesh |frequenzy: 1
+NamedEntity-Location: Ausgleichs |frequenzy: 1
+NamedEntity-Location: Finanzmittel |frequenzy: 1
+NamedEntity-Location: Ostsyriens |frequenzy: 1
+NamedEntity-Location: Diesbezüglich |frequenzy: 1
+NamedEntity-Location: Rahmens |frequenzy: 1
+NamedEntity-Location: bad guys |frequenzy: 1
+NamedEntity-Location: UBA |frequenzy: 1
+NamedEntity-Location: Dürre |frequenzy: 1
+NamedEntity-Location: Neuseeland |frequenzy: 1
+NamedEntity-Location: Arbeitswoche |frequenzy: 1
+NamedEntity-Location: Dieselben |frequenzy: 1
+NamedEntity-Location: Rennerod |frequenzy: 1
+NamedEntity-Location: Niger |frequenzy: 1
+NamedEntity-Location: Antrages |frequenzy: 1
+NamedEntity-Location: Sondierungsgespräche |frequenzy: 1
+NamedEntity-Location: Krankenhausstrukturgesetzes |frequenzy: 1
+NamedEntity-Location: Hinterzimmern |frequenzy: 1
+NamedEntity-Location: Straftätern |frequenzy: 1
+NamedEntity-Location: Schwarz-Rot |frequenzy: 1
+NamedEntity-Location: Sicherheitssektor |frequenzy: 1
+NamedEntity-Location: Dokumentationslast |frequenzy: 1
+NamedEntity-Location: Herr Thorsten Frei |frequenzy: 1
+NamedEntity-Location: Westafrika |frequenzy: 1
+NamedEntity-Location: Rahmenbedingungen |frequenzy: 1
+NamedEntity-Location: Staat Südsudan |frequenzy: 1
+NamedEntity-Location: Verlagswesens |frequenzy: 1
+NamedEntity-Location: Ukraine |frequenzy: 1
+NamedEntity-Location: Einbruchdiebstähle |frequenzy: 1
+NamedEntity-Location: Zeitraums |frequenzy: 1
+NamedEntity-Location: Tausenden |frequenzy: 1
+NamedEntity-Location: Förderprogrammen |frequenzy: 1
+NamedEntity-Location: Uniklinik |frequenzy: 1
+NamedEntity-Location: Brain |frequenzy: 1
+NamedEntity-Location: Schulwechsel |frequenzy: 1
+NamedEntity-Location: Wissen |frequenzy: 1
+NamedEntity-Location: Krischer |frequenzy: 1
+NamedEntity-Location: Vorhin |frequenzy: 1
+NamedEntity-Location: US-Amerikanern |frequenzy: 1
+NamedEntity-Location: Verfassungsgerichts |frequenzy: 1
+NamedEntity-Location: Schutzsuchende |frequenzy: 1
+NamedEntity-Location: Kurdistans |frequenzy: 1
+NamedEntity-Location: Kanadas |frequenzy: 1
+NamedEntity-Location: Beihilfeverfahrens |frequenzy: 1
+NamedEntity-Location: Hohen See |frequenzy: 1
+NamedEntity-Location: Wirtschaftsministeriums |frequenzy: 1
+NamedEntity-Location: Bestes |frequenzy: 1
+NamedEntity-Location: irakische Staat |frequenzy: 1
+NamedEntity-Location: Grenze |frequenzy: 1
+NamedEntity-Location: Bundestagsdebatte |frequenzy: 1
+NamedEntity-Location: Perspektiven |frequenzy: 1
+NamedEntity-Location: Kunduz |frequenzy: 1
+NamedEntity-Location: Kohletagebauen |frequenzy: 1
+NamedEntity-Location: Fünftens |frequenzy: 1
+NamedEntity-Location: al-Qaida |frequenzy: 1
+NamedEntity-Location: Golf in Libyen |frequenzy: 1
+NamedEntity-Location: Spitzenpolitiker Höcke |frequenzy: 1
+NamedEntity-Location: Löhnen |frequenzy: 1
+NamedEntity-Location: Siemens-Bashing |frequenzy: 1
+NamedEntity-Location: Teheran |frequenzy: 1
+NamedEntity-Location: Internet-Community |frequenzy: 1
+NamedEntity-Location: Beratern |frequenzy: 1
+NamedEntity-Location: Regime-Change |frequenzy: 1
+NamedEntity-Location: Oberammergau |frequenzy: 1
+NamedEntity-Location: Flüchtlingen |frequenzy: 1
+NamedEntity-Location: Aktuellen Stunden |frequenzy: 1
+NamedEntity-Location: Lucassen |frequenzy: 1
+NamedEntity-Location: Investitionsentscheidungen |frequenzy: 1
+NamedEntity-Location: Bündnispartner |frequenzy: 1
+NamedEntity-Location: Vertrauen |frequenzy: 1
+NamedEntity-Location: Land Saudi-Arabien |frequenzy: 1
+NamedEntity-Location: du hierhin |frequenzy: 1
+NamedEntity-Location: Bundesministeriums der Finanzen |frequenzy: 1
+NamedEntity-Location: Peschmerga |frequenzy: 1
+NamedEntity-Location: Militäreinsatz |frequenzy: 1
+NamedEntity-Location: Bundesminister des Auswärtigen |frequenzy: 1
+NamedEntity-Location: Playing Field |frequenzy: 1
+NamedEntity-Location: Mittelmeeres |frequenzy: 1
+NamedEntity-Location: Afrin |frequenzy: 1
+NamedEntity-Location: Auswärtigen Ausschuss |frequenzy: 1
+NamedEntity-Location: Daesh |frequenzy: 1
+NamedEntity-Location: Absurdistan |frequenzy: 1
+NamedEntity-Location: Westphal |frequenzy: 1
+NamedEntity-Location: Frankfurt |frequenzy: 1
+NamedEntity-Location: Fahrt |frequenzy: 1
+NamedEntity-Location: Auswärtigen Dienstes |frequenzy: 1
+NamedEntity-Location: Dakar |frequenzy: 1
+NamedEntity-Location: Breitbandherbizide |frequenzy: 1
+NamedEntity-Location: Ottweiler |frequenzy: 1
+NamedEntity-Location: Gesellschaftsutopien |frequenzy: 1
+NamedEntity-Location: Herrschenden |frequenzy: 1
+NamedEntity-Location: Militarisierte Flüchtlingsabwehr |frequenzy: 1
+NamedEntity-Location: Standing-Ovations-Aktionen |frequenzy: 1
+NamedEntity-Location: Lichtblicke |frequenzy: 1
+NamedEntity-Location: Polizeibehörden |frequenzy: 1
+NamedEntity-Location: Amtsberg |frequenzy: 1
+NamedEntity-Location: Großoffensiven |frequenzy: 1
+NamedEntity-Location: Iren |frequenzy: 1
+NamedEntity-Location: Strukturfragen |frequenzy: 1
+NamedEntity-Location: Einsatzziele |frequenzy: 1
+NamedEntity-Location: Bundeswehreinsätzen |frequenzy: 1
+NamedEntity-Location: Friedensprozess Nordirland |frequenzy: 1
+NamedEntity-Location: Hightechbranche |frequenzy: 1
+NamedEntity-Location: Monatelang |frequenzy: 1
+NamedEntity-Location: Halifax |frequenzy: 1
+NamedEntity-Location: Gewaltexzessen |frequenzy: 1
+NamedEntity-Location: Niederlanden |frequenzy: 1
+NamedEntity-Location: Vorwürfen |frequenzy: 1
+NamedEntity-Location: AfD |frequenzy: 1
+NamedEntity-Location: Sicherheitnach |frequenzy: 1
+NamedEntity-Location: Parlamentsarmee |frequenzy: 1
+NamedEntity-Location: müssen – Ja |frequenzy: 1
+NamedEntity-Location: Washington  |frequenzy: 1
+NamedEntity-Location: erstens |frequenzy: 1
+NamedEntity-Location: Na |frequenzy: 1
+NamedEntity-Location: Panikmache |frequenzy: 1
+NamedEntity-Location: Target-Saldos |frequenzy: 1
+NamedEntity-Location: Dienstleistungsbetrieb |frequenzy: 1
+NamedEntity-Location: Träumereien |frequenzy: 1
+NamedEntity-Location: Aufnahmestaaten |frequenzy: 1
+NamedEntity-Location: Machtspiele |frequenzy: 1
+NamedEntity-Location: Déjà-vu-Erlebnis |frequenzy: 1
+NamedEntity-Location: Luftangriffen |frequenzy: 1
+NamedEntity-Location: Fortschrittsbericht für Afghanistan |frequenzy: 1
+NamedEntity-Location: Peacebuilding |frequenzy: 1
+NamedEntity-Location: Produktionsstandards |frequenzy: 1
+NamedEntity-Location: Pflegevorsorgefonds |frequenzy: 1
+NamedEntity-Location: Neu |frequenzy: 1
+NamedEntity-Location: Euro-Schuldenkrise |frequenzy: 1
+NamedEntity-Location: Dinka |frequenzy: 1
+NamedEntity-Location: Ermittlungsbehörden |frequenzy: 1
+NamedEntity-Location: Legitimationsverlustes |frequenzy: 1
+NamedEntity-Location: Bundesrechnungshof |frequenzy: 1
+NamedEntity-Location: anderswo |frequenzy: 1
+NamedEntity-Location: Astana |frequenzy: 1
+NamedEntity-Location: Landkreis |frequenzy: 1
+NamedEntity-Location: Steuerschlupflöchern |frequenzy: 1
+NamedEntity-Location: Instrumentarien |frequenzy: 1
+NamedEntity-Location: Militärseelsorge |frequenzy: 1
+NamedEntity-Location: Gordische Knoten |frequenzy: 1
+NamedEntity-Location: Bundesverfassungsgerichtes |frequenzy: 1
+NamedEntity-Location: Sachen Strukturwandel |frequenzy: 1
+NamedEntity-Location: Bundesratsbank |frequenzy: 1
+NamedEntity-Location: Power |frequenzy: 1
+NamedEntity-Location: Parlamentes |frequenzy: 1
+NamedEntity-Location: Libyer |frequenzy: 1
+NamedEntity-Location: Arbeitgebervertretungen |frequenzy: 1
+NamedEntity-Location: Köln |frequenzy: 1
+NamedEntity-Location: Netze |frequenzy: 1
+NamedEntity-Location: Prizren |frequenzy: 1
+NamedEntity-Location: Drain |frequenzy: 1
+NamedEntity-Location: Gelöbnisformel |frequenzy: 1
+NamedEntity-Location: Hamburg |frequenzy: 1
+NamedEntity-Location: Gründungskapital |frequenzy: 1
+NamedEntity-Location: Ballungszentren |frequenzy: 1
+NamedEntity-Location: GRÜNENKatja Keul |frequenzy: 1
+NamedEntity-Location: Magdeburg |frequenzy: 1
+NamedEntity-Location: müssen – |frequenzy: 1
+NamedEntity-Location: Palästina |frequenzy: 1
+NamedEntity-Location: Lernfeld |frequenzy: 1
+NamedEntity-Location: Korruptionsfälle |frequenzy: 1
+NamedEntity-Location: Oberlausitz |frequenzy: 1
+NamedEntity-Location: Propagandamitteln |frequenzy: 1
+NamedEntity-Location: Masar |frequenzy: 1
+NamedEntity-Location: Bad Bank |frequenzy: 1
+NamedEntity-Location: Rundfunkstaatsvertrages |frequenzy: 1
+NamedEntity-Location: Kollege Brandner |frequenzy: 1
+NamedEntity-Location: Küstenwache |frequenzy: 1
+NamedEntity-Location: LuxLeaks |frequenzy: 1
+NamedEntity-Location: Wortmeldungen |frequenzy: 1
+NamedEntity-Location: Kakai |frequenzy: 1
+NamedEntity-Location: Mangelberufen |frequenzy: 1
+NamedEntity-Location: Kreis Ihrer Lieben! |frequenzy: 1
+NamedEntity-Location: JürgenHardtCDU |frequenzy: 1
+NamedEntity-Location: Außenministerium |frequenzy: 1
+NamedEntity-Location: Region Sachsen |frequenzy: 1
+NamedEntity-Location: Herr Hardt |frequenzy: 1
+NamedEntity-Location: libyschen Küste |frequenzy: 1
+NamedEntity-Location: Barrieren |frequenzy: 1
+NamedEntity-Location: Rojava |frequenzy: 1
+NamedEntity-Location: Milliardengewinne |frequenzy: 1
+NamedEntity-Location: US-Außenminister |frequenzy: 1
+NamedEntity-Location: HaraldWeinbergDIE LINKEHarald Weinberg |frequenzy: 1
+NamedEntity-Location: Rechtes |frequenzy: 1
+NamedEntity-Location: Rests der Welt |frequenzy: 1
+NamedEntity-Location: StephanMayerCDU |frequenzy: 1
+NamedEntity-Location: Weihnachtswünsche |frequenzy: 1
+NamedEntity-Location: Nichtstun |frequenzy: 1
+NamedEntity-Location: Euro-Bonds |frequenzy: 1
+NamedEntity-Location: Beschlüssen |frequenzy: 1
+NamedEntity-Location: Streitkräfte im Südsudan |frequenzy: 1
+NamedEntity-Location: Bundeskriminalamt |frequenzy: 1
+NamedEntity-Location: Nordost-Nigeria |frequenzy: 1
+NamedEntity-Location: Abstimmungsverhaltens |frequenzy: 1
+NamedEntity-Location: Kontakt |frequenzy: 1
+NamedEntity-Location: Wissens |frequenzy: 1
+NamedEntity-Location: deutsch-tschechischen Grenze |frequenzy: 1
+NamedEntity-Location: Bangladesch |frequenzy: 1
+NamedEntity-Location: Fremdkapital |frequenzy: 1
+NamedEntity-Location: Innovationen |frequenzy: 1
+NamedEntity-Location: rot-rot-grün |frequenzy: 1
+NamedEntity-Location: Leichtere |frequenzy: 1
+NamedEntity-Location: Einsätzen |frequenzy: 1
+NamedEntity-Location: Sulaimaniyya |frequenzy: 1
+NamedEntity-Location: Sachsen-Anhalt |frequenzy: 1
+NamedEntity-Location: Niederbayern |frequenzy: 1
+NamedEntity-Location: Menschenschlepper |frequenzy: 1
+NamedEntity-Location: Schleusernetzwerke |frequenzy: 1
+NamedEntity-Location: Wortbeiträgen |frequenzy: 1
+NamedEntity-Location: Leistungslast |frequenzy: 1
+NamedEntity-Location: Krisen |frequenzy: 1
+NamedEntity-Location: Land Irland |frequenzy: 1
+NamedEntity-Location: Warschauer |frequenzy: 1
+NamedEntity-Location: Erdogan |frequenzy: 1
+NamedEntity-Location: Know-how-Abfluss |frequenzy: 1
+NamedEntity-Location: Kleinwächter |frequenzy: 1
+NamedEntity-Location: Al-Baschir |frequenzy: 1
+NamedEntity-Location: Failed State |frequenzy: 1
+NamedEntity-Location: München |frequenzy: 1
+NamedEntity-Location: Elmau |frequenzy: 1
+NamedEntity-Location: Herbiziden |frequenzy: 1
+NamedEntity-Location: Weihnachtsgrüße |frequenzy: 1
+NamedEntity-Location: Restbetrages |frequenzy: 1
+NamedEntity-Location: Schinnenburg |frequenzy: 1
+NamedEntity-Location: KfW-Strukturen |frequenzy: 1
+NamedEntity-Location: Mitteln |frequenzy: 1
+NamedEntity-Location: Neonikotinoide |frequenzy: 1
+NamedEntity-Location: Altenpflegeeinrichtungen |frequenzy: 1
+NamedEntity-Location: Marktplätzen |frequenzy: 1
+NamedEntity-Location: Nordsyrien |frequenzy: 1
+NamedEntity-Location: Indien |frequenzy: 1
+NamedEntity-Location: Spandau |frequenzy: 1
+NamedEntity-Location: Blue-Card-Regelungen |frequenzy: 1
+NamedEntity-Location: Vereinigte Königreich |frequenzy: 1
+NamedEntity-Location: Barzani |frequenzy: 1
+NamedEntity-Location: Inneren |frequenzy: 1
+NamedEntity-Location: US-Drohnenmorde |frequenzy: 1
+NamedEntity-Location: Industriedampfturbinen |frequenzy: 1
+NamedEntity-Location: Budapest |frequenzy: 1
+NamedEntity-Location: Optimieren |frequenzy: 1
+NamedEntity-Location: Mülheim an der Ruhr |frequenzy: 1
+NamedEntity-Location: Ringens |frequenzy: 1
+NamedEntity-Location: Terrorregime von Daesh |frequenzy: 1
+NamedEntity-Location: Kohlestroms |frequenzy: 1
+NamedEntity-Location: Menschenschmuggels |frequenzy: 1
+NamedEntity-Location: Françafrique |frequenzy: 1
+NamedEntity-Location: Mladic |frequenzy: 1
+NamedEntity-Location: Washingtoner |frequenzy: 1
+NamedEntity-Location: Eigenkapital |frequenzy: 1
+NamedEntity-Location: Arabien-Politik |frequenzy: 1
+NamedEntity-Location: ECHA |frequenzy: 1
+NamedEntity-Location: Visawarndatei |frequenzy: 1
+NamedEntity-Location: Wasserknappheit |frequenzy: 1
+NamedEntity-Location: Geldern |frequenzy: 1
+NamedEntity-Location: Rettung von Flüchtlingen |frequenzy: 1
+NamedEntity-Location: Land Berlin |frequenzy: 1
+NamedEntity-Location: Oberverwaltungsgericht NRW |frequenzy: 1
+NamedEntity-Location: al-Baschir |frequenzy: 1
+NamedEntity-Location: Außenpolitik |frequenzy: 1
+NamedEntity-Location: Tagen |frequenzy: 1
+NamedEntity-Location: KfW Nicht |frequenzy: 1
+NamedEntity-Location: Ungeschulten |frequenzy: 1
+NamedEntity-Location: Quatsch |frequenzy: 1
+NamedEntity-Location: Max-Planck-Institut |frequenzy: 1
+NamedEntity-Location: Heimatregion |frequenzy: 1
+NamedEntity-Location: Tampa |frequenzy: 1
+NamedEntity-Location: Drohnenangriffen |frequenzy: 1
+NamedEntity-Location: Ministers |frequenzy: 1
+NamedEntity-Location: Na ja |frequenzy: 1
+NamedEntity-Location: Schleppern |frequenzy: 1
+NamedEntity-Location: Nuklearabkommen |frequenzy: 1
+NamedEntity-Location: Oh |frequenzy: 1
+NamedEntity-Location: Massen­immigration |frequenzy: 1
+NamedEntity-Location: Menschenhandel |frequenzy: 1
+NamedEntity-Location: Limassol |frequenzy: 1
+NamedEntity-Location: Gaulands |frequenzy: 1
+NamedEntity-Location: Partikularinteressen |frequenzy: 1
+NamedEntity-Location: Industriestudien |frequenzy: 1
+NamedEntity-Location: Mensch |frequenzy: 1
+NamedEntity-Location: Jahr |frequenzy: 1
+NamedEntity-Location: Meilensteinen |frequenzy: 1
+NamedEntity-Location: Bekaa-Ebene |frequenzy: 1
+NamedEntity-Location: Verteidigungspolitisch |frequenzy: 1
+NamedEntity-Location: Zahlé |frequenzy: 1
+NamedEntity-Location: Berlin-­Moabit |frequenzy: 1
+NamedEntity-Location: Ausfallrisiko |frequenzy: 1
+NamedEntity-Location: Existenzgründer |frequenzy: 1
+NamedEntity-Location: Venture-Capital-Investments |frequenzy: 1
+NamedEntity-Location: Speiche |frequenzy: 1
+NamedEntity-Location: Berliner Gedächtniskirche |frequenzy: 1
+NamedEntity-Location: Start-up-Branchen |frequenzy: 1
+NamedEntity-Location: Staatsanwaltschaften |frequenzy: 1
+NamedEntity-Location: Klimaziele |frequenzy: 1
+NamedEntity-Location: Gädechens |frequenzy: 1
+NamedEntity-Location: Rebellengruppen |frequenzy: 1
+NamedEntity-Location: zigtausendfach |frequenzy: 1
+NamedEntity-Location: Schützer |frequenzy: 1
+NamedEntity-Location: Privathaushalten |frequenzy: 1
+NamedEntity-Location: Darfurs |frequenzy: 1
+NamedEntity-Location: Territorialgewässer |frequenzy: 1
+NamedEntity-Location: Sicherlich |frequenzy: 1
+NamedEntity-Location: Strafbarkeit |frequenzy: 1
+NamedEntity-Location: Verteidigungsfonds |frequenzy: 1
+NamedEntity-Location: Sykes-Picot |frequenzy: 1
+NamedEntity-Location: ERP-Venture-Capital-Fondsinvestments |frequenzy: 1
+NamedEntity-Location: Irans |frequenzy: 1
+NamedEntity-Location: Bundesumweltministerin |frequenzy: 1
+NamedEntity-Location: Hochschule Zittau/Görlitz |frequenzy: 1
+NamedEntity-Location: Schlüsseltransitland |frequenzy: 1
+NamedEntity-Location: modo |frequenzy: 1
+NamedEntity-Location: Benchmark |frequenzy: 1
+NamedEntity-Location: legal |frequenzy: 1
+NamedEntity-Location: Welch |frequenzy: 1
+NamedEntity-Location: Klimakonferenz |frequenzy: 1
+NamedEntity-Location: Hochkonjunktur |frequenzy: 1
+NamedEntity-Location: Kauder |frequenzy: 1
+NamedEntity-Location: Tübingen |frequenzy: 1
+NamedEntity-Location: Rüstungsgüter |frequenzy: 1
+NamedEntity-Location: Sudans |frequenzy: 1
+NamedEntity-Location: Organisationsgeschick |frequenzy: 1
+NamedEntity-Location: Gefechten |frequenzy: 1
+NamedEntity-Location: Akkord |frequenzy: 1
+NamedEntity-Location: Bundeswehrmandate |frequenzy: 1
+NamedEntity-Location: IS-Terrors |frequenzy: 1
+NamedEntity-Location: Finanzierungslücke |frequenzy: 1
+NamedEntity-Location: Maghreb-Staaten |frequenzy: 1
+NamedEntity-Location: Euro-Länder |frequenzy: 1
+NamedEntity-Location: Limit |frequenzy: 1
+NamedEntity-Location: Finnland |frequenzy: 1
+NamedEntity-Location: Obdach |frequenzy: 1
+NamedEntity-Location: Opt-outs |frequenzy: 1
+NamedEntity-Location: Start-up-Unternehmen |frequenzy: 1
+NamedEntity-Location: Hohe See des Mittelmeeres |frequenzy: 1
+NamedEntity-Location: Bereichen |frequenzy: 1
+NamedEntity-Location: vorneweg |frequenzy: 1
+NamedEntity-Location: Rehberg |frequenzy: 1
+NamedEntity-Location: Friedens- und des Versöhnungsprozesses |frequenzy: 1
+NamedEntity-Location: Bremse |frequenzy: 1
+NamedEntity-Location: Gefährdungsanzeigen |frequenzy: 1
+NamedEntity-Location: unverantwortlich |frequenzy: 1
+NamedEntity-Location: Nettogewinnerland |frequenzy: 1
+NamedEntity-Location: Düsseldorf |frequenzy: 1
+NamedEntity-Location: UN-Einsatz |frequenzy: 1
+NamedEntity-Location: Riad |frequenzy: 1
+NamedEntity-Location: Staat Israel |frequenzy: 1
+NamedEntity-Location: Arabischen Halbinsel |frequenzy: 1
+NamedEntity-Location: Maßstäben |frequenzy: 1
+NamedEntity-Location: Kita |frequenzy: 1
+NamedEntity-Location: besprechen |frequenzy: 1
+NamedEntity-Location: Herr Kollege Braun |frequenzy: 1
+NamedEntity-Location: Fachfrau |frequenzy: 1
+NamedEntity-Location: Suchet |frequenzy: 1
+NamedEntity-Location: Wort |frequenzy: 1
+NamedEntity-Location: Anhörungen |frequenzy: 1
+NamedEntity-Location: Arbeitsplatzwechsel |frequenzy: 1
+NamedEntity-Location: Schritte |frequenzy: 1
+NamedEntity-Location: irakische Grenze |frequenzy: 1
+NamedEntity-Location: Diskussionsgegenstand |frequenzy: 1
+NamedEntity-Location: Armeniern |frequenzy: 1
+NamedEntity-Location: Friesland – Wilhelms­haven – Wittmund |frequenzy: 1
+NamedEntity-Location: Gewalt im Südsudan |frequenzy: 1
+NamedEntity-Location: Südsudan Völkermord |frequenzy: 1
+NamedEntity-Location: Beratens |frequenzy: 1
+NamedEntity-Location: OliverKrischerBÜNDNIS |frequenzy: 1
+NamedEntity-Location: Herr Kauder |frequenzy: 1
+NamedEntity-Location: Chinas |frequenzy: 1
+NamedEntity-Location: Warschau |frequenzy: 1
+NamedEntity-Location: Despot vom Bosporus uns Mitgliedern |frequenzy: 1
+NamedEntity-Location: Spanier |frequenzy: 1
+NamedEntity-Location: Wachstumsfonds |frequenzy: 1
+NamedEntity-Location: Moabit |frequenzy: 1
+NamedEntity-Location: Kohlekraftwerken |frequenzy: 1
+NamedEntity-Location: Effizienzgründen |frequenzy: 1
+NamedEntity-Location: Plenums |frequenzy: 1
+NamedEntity-Location: Honorare |frequenzy: 1
+NamedEntity-Location: Philippinen |frequenzy: 1
+NamedEntity-Location: Lucke |frequenzy: 1
+NamedEntity-Location: Ölquellen |frequenzy: 1
+NamedEntity-Location: Waffenschmuggels |frequenzy: 1
+NamedEntity-Location: Florida |frequenzy: 1
+NamedEntity-Location: Begleitkampagne |frequenzy: 1
+NamedEntity-Location: Weltklima |frequenzy: 1
+NamedEntity-Location: Lagers |frequenzy: 1
+NamedEntity-Location: Heimatbundesland |frequenzy: 1
+NamedEntity-Location: Sachen Energiewende |frequenzy: 1
+NamedEntity-Location: Verdun |frequenzy: 1
+NamedEntity-Location: Kanzleien |frequenzy: 1
+NamedEntity-Location: Strukturen |frequenzy: 1
+NamedEntity-Location: Biodiversitätsklausel |frequenzy: 1
+NamedEntity-Location: Deir al-Sor |frequenzy: 1
+NamedEntity-Location: Lösungen |frequenzy: 1
+NamedEntity-Location: Autokratie |frequenzy: 1
+NamedEntity-Location: Pristina |frequenzy: 1
+NamedEntity-Location: Bekanntwerden |frequenzy: 1
+NamedEntity-Location: europäischen Ländern |frequenzy: 1
+NamedEntity-Location: Slowenien |frequenzy: 1
+NamedEntity-Location: Räten |frequenzy: 1
+NamedEntity-Location: Misstrauen |frequenzy: 1
+NamedEntity-Location: Berlin-Mitte |frequenzy: 1
+NamedEntity-Location: BirkeBull-BischoffDIE |frequenzy: 1
+NamedEntity-Location: Gesamtpaket |frequenzy: 1
+NamedEntity-Location: Marge |frequenzy: 1
+NamedEntity-Location: Mobilisation |frequenzy: 1
+NamedEntity-Location: europäischen Land |frequenzy: 1
+NamedEntity-Location: Republikanischen Garden |frequenzy: 1
+NamedEntity-Location: Wählerinnen |frequenzy: 1
+NamedEntity-Location: drittens |frequenzy: 1
+NamedEntity-Location: fatal |frequenzy: 1
+NamedEntity-Location: Power and Gas |frequenzy: 1
+NamedEntity-Location: Friedens |frequenzy: 1
+NamedEntity-Location: Gesundheitsleistungen |frequenzy: 1
+NamedEntity-Location: Weltklimarates |frequenzy: 1
+NamedEntity-Location: Weichenstellungen |frequenzy: 1
+NamedEntity-Location: Medien |frequenzy: 1
+NamedEntity-Location: potenzielle |frequenzy: 1
+NamedEntity-Location: Lösch­pflichten |frequenzy: 1
+NamedEntity-Location: Arm |frequenzy: 1
+NamedEntity-Location: Steinmeier |frequenzy: 1
+NamedEntity-Location: Agenda |frequenzy: 1
+NamedEntity-Location: Mindeste |frequenzy: 1
+NamedEntity-Location: Central Command |frequenzy: 1
+NamedEntity-Location: Afrikaner |frequenzy: 1
+NamedEntity-Location: AlexanderHoffmannCDU |frequenzy: 1
+NamedEntity-Location: Dröge |frequenzy: 1
+NamedEntity-Location: Mutes |frequenzy: 1
+NamedEntity-Location: Südsudans |frequenzy: 1
+NamedEntity-Location: Daimler-Vorstand |frequenzy: 1
+NamedEntity-Location: Oberverwaltungsgerichtes Münster |frequenzy: 1
+NamedEntity-Location: Bad Bank des Konzerns |frequenzy: 1
+NamedEntity-Location: Gar |frequenzy: 1
+NamedEntity-Location: Dohuk |frequenzy: 1
+NamedEntity-Location: SteffenKotréAfDSteffen Kotré |frequenzy: 1
+NamedEntity-Location: Getreides |frequenzy: 1
+NamedEntity-Location: Kommunalinvestitionsförderungsfonds |frequenzy: 1

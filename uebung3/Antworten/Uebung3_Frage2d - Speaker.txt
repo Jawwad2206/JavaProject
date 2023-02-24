@@ -1,0 +1,5 @@
+The speaker: Angela Merkel held: 382.0 speeches
+The sentiment distribution across the entire corpus for the speaker: Angela Merkel is: 
+Positiv: 90.21739130434783%
+Negativ: 9.782608695652174%
+Neutral: 0.0%

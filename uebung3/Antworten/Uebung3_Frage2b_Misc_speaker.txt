@@ -1,0 +1,122 @@
+NamedEntity-Miscellanies: Bundeskanzlerin |frequenzy: 5
+NamedEntity-Miscellanies: deutsche |frequenzy: 5
+NamedEntity-Miscellanies: sozialen |frequenzy: 5
+NamedEntity-Miscellanies: AfD  |frequenzy: 4
+NamedEntity-Miscellanies: Tag |frequenzy: 4
+NamedEntity-Miscellanies: CSU-Fraktion |frequenzy: 4
+NamedEntity-Miscellanies: Zeit |frequenzy: 4
+NamedEntity-Miscellanies: deutschen |frequenzy: 3
+NamedEntity-Miscellanies: europäische |frequenzy: 3
+NamedEntity-Miscellanies: soziale |frequenzy: 3
+NamedEntity-Miscellanies: Kernzeit |frequenzy: 2
+NamedEntity-Miscellanies: Das Wort |frequenzy: 2
+NamedEntity-Miscellanies: Jahr  |frequenzy: 2
+NamedEntity-Miscellanies: Mir |frequenzy: 2
+NamedEntity-Miscellanies: demokratischen |frequenzy: 2
+NamedEntity-Miscellanies: russischen |frequenzy: 2
+NamedEntity-Miscellanies: Dr AngelaMerkelBundeskanzlerinDr |frequenzy: 2
+NamedEntity-Miscellanies: europäischer |frequenzy: 2
+NamedEntity-Miscellanies: Sitzungswoche |frequenzy: 2
+NamedEntity-Miscellanies: Irland  |frequenzy: 1
+NamedEntity-Miscellanies: Deutschen |frequenzy: 1
+NamedEntity-Miscellanies: FabioDe |frequenzy: 1
+NamedEntity-Miscellanies: FDP Das Problem |frequenzy: 1
+NamedEntity-Miscellanies: FDP-Mitgliedern |frequenzy: 1
+NamedEntity-Miscellanies: EU 200 Millionen |frequenzy: 1
+NamedEntity-Miscellanies: Augenblick |frequenzy: 1
+NamedEntity-Miscellanies: GroKo |frequenzy: 1
+NamedEntity-Miscellanies: Apple  |frequenzy: 1
+NamedEntity-Miscellanies: Zensus im Jahr 2021 |frequenzy: 1
+NamedEntity-Miscellanies: Tag aufs Neue |frequenzy: 1
+NamedEntity-Miscellanies: abzumildern – Wir |frequenzy: 1
+NamedEntity-Miscellanies: 100 Jahre Ebert-Rede |frequenzy: 1
+NamedEntity-Miscellanies: Dr  Marco Buschmann zu Wort |frequenzy: 1
+NamedEntity-Miscellanies: Bluecard-Regelung |frequenzy: 1
+NamedEntity-Miscellanies: demokratischer |frequenzy: 1
+NamedEntity-Miscellanies: Weihnachten |frequenzy: 1
+NamedEntity-Miscellanies: Sprache |frequenzy: 1
+NamedEntity-Miscellanies: vier Jahre tun wir |frequenzy: 1
+NamedEntity-Miscellanies: Drucksache  |frequenzy: 1
+NamedEntity-Miscellanies: Revolution |frequenzy: 1
+NamedEntity-Miscellanies: nationalsozialistisches |frequenzy: 1
+NamedEntity-Miscellanies: Schuldenbremse |frequenzy: 1
+NamedEntity-Miscellanies: Charaktere |frequenzy: 1
+NamedEntity-Miscellanies: Bund-Länder-Konferenzen |frequenzy: 1
+NamedEntity-Miscellanies: Erneuerbare-Energien-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: sozialistischer |frequenzy: 1
+NamedEntity-Miscellanies: Liebe SPD |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2022 |frequenzy: 1
+NamedEntity-Miscellanies: Geringverdiener |frequenzy: 1
+NamedEntity-Miscellanies: Einwanderungsgesetz |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland  |frequenzy: 1
+NamedEntity-Miscellanies: jüdische |frequenzy: 1
+NamedEntity-Miscellanies: Regierungschefin |frequenzy: 1
+NamedEntity-Miscellanies: Euro |frequenzy: 1
+NamedEntity-Miscellanies: Hartz-IV-Empfänger |frequenzy: 1
+NamedEntity-Miscellanies: 19  Jahrhunderts |frequenzy: 1
+NamedEntity-Miscellanies: Delle |frequenzy: 1
+NamedEntity-Miscellanies: Ersten Weltkriegs |frequenzy: 1
+NamedEntity-Miscellanies: sowjetische |frequenzy: 1
+NamedEntity-Miscellanies: AfD |frequenzy: 1
+NamedEntity-Miscellanies: Bundestagswahl |frequenzy: 1
+NamedEntity-Miscellanies: Ihres Wahlprogramms |frequenzy: 1
+NamedEntity-Miscellanies: Koalitionsverhandlungen 2013 |frequenzy: 1
+NamedEntity-Miscellanies: Ermächtigungsgesetz |frequenzy: 1
+NamedEntity-Miscellanies: die Jahre geradezu |frequenzy: 1
+NamedEntity-Miscellanies: EFSF  |frequenzy: 1
+NamedEntity-Miscellanies: Vorsitzenden |frequenzy: 1
+NamedEntity-Miscellanies: Internet |frequenzy: 1
+NamedEntity-Miscellanies: Viermal im Jahr |frequenzy: 1
+NamedEntity-Miscellanies: Parteiengesetz |frequenzy: 1
+NamedEntity-Miscellanies: Ministern |frequenzy: 1
+NamedEntity-Miscellanies: Landtagswahl in Sachsen-Anhalt |frequenzy: 1
+NamedEntity-Miscellanies: PSt |frequenzy: 1
+NamedEntity-Miscellanies: Brandner  |frequenzy: 1
+NamedEntity-Miscellanies: sozialer |frequenzy: 1
+NamedEntity-Miscellanies: Reichstag |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Gruppe |frequenzy: 1
+NamedEntity-Miscellanies: Freitagmorgen 9  |frequenzy: 1
+NamedEntity-Miscellanies: 22  Juni |frequenzy: 1
+NamedEntity-Miscellanies: Dienstagvormittag |frequenzy: 1
+NamedEntity-Miscellanies: Tarif auf Rädern |frequenzy: 1
+NamedEntity-Miscellanies: Schlimm |frequenzy: 1
+NamedEntity-Miscellanies: Die Zeit |frequenzy: 1
+NamedEntity-Miscellanies: Riesenkatalog |frequenzy: 1
+NamedEntity-Miscellanies: irischen |frequenzy: 1
+NamedEntity-Miscellanies: IfSG |frequenzy: 1
+NamedEntity-Miscellanies: Küchentisch |frequenzy: 1
+NamedEntity-Miscellanies: Frieden |frequenzy: 1
+NamedEntity-Miscellanies: Agenda des Bundesgesundheitsministers |frequenzy: 1
+NamedEntity-Miscellanies: Der einzige Lichtblick |frequenzy: 1
+NamedEntity-Miscellanies: Bündnis 90/ |frequenzy: 1
+NamedEntity-Miscellanies: Virus |frequenzy: 1
+NamedEntity-Miscellanies: Defizit- |frequenzy: 1
+NamedEntity-Miscellanies: Quatsch |frequenzy: 1
+NamedEntity-Miscellanies: Paradise Papers |frequenzy: 1
+NamedEntity-Miscellanies: Russisch |frequenzy: 1
+NamedEntity-Miscellanies: Sozialstaates im Jahr 2020 |frequenzy: 1
+NamedEntity-Miscellanies: MasiDIE |frequenzy: 1
+NamedEntity-Miscellanies: Die Revolution |frequenzy: 1
+NamedEntity-Miscellanies: Jung |frequenzy: 1
+NamedEntity-Miscellanies: SPD  |frequenzy: 1
+NamedEntity-Miscellanies: Hamburger |frequenzy: 1
+NamedEntity-Miscellanies: Zweiten Weltkrieg |frequenzy: 1
+NamedEntity-Miscellanies: demokratische |frequenzy: 1
+NamedEntity-Miscellanies: Wort |frequenzy: 1
+NamedEntity-Miscellanies: sowjetischen |frequenzy: 1
+NamedEntity-Miscellanies: GRÜNENBritta |frequenzy: 1
+NamedEntity-Miscellanies: Krieg Nazideutschlands |frequenzy: 1
+NamedEntity-Miscellanies: OECD-Maßnahmeplan |frequenzy: 1
+NamedEntity-Miscellanies: Zweiten Weltkriegs |frequenzy: 1
+NamedEntity-Miscellanies: Belagerung von Leningrad |frequenzy: 1
+NamedEntity-Miscellanies: russische |frequenzy: 1
+NamedEntity-Miscellanies: bayerische |frequenzy: 1
+NamedEntity-Miscellanies: schlimm |frequenzy: 1
+NamedEntity-Miscellanies: Ding |frequenzy: 1
+NamedEntity-Miscellanies: Hidden Champions |frequenzy: 1
+NamedEntity-Miscellanies: Krieges  |frequenzy: 1
+NamedEntity-Miscellanies: CDU-Generalsekretär |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2013 |frequenzy: 1
+NamedEntity-Miscellanies: -Jetzt |frequenzy: 1
+NamedEntity-Miscellanies: Fest |frequenzy: 1
+NamedEntity-Miscellanies: Einlassungen zum Datenschutzgesetz |frequenzy: 1

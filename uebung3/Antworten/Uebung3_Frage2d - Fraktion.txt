@@ -1,0 +1,5 @@
+The speakers of the Fraction: CDU/CSU held: 6615.0 speeches in total
+The sentiment distribution across the entire corpus for the fraction: CDU/CSU is: 
+Positiv: 87.42306788818416%
+Negativ: 12.576932111815834%
+Neutral: 0.0%

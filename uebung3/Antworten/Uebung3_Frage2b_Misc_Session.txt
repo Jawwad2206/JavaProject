@@ -1,0 +1,218 @@
+NamedEntity-Miscellanies: deutsche |frequenzy: 16
+NamedEntity-Miscellanies: deutschen |frequenzy: 13
+NamedEntity-Miscellanies: CSU-Fraktion |frequenzy: 12
+NamedEntity-Miscellanies: Zeit |frequenzy: 9
+NamedEntity-Miscellanies: europäischen |frequenzy: 8
+NamedEntity-Miscellanies: deutscher |frequenzy: 7
+NamedEntity-Miscellanies: französische |frequenzy: 6
+NamedEntity-Miscellanies: europäische |frequenzy: 6
+NamedEntity-Miscellanies: Hauptausschuss |frequenzy: 6
+NamedEntity-Miscellanies: Krieg |frequenzy: 6
+NamedEntity-Miscellanies: Deutsche |frequenzy: 6
+NamedEntity-Miscellanies: irakischen |frequenzy: 6
+NamedEntity-Miscellanies: Bündnis 90/ |frequenzy: 5
+NamedEntity-Miscellanies: Bürgerkrieg |frequenzy: 5
+NamedEntity-Miscellanies: MINUSMA |frequenzy: 5
+NamedEntity-Miscellanies: Einwanderungsgesetz |frequenzy: 5
+NamedEntity-Miscellanies: Krieges |frequenzy: 4
+NamedEntity-Miscellanies: Bundeskanzlerin |frequenzy: 4
+NamedEntity-Miscellanies: Drucksache  |frequenzy: 4
+NamedEntity-Miscellanies: demokratischen |frequenzy: 4
+NamedEntity-Miscellanies: französischen |frequenzy: 3
+NamedEntity-Miscellanies: … |frequenzy: 3
+NamedEntity-Miscellanies: soziale |frequenzy: 3
+NamedEntity-Miscellanies: IS |frequenzy: 3
+NamedEntity-Miscellanies: amerikanischen |frequenzy: 3
+NamedEntity-Miscellanies: Genfer Flüchtlingskonvention |frequenzy: 3
+NamedEntity-Miscellanies: arabischen |frequenzy: 3
+NamedEntity-Miscellanies: Jamaika-Sondierungsgesprächen |frequenzy: 2
+NamedEntity-Miscellanies: Tag |frequenzy: 2
+NamedEntity-Miscellanies: Unser Bildungssystem |frequenzy: 2
+NamedEntity-Miscellanies: Frieden |frequenzy: 2
+NamedEntity-Miscellanies: libanesischen |frequenzy: 2
+NamedEntity-Miscellanies: unübersichtlicher |frequenzy: 2
+NamedEntity-Miscellanies: DigitalPakt |frequenzy: 2
+NamedEntity-Miscellanies: Aufenthaltsgesetz |frequenzy: 2
+NamedEntity-Miscellanies: Unabhängigkeitsreferendum |frequenzy: 2
+NamedEntity-Miscellanies: Anschluss |frequenzy: 2
+NamedEntity-Miscellanies: deutsches |frequenzy: 2
+NamedEntity-Miscellanies: Bericht |frequenzy: 2
+NamedEntity-Miscellanies: neuseeländischen |frequenzy: 1
+NamedEntity-Miscellanies: AfD |frequenzy: 1
+NamedEntity-Miscellanies: G 5 Sahel |frequenzy: 1
+NamedEntity-Miscellanies: Bundestagswahl |frequenzy: 1
+NamedEntity-Miscellanies: Jamaika-Sondierungen |frequenzy: 1
+NamedEntity-Miscellanies: Jahr für Jahr |frequenzy: 1
+NamedEntity-Miscellanies: hessische |frequenzy: 1
+NamedEntity-Miscellanies: Fakt |frequenzy: 1
+NamedEntity-Miscellanies: Zeit der beiden deutschen Diktaturen |frequenzy: 1
+NamedEntity-Miscellanies: französischen Armee |frequenzy: 1
+NamedEntity-Miscellanies: Breaking the Silence |frequenzy: 1
+NamedEntity-Miscellanies: iranischen |frequenzy: 1
+NamedEntity-Miscellanies: Stellvertreterkrieg |frequenzy: 1
+NamedEntity-Miscellanies: Zuwanderungsgesetz |frequenzy: 1
+NamedEntity-Miscellanies: gefallen –  |frequenzy: 1
+NamedEntity-Miscellanies: Nachweislich |frequenzy: 1
+NamedEntity-Miscellanies: Föderalismusreform I |frequenzy: 1
+NamedEntity-Miscellanies: jüdischen |frequenzy: 1
+NamedEntity-Miscellanies: Pa­trouillen |frequenzy: 1
+NamedEntity-Miscellanies: Reichstag |frequenzy: 1
+NamedEntity-Miscellanies: KaiGehringBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: Bund-Länder-Verhandlungen |frequenzy: 1
+NamedEntity-Miscellanies: Missionen der Vereinten Nationen |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland an die Peschmerga |frequenzy: 1
+NamedEntity-Miscellanies: Operation MINUSMA |frequenzy: 1
+NamedEntity-Miscellanies: vier Jahre mit der |frequenzy: 1
+NamedEntity-Miscellanies: Aktion gegen den Hunger |frequenzy: 1
+NamedEntity-Miscellanies: Anführungszeichen  |frequenzy: 1
+NamedEntity-Miscellanies: Syrien-Krise |frequenzy: 1
+NamedEntity-Miscellanies: MINUSMA-Soldaten |frequenzy: 1
+NamedEntity-Miscellanies: Saudi-Arabiens  |frequenzy: 1
+NamedEntity-Miscellanies: kanadische |frequenzy: 1
+NamedEntity-Miscellanies: chaldäisch-katholischen |frequenzy: 1
+NamedEntity-Miscellanies: Autonomiebehörde Barzani |frequenzy: 1
+NamedEntity-Miscellanies: schlimm |frequenzy: 1
+NamedEntity-Miscellanies: europäischer |frequenzy: 1
+NamedEntity-Miscellanies: Tages |frequenzy: 1
+NamedEntity-Miscellanies: Der Steuerzahler |frequenzy: 1
+NamedEntity-Miscellanies: Lohndumping-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: lateinischen |frequenzy: 1
+NamedEntity-Miscellanies: völkerrechtliche |frequenzy: 1
+NamedEntity-Miscellanies: Ihr Gesetz  |frequenzy: 1
+NamedEntity-Miscellanies: IOM-Studie |frequenzy: 1
+NamedEntity-Miscellanies: bautechnischen |frequenzy: 1
+NamedEntity-Miscellanies: osmanische |frequenzy: 1
+NamedEntity-Miscellanies: Die Abgeordnete von der Linken |frequenzy: 1
+NamedEntity-Miscellanies: UN-Sicherheitsresolution 2254 |frequenzy: 1
+NamedEntity-Miscellanies: 9 Millionen Euro |frequenzy: 1
+NamedEntity-Miscellanies: syrischen Bürgerkrieg in unser Land |frequenzy: 1
+NamedEntity-Miscellanies: Frieden und Freiheit |frequenzy: 1
+NamedEntity-Miscellanies: amerikanische |frequenzy: 1
+NamedEntity-Miscellanies: irakische |frequenzy: 1
+NamedEntity-Miscellanies: Frieden in der Region |frequenzy: 1
+NamedEntity-Miscellanies: FDP- |frequenzy: 1
+NamedEntity-Miscellanies: demokratische |frequenzy: 1
+NamedEntity-Miscellanies: sozialen |frequenzy: 1
+NamedEntity-Miscellanies: Nebeneinander–  |frequenzy: 1
+NamedEntity-Miscellanies: Grundgesetzes im Jahr  |frequenzy: 1
+NamedEntity-Miscellanies: Operation Barkhane |frequenzy: 1
+NamedEntity-Miscellanies: Frieden in dieser Region |frequenzy: 1
+NamedEntity-Miscellanies: AfD-Antrag |frequenzy: 1
+NamedEntity-Miscellanies: SPD-Bundestagsfraktion |frequenzy: 1
+NamedEntity-Miscellanies: G36-Sturmgewehren |frequenzy: 1
+NamedEntity-Miscellanies: sozialdemokratische |frequenzy: 1
+NamedEntity-Miscellanies: Auffanggesetz |frequenzy: 1
+NamedEntity-Miscellanies: Mali  |frequenzy: 1
+NamedEntity-Miscellanies: Hugenotten |frequenzy: 1
+NamedEntity-Miscellanies: kanadischen |frequenzy: 1
+NamedEntity-Miscellanies: Meine lieben Kolleginnen und Kollegen |frequenzy: 1
+NamedEntity-Miscellanies: Iran  |frequenzy: 1
+NamedEntity-Miscellanies: Kugelhagel |frequenzy: 1
+NamedEntity-Miscellanies: widersprüchlicher |frequenzy: 1
+NamedEntity-Miscellanies: Gute Ganztagsschule |frequenzy: 1
+NamedEntity-Miscellanies: NGO-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: Brennpunkten |frequenzy: 1
+NamedEntity-Miscellanies: israelischen |frequenzy: 1
+NamedEntity-Miscellanies: haben – Ja |frequenzy: 1
+NamedEntity-Miscellanies: Selbstverständlich |frequenzy: 1
+NamedEntity-Miscellanies: niederländischen |frequenzy: 1
+NamedEntity-Miscellanies: Millionen |frequenzy: 1
+NamedEntity-Miscellanies: Ersten Weltkrieges |frequenzy: 1
+NamedEntity-Miscellanies: Meister des diplomatischen Geschicks |frequenzy: 1
+NamedEntity-Miscellanies: arabische |frequenzy: 1
+NamedEntity-Miscellanies: Buch Jeremia |frequenzy: 1
+NamedEntity-Miscellanies: katholischen |frequenzy: 1
+NamedEntity-Miscellanies: Das Gelächter |frequenzy: 1
+NamedEntity-Miscellanies: ABC- |frequenzy: 1
+NamedEntity-Miscellanies: Ihres Gesetzentwurfs |frequenzy: 1
+NamedEntity-Miscellanies: Morgenmagazin |frequenzy: 1
+NamedEntity-Miscellanies: Maghreb-Staaten |frequenzy: 1
+NamedEntity-Miscellanies: Hohen Hauses |frequenzy: 1
+NamedEntity-Miscellanies: Der neue Eingeladene |frequenzy: 1
+NamedEntity-Miscellanies: Genfer |frequenzy: 1
+NamedEntity-Miscellanies: AfD  |frequenzy: 1
+NamedEntity-Miscellanies: Berliner |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 5  |frequenzy: 1
+NamedEntity-Miscellanies: israelische |frequenzy: 1
+NamedEntity-Miscellanies: Zeit der Nazidiktatur |frequenzy: 1
+NamedEntity-Miscellanies: iPad |frequenzy: 1
+NamedEntity-Miscellanies: Linkenantrag |frequenzy: 1
+NamedEntity-Miscellanies: Iran-Nuklearabkommen |frequenzy: 1
+NamedEntity-Miscellanies: Rundfunkstaatsvertrag |frequenzy: 1
+NamedEntity-Miscellanies: britischen |frequenzy: 1
+NamedEntity-Miscellanies: Wirtschaftsminister Verantwortung |frequenzy: 1
+NamedEntity-Miscellanies: Frieden: |frequenzy: 1
+NamedEntity-Miscellanies: wir im vergangenen Jahr |frequenzy: 1
+NamedEntity-Miscellanies: libanesische |frequenzy: 1
+NamedEntity-Miscellanies: Sachsen  |frequenzy: 1
+NamedEntity-Miscellanies: israelisch-palästinensische |frequenzy: 1
+NamedEntity-Miscellanies: Lebensunterhalts bei Qualifikation |frequenzy: 1
+NamedEntity-Miscellanies: Balfour-Deklaration |frequenzy: 1
+NamedEntity-Miscellanies: 4  April |frequenzy: 1
+NamedEntity-Miscellanies: 1 Million |frequenzy: 1
+NamedEntity-Miscellanies: BMZ |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 5,4  |frequenzy: 1
+NamedEntity-Miscellanies: Bund-Länder-Finanzbeziehungen |frequenzy: 1
+NamedEntity-Miscellanies: Mitmenschlichkeit |frequenzy: 1
+NamedEntity-Miscellanies: britische |frequenzy: 1
+NamedEntity-Miscellanies: Die Sicherheitslage |frequenzy: 1
+NamedEntity-Miscellanies: Der Friedensprozess |frequenzy: 1
+NamedEntity-Miscellanies: Blinken |frequenzy: 1
+NamedEntity-Miscellanies: FDP-Fraktion –  |frequenzy: 1
+NamedEntity-Miscellanies: Herzblut |frequenzy: 1
+NamedEntity-Miscellanies: demokratischer |frequenzy: 1
+NamedEntity-Miscellanies: Annen |frequenzy: 1
+NamedEntity-Miscellanies: Kollegin Esken |frequenzy: 1
+NamedEntity-Miscellanies: Kleinwaffen an die Peschmerga |frequenzy: 1
+NamedEntity-Miscellanies: Mein Rat an uns alle |frequenzy: 1
+NamedEntity-Miscellanies: Hungerkrisen  |frequenzy: 1
+NamedEntity-Miscellanies: Bundestages der Reichstag |frequenzy: 1
+NamedEntity-Miscellanies: Angriff gegen Israel |frequenzy: 1
+NamedEntity-Miscellanies: Soldatenberufs |frequenzy: 1
+NamedEntity-Miscellanies: Christen |frequenzy: 1
+NamedEntity-Miscellanies: Mission der Vereinten Nationen |frequenzy: 1
+NamedEntity-Miscellanies: UN-Mission MINUSMA |frequenzy: 1
+NamedEntity-Miscellanies: Jahr  |frequenzy: 1
+NamedEntity-Miscellanies: Operation |frequenzy: 1
+NamedEntity-Miscellanies: Die Situation |frequenzy: 1
+NamedEntity-Miscellanies: China  |frequenzy: 1
+NamedEntity-Miscellanies: Karlsruhe |frequenzy: 1
+NamedEntity-Miscellanies: Tiger  |frequenzy: 1
+NamedEntity-Miscellanies: Irakkrieg |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland  |frequenzy: 1
+NamedEntity-Miscellanies: Fachkräftemangel |frequenzy: 1
+NamedEntity-Miscellanies: Verwaltungsrichterinnen |frequenzy: 1
+NamedEntity-Miscellanies: Wer gegen die Überweisung des Gesetzentwurfs |frequenzy: 1
+NamedEntity-Miscellanies: Mir |frequenzy: 1
+NamedEntity-Miscellanies: Deutsch |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland Mali |frequenzy: 1
+NamedEntity-Miscellanies: Innerkurdische |frequenzy: 1
+NamedEntity-Miscellanies: Nicht-EU-Ausländer |frequenzy: 1
+NamedEntity-Miscellanies: Die Peschmerga |frequenzy: 1
+NamedEntity-Miscellanies: Bluecard-System |frequenzy: 1
+NamedEntity-Miscellanies: SPD-Entwurf |frequenzy: 1
+NamedEntity-Miscellanies: Ausschusses für Wahlprüfung, Immunität |frequenzy: 1
+NamedEntity-Miscellanies: ausspreche |frequenzy: 1
+NamedEntity-Miscellanies: Ersten Weltkrieg |frequenzy: 1
+NamedEntity-Miscellanies: Euro |frequenzy: 1
+NamedEntity-Miscellanies: BeschlagnahmebeschlüsseDrucksache |frequenzy: 1
+NamedEntity-Miscellanies: Sachsen |frequenzy: 1
+NamedEntity-Miscellanies: Drucksache |frequenzy: 1
+NamedEntity-Miscellanies: Gesetzentwurfes |frequenzy: 1
+NamedEntity-Miscellanies: nächsten Jahr |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2003 |frequenzy: 1
+NamedEntity-Miscellanies: Bedürfnissen des deutschen Arbeitsmarktes |frequenzy: 1
+NamedEntity-Miscellanies: Wer Herz und Verstand für arme Menschen |frequenzy: 1
+NamedEntity-Miscellanies: Operation Counter Daesh |frequenzy: 1
+NamedEntity-Miscellanies: entspräche |frequenzy: 1
+NamedEntity-Miscellanies: Versprechen  |frequenzy: 1
+NamedEntity-Miscellanies: AfD-Fraktion |frequenzy: 1
+NamedEntity-Miscellanies: rot-rot-grün |frequenzy: 1
+NamedEntity-Miscellanies: kurdische |frequenzy: 1
+NamedEntity-Miscellanies: außenpolitischen |frequenzy: 1
+NamedEntity-Miscellanies: Massenmord |frequenzy: 1
+NamedEntity-Miscellanies: Bürgerkriegsland Afghanistan |frequenzy: 1
+NamedEntity-Miscellanies: Rede –  |frequenzy: 1
+NamedEntity-Miscellanies: Nahostkonflikt |frequenzy: 1
+NamedEntity-Miscellanies: Heron-Drohne  |frequenzy: 1
+NamedEntity-Miscellanies: irakischen Verfassung |frequenzy: 1

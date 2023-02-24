@@ -1,0 +1,157 @@
+NamedEntity-Organisation: Präsident! |frequenzy: 20
+NamedEntity-Organisation: CDU |frequenzy: 16
+NamedEntity-Organisation: SPD |frequenzy: 16
+NamedEntity-Organisation: FDP |frequenzy: 12
+NamedEntity-Organisation: Die Linke |frequenzy: 11
+NamedEntity-Organisation: Vereinten Nationen |frequenzy: 10
+NamedEntity-Organisation: Bundeswehr |frequenzy: 10
+NamedEntity-Organisation: Die Grünen |frequenzy: 9
+NamedEntity-Organisation: Assad |frequenzy: 9
+NamedEntity-Organisation: AfD |frequenzy: 8
+NamedEntity-Organisation: CDU/CSU |frequenzy: 8
+NamedEntity-Organisation: SPD-Fraktion |frequenzy: 7
+NamedEntity-Organisation: Europäischen Union |frequenzy: 6
+NamedEntity-Organisation: Hisbollah |frequenzy: 6
+NamedEntity-Organisation: Bundestag |frequenzy: 5
+NamedEntity-Organisation: Union |frequenzy: 5
+NamedEntity-Organisation: Deutschen Bundestag |frequenzy: 5
+NamedEntity-Organisation: AfD-Fraktion |frequenzy: 4
+NamedEntity-Organisation: FDP-Fraktion |frequenzy: 4
+NamedEntity-Organisation: CSU |frequenzy: 3
+NamedEntity-Organisation: Linken |frequenzy: 3
+NamedEntity-Organisation: Freien Demokraten |frequenzy: 3
+NamedEntity-Organisation: UN |frequenzy: 3
+NamedEntity-Organisation: Deutsche Bundestag |frequenzy: 3
+NamedEntity-Organisation: IS |frequenzy: 3
+NamedEntity-Organisation: Europäische Union |frequenzy: 3
+NamedEntity-Organisation: BMBF |frequenzy: 3
+NamedEntity-Organisation: Damen |frequenzy: 3
+NamedEntity-Organisation: Internationalen Organisation für Migration |frequenzy: 3
+NamedEntity-Organisation: IOM |frequenzy: 3
+NamedEntity-Organisation: OECD |frequenzy: 2
+NamedEntity-Organisation: Grünen |frequenzy: 2
+NamedEntity-Organisation: WHO |frequenzy: 2
+NamedEntity-Organisation: Abgeordnete! |frequenzy: 2
+NamedEntity-Organisation: Deutschland |frequenzy: 2
+NamedEntity-Organisation: UN-Mandat |frequenzy: 2
+NamedEntity-Organisation: EUTM Mali |frequenzy: 2
+NamedEntity-Organisation: NATO |frequenzy: 2
+NamedEntity-Organisation: deutsche Einwanderungsrecht |frequenzy: 2
+NamedEntity-Organisation: SPD-Bundestagsfraktion |frequenzy: 2
+NamedEntity-Organisation: die Grünen |frequenzy: 2
+NamedEntity-Organisation: Kommune |frequenzy: 2
+NamedEntity-Organisation: Grüne |frequenzy: 2
+NamedEntity-Organisation: Danke |frequenzy: 2
+NamedEntity-Organisation: Ausbildungsmission |frequenzy: 2
+NamedEntity-Organisation: Zentrum |frequenzy: 2
+NamedEntity-Organisation: irakischen Streitkräfte |frequenzy: 1
+NamedEntity-Organisation: Jesidinnen und Jesiden |frequenzy: 1
+NamedEntity-Organisation: Gesellschaft  |frequenzy: 1
+NamedEntity-Organisation: Bundesamt für Migration und Flüchtlinge |frequenzy: 1
+NamedEntity-Organisation: Bund und Ländern |frequenzy: 1
+NamedEntity-Organisation: Autonomiebehörde |frequenzy: 1
+NamedEntity-Organisation: Internationalen Gerichtshof |frequenzy: 1
+NamedEntity-Organisation: SED |frequenzy: 1
+NamedEntity-Organisation: Kommission |frequenzy: 1
+NamedEntity-Organisation: Streitkräften |frequenzy: 1
+NamedEntity-Organisation: UN-Kinderhilfswerk |frequenzy: 1
+NamedEntity-Organisation: Oxfam |frequenzy: 1
+NamedEntity-Organisation: Wir Freien Demokraten |frequenzy: 1
+NamedEntity-Organisation: StephanMayerCDU |frequenzy: 1
+NamedEntity-Organisation: KMK |frequenzy: 1
+NamedEntity-Organisation: EU-Bluecard-Aufenthaltstitel |frequenzy: 1
+NamedEntity-Organisation: BND |frequenzy: 1
+NamedEntity-Organisation: EU-Bürger |frequenzy: 1
+NamedEntity-Organisation: Afghanistan |frequenzy: 1
+NamedEntity-Organisation: Streitkräfte |frequenzy: 1
+NamedEntity-Organisation: Ausbildungs- und Arbeitsmigration |frequenzy: 1
+NamedEntity-Organisation: fatal |frequenzy: 1
+NamedEntity-Organisation: Weimarer Republik |frequenzy: 1
+NamedEntity-Organisation: Wählerinnen |frequenzy: 1
+NamedEntity-Organisation: Linke |frequenzy: 1
+NamedEntity-Organisation: lesen;denn |frequenzy: 1
+NamedEntity-Organisation: Kollege Gehring |frequenzy: 1
+NamedEntity-Organisation: Bertelsmann-Stiftung |frequenzy: 1
+NamedEntity-Organisation: EU-Beratungsmission |frequenzy: 1
+NamedEntity-Organisation: UN-Generalsekretär |frequenzy: 1
+NamedEntity-Organisation: Weltgesundheitsorganisation |frequenzy: 1
+NamedEntity-Organisation: Erbil |frequenzy: 1
+NamedEntity-Organisation: Deutschlands Sicherheit |frequenzy: 1
+NamedEntity-Organisation: Bundestages |frequenzy: 1
+NamedEntity-Organisation: AQIM |frequenzy: 1
+NamedEntity-Organisation: Schutzsuchende! |frequenzy: 1
+NamedEntity-Organisation: Rheinisch-Westfälischen Technischen Hochschule Aachen |frequenzy: 1
+NamedEntity-Organisation: Irak |frequenzy: 1
+NamedEntity-Organisation: ’s! |frequenzy: 1
+NamedEntity-Organisation: Streitkräfte im Nordirak |frequenzy: 1
+NamedEntity-Organisation: Deutschen Bundestages |frequenzy: 1
+NamedEntity-Organisation: Interessenlage Russlands |frequenzy: 1
+NamedEntity-Organisation: Bundes für die Schulen im Land |frequenzy: 1
+NamedEntity-Organisation: Kollege Annen |frequenzy: 1
+NamedEntity-Organisation: Unsere Gesellschaft |frequenzy: 1
+NamedEntity-Organisation: Saudi Arabien |frequenzy: 1
+NamedEntity-Organisation: Organisation für das Verbot chemischer Waffen |frequenzy: 1
+NamedEntity-Organisation: europäischen Partnern |frequenzy: 1
+NamedEntity-Organisation: al-Qaida |frequenzy: 1
+NamedEntity-Organisation: UNO |frequenzy: 1
+NamedEntity-Organisation: Freie Demokraten |frequenzy: 1
+NamedEntity-Organisation: Übergangsregierung |frequenzy: 1
+NamedEntity-Organisation: UNIFIL |frequenzy: 1
+NamedEntity-Organisation: World Relief |frequenzy: 1
+NamedEntity-Organisation: Sowjets |frequenzy: 1
+NamedEntity-Organisation: Streitkräfte des Landes |frequenzy: 1
+NamedEntity-Organisation: UN-Angaben |frequenzy: 1
+NamedEntity-Organisation: Der Spiegel |frequenzy: 1
+NamedEntity-Organisation: KfW-Bankengruppe |frequenzy: 1
+NamedEntity-Organisation: EU |frequenzy: 1
+NamedEntity-Organisation: Security Sector Reform |frequenzy: 1
+NamedEntity-Organisation: Sozialdemokraten |frequenzy: 1
+NamedEntity-Organisation: Putin |frequenzy: 1
+NamedEntity-Organisation: Mission Counter Daesh |frequenzy: 1
+NamedEntity-Organisation: Ihres Antrags |frequenzy: 1
+NamedEntity-Organisation: Hartmann |frequenzy: 1
+NamedEntity-Organisation: deutsche Parlament |frequenzy: 1
+NamedEntity-Organisation: Binnenmigration |frequenzy: 1
+NamedEntity-Organisation: Kooperationsverbot! |frequenzy: 1
+NamedEntity-Organisation: Wir Demokraten |frequenzy: 1
+NamedEntity-Organisation: Rheinmetall |frequenzy: 1
+NamedEntity-Organisation: Arabischen Liga |frequenzy: 1
+NamedEntity-Organisation: Dr  Harbarth |frequenzy: 1
+NamedEntity-Organisation: Kreditanstalt für Wiederaufbau |frequenzy: 1
+NamedEntity-Organisation: Bund-Länder-Zusammenarbeit |frequenzy: 1
+NamedEntity-Organisation: Freie Syrische Armee |frequenzy: 1
+NamedEntity-Organisation: Lambsdorff |frequenzy: 1
+NamedEntity-Organisation: Schulpreisen |frequenzy: 1
+NamedEntity-Organisation: Terror |frequenzy: 1
+NamedEntity-Organisation: StefanKaufmannCDU |frequenzy: 1
+NamedEntity-Organisation: BA |frequenzy: 1
+NamedEntity-Organisation: Bundes |frequenzy: 1
+NamedEntity-Organisation: UNIFIL-Mandat |frequenzy: 1
+NamedEntity-Organisation: Lehman Brothers |frequenzy: 1
+NamedEntity-Organisation: Le Monde |frequenzy: 1
+NamedEntity-Organisation: UNICEF |frequenzy: 1
+NamedEntity-Organisation: Bund für den Kitaausbau |frequenzy: 1
+NamedEntity-Organisation: Bluecard-Inhaber |frequenzy: 1
+NamedEntity-Organisation: Demokrat |frequenzy: 1
+NamedEntity-Organisation: CARE |frequenzy: 1
+NamedEntity-Organisation: UNHCR |frequenzy: 1
+NamedEntity-Organisation: Nastic |frequenzy: 1
+NamedEntity-Organisation: Bundesnachrichtendienstes |frequenzy: 1
+NamedEntity-Organisation: Ministerin |frequenzy: 1
+NamedEntity-Organisation: Huthi |frequenzy: 1
+NamedEntity-Organisation: AfD Herr Dr   |frequenzy: 1
+NamedEntity-Organisation: Bundes Deutscher Verwaltungsrichter |frequenzy: 1
+NamedEntity-Organisation: christlichen Union |frequenzy: 1
+NamedEntity-Organisation: Bundesagentur für Arbeit |frequenzy: 1
+NamedEntity-Organisation: Deutschen Bundestags |frequenzy: 1
+NamedEntity-Organisation: Blauen Karte EU |frequenzy: 1
+NamedEntity-Organisation: Bund-Länder-Programm |frequenzy: 1
+NamedEntity-Organisation: Bildung |frequenzy: 1
+NamedEntity-Organisation: Capacity Building |frequenzy: 1
+NamedEntity-Organisation: SPD-Papier |frequenzy: 1
+NamedEntity-Organisation: absurd |frequenzy: 1
+NamedEntity-Organisation: UN-Ideologen |frequenzy: 1
+NamedEntity-Organisation: Philipp Holzmann AG |frequenzy: 1
+NamedEntity-Organisation: französische Armee |frequenzy: 1
+NamedEntity-Organisation: Bund für die Länder |frequenzy: 1
+NamedEntity-Organisation: Deutsche Reich |frequenzy: 1

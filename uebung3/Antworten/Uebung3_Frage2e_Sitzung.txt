@@ -1,0 +1,11 @@
+In the session: 1 the speaker with the speech ID: ID19100800 had 11.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19101300 had 11.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19100300 had 4.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19100500 had 4.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19101200 had 4.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19100700 had 2.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19100600 had 2.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19101800 had 2.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19100400 had 1.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19100900 had 1.0 positive comments
+In the session: 1 the speaker with the speech ID: ID19101700 had 1.0 positive comments

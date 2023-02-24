@@ -1,0 +1,282 @@
+mit Datumsfilter a) nur eins; b) für ein Bereich
+
+a) 
+Redner ohne Filter für Partei und Fraktion
+
+datum: 2017-10-23
+
+The speaker: Alterspräsident Dr. Hermann Otto Solms with the ID: 11002190 from the Fraction: FDP had: 4.0
+The speaker: Dr. Wolfgang Schäuble with the ID: 11002190 from the Fraction: FDP had: 2.0
+The speaker: Michael Grosse-Brömer with the ID: 11003541 from the Fraction: CDU/CSU had: 1.0
+The speaker: Jan Korte with the ID: 11003790 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Carsten Schneider with the ID: 11003218 from the Fraction: SPD had: 1.0
+The speaker: Bernd Baumann with the ID: 11004662 from the Fraction: AfD had: 1.0
+The speaker: Wolfgang Schäuble with the ID: 11001938 from the Fraction: CDU/CSU had: 1.0
+The speaker: Petra Pau with the ID: 11003206 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Claudia Roth with the ID: 11003212 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Marco Buschmann with the ID: 11004023 from the Fraction: FDP had: 1.0
+The speaker: Hans-Peter Friedrich with the ID: 11003124 from the Fraction: CDU/CSU had: 1.0
+The speaker: Wolfgang Kubicki with the ID: 11001235 from the Fraction: FDP had: 1.0
+The speaker: Britta Haßelmann with the ID: 11003764 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Volker Kauder with the ID: 11001074 from the Fraction: CDU/CSU had: 1.0
+The speaker: Thomas Oppermann with the ID: 11003820 from the Fraction: SPD had: 1.0
+
+Mit Fraktionsfilter: 
+
+Fraktion: CDU/CSU
+Datum: 2017-10-23
+
+The speaker: Wolfgang Schäuble with the ID: 11001938 from the Fraction: CDU/CSU had: 1.0
+The speaker: Michael Grosse-Brömer with the ID: 11003541 from the Fraction: CDU/CSU had: 1.0
+The speaker: Hans-Peter Friedrich with the ID: 11003124 from the Fraction: CDU/CSU had: 1.0
+The speaker: Volker Kauder with the ID: 11001074 from the Fraction: CDU/CSU had: 1.0
+
+Mit Parteifilter:
+
+Partei: FDP
+Datum: 2017-10-23
+
+The speaker: Alterspräsident Dr. Hermann Otto Solms with the ID: 11002190 from the party: FDP had: 4.0
+The speaker: Dr. Wolfgang Schäuble with the ID: 11002190 from the party: FDP had: 2.0
+The speaker: Wolfgang Kubicki with the ID: 11001235 from the party: FDP had: 1.0
+The speaker: Marco Buschmann with the ID: 11004023 from the party: FDP had: 1.0
+
+b) 
+
+Redner ohne Filter für Partei und Fraktion
+
+datum 1: 2017-10-23
+datum 2: 2017-11-20
+
+The speaker: Sigmar Gabriel with the ID: 11003755 from the Fraction: SPD had: 6.0
+The speaker: Alterspräsident Dr. Hermann Otto Solms with the ID: 11002190 from the Fraction: FDP had: 4.0
+The speaker: Marie-Agnes Strack-Zimmermann with the ID: 11004906 from the Fraction: FDP had: 3.0
+The speaker: Carsten Schneider with the ID: 11003218 from the Fraction: SPD had: 3.0
+The speaker: Axel Gehrke with the ID: 11004725 from the Fraction: AfD had: 3.0
+The speaker: Ursula Leyen with the ID: 11004092 from the Fraction: CDU/CSU had: 3.0
+The speaker: Harald Weinberg with the ID: 11004186 from the Fraction: DIE LINKE. had: 2.0
+The speaker: Britta Haßelmann with the ID: 11003764 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 2.0
+The speaker: Gerold Otten with the ID: 11004846 from the Fraction: AfD had: 2.0
+The speaker: Joachim Pfeiffer with the ID: 11003608 from the Fraction: CDU/CSU had: 2.0
+The speaker: Reinhard Brandl with the ID: 11004018 from the Fraction: CDU/CSU had: 2.0
+The speaker: Marco Buschmann with the ID: 11004023 from the Fraction: FDP had: 2.0
+The speaker: Christian Petry with the ID: 11004605 from the Fraction: SPD had: 2.0
+The speaker: Anja Weisgerber with the ID: 11004440 from the Fraction: CDU/CSU had: 2.0
+The speaker: Dr. Wolfgang Schäuble with the ID: 11002190 from the Fraction: FDP had: 2.0
+The speaker: Bernd Baumann with the ID: 11004662 from the Fraction: AfD had: 2.0
+The speaker: Tobias Pflüger with the ID: 11004852 from the Fraction: DIE LINKE. had: 2.0
+The speaker: Oliver Krischer with the ID: 11004081 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 2.0
+The speaker: Sevim Dağdelen with the ID: 11003746 from the Fraction: DIE LINKE. had: 2.0
+The speaker: Jan Korte with the ID: 11003790 from the Fraction: DIE LINKE. had: 2.0
+The speaker: Michael Grosse-Brömer with the ID: 11003541 from the Fraction: CDU/CSU had: 2.0
+The speaker: Ralf Brauksiepe with the ID: 11003055 from the Fraction: CDU/CSU had: 2.0
+The speaker: Christian Dürr with the ID: 11004705 from the Fraction: FDP had: 2.0
+The speaker: Gabi Weber with the ID: 11004438 from the Fraction: SPD had: 1.0
+The speaker: Torsten Herbst with the ID: 11004746 from the Fraction: FDP had: 1.0
+The speaker: Peter Altmaier with the ID:  from the Fraction: Fraktionslos had: 1.0
+The speaker: Karsten Hilse with the ID: 11004752 from the Fraction: AfD had: 1.0
+The speaker: Norbert Kleinwächter with the ID: 11004781 from the Fraction: AfD had: 1.0
+The speaker: Lukas Köhler with the ID: 11004786 from the Fraction: FDP had: 1.0
+The speaker: Bernd Reuther with the ID: 11004864 from the Fraction: FDP had: 1.0
+The speaker: Eva Högl with the ID: 11003896 from the Fraction: SPD had: 1.0
+The speaker: Lorenz Gösta Beutin with the ID: 11004672 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Uwe Kekeritz with the ID: 11004066 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Michael Georg Link with the ID: 11003802 from the Fraction: FDP had: 1.0
+The speaker: Tino Chrupalla with the ID: 11004695 from the Fraction: AfD had: 1.0
+The speaker: Petra Pau with the ID: 11003206 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Alexander S. Neu with the ID: 11004361 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Sven-Christian Kindler with the ID: 11004070 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Andrea Nahles with the ID: 11003196 from the Fraction: SPD had: 1.0
+The speaker: Bettina Hagedorn with the ID: 11003545 from the Fraction: SPD had: 1.0
+The speaker: Andreas G. Lämmel with the ID: 11003796 from the Fraction: CDU/CSU had: 1.0
+The speaker: Otto Fricke with the ID: 11003530 from the Fraction: FDP had: 1.0
+The speaker: Manuel Sarrazin with the ID: 11003889 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Marc Bernhard with the ID: 11004669 from the Fraction: AfD had: 1.0
+The speaker: Jutta Krellmann with the ID: 11004080 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Andrej Hunko with the ID: 11004060 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Peter Boehringer with the ID: 11004675 from the Fraction: AfD had: 1.0
+The speaker: Lothar Riebsamen with the ID: 11004135 from the Fraction: CDU/CSU had: 1.0
+The speaker: Harald Weyel with the ID: 11004932 from the Fraction: AfD had: 1.0
+The speaker: Kathrin Vogler with the ID: 11004181 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Alice Weidel with the ID: 11004930 from the Fraction: AfD had: 1.0
+The speaker: Claudia Roth with the ID: 11003212 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Agnieszka Brugger with the ID: 11004106 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Klaus Ernst with the ID: 11003753 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Wolfgang Schäuble with the ID: 11001938 from the Fraction: CDU/CSU had: 1.0
+The speaker: Wolfgang Kubicki with the ID: 11001235 from the Fraction: FDP had: 1.0
+The speaker: Wolfgang Hellmich with the ID: 11004226 from the Fraction: SPD had: 1.0
+The speaker: Eckhardt Rehberg with the ID: 11003826 from the Fraction: CDU/CSU had: 1.0
+The speaker: Jana Schimke with the ID: 11004398 from the Fraction: CDU/CSU had: 1.0
+The speaker: Hans-Peter Friedrich with the ID: 11003124 from the Fraction: CDU/CSU had: 1.0
+The speaker: Stephan Kühn with the ID: 11004085 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Jürgen Hardt with the ID: 11004050 from the Fraction: CDU/CSU had: 1.0
+The speaker: Henning Otte with the ID: 11003821 from the Fraction: CDU/CSU had: 1.0
+The speaker: Thorsten Frei with the ID: 11004276 from the Fraction: CDU/CSU had: 1.0
+The speaker: Thomas Oppermann with the ID: 11003820 from the Fraction: SPD had: 1.0
+The speaker: Michael Stübgen with the ID: 11002280 from the Fraction: CDU/CSU had: 1.0
+The speaker: Martin Schulz with the ID: 11004886 from the Fraction: SPD had: 1.0
+The speaker: Andreas Lenz with the ID: 11004339 from the Fraction: CDU/CSU had: 1.0
+The speaker: Kerstin Andreae with the ID: 11003493 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Bijan Djir-Sarai with the ID: 11004029 from the Fraction: FDP had: 1.0
+The speaker: Karl Lauterbach with the ID: 11003797 from the Fraction: SPD had: 1.0
+The speaker: Jan Ralf Nolte with the ID: 11004842 from the Fraction: AfD had: 1.0
+The speaker: Bärbel Kofler with the ID: 11003710 from the Fraction: SPD had: 1.0
+The speaker: Maria Klein-Schmeink with the ID: 11004072 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Tobias Lindner with the ID: 11004217 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Fabio De Masi with the ID: 11004817 from the Fraction: DIE LINKE. had: 1.0
+The speaker: Volker Kauder with the ID: 11001074 from the Fraction: CDU/CSU had: 1.0
+The speaker: Hansjörg Durz with the ID: 11004264 from the Fraction: CDU/CSU had: 1.0
+The speaker: Frank Schwabe with the ID: 11003846 from the Fraction: SPD had: 1.0
+The speaker: Heiko Heßenkemper with the ID: 11004751 from the Fraction: Fraktionslos had: 1.0
+The speaker: Christine Aschenberg-Dugnus with the ID: 11004003 from the Fraction: FDP had: 1.0
+The speaker: Alexander Graf Lambsdorff with the ID: 11004798 from the Fraction: FDP had: 1.0
+The speaker: Frithjof Schmidt with the ID: 11004145 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1.0
+The speaker: Thomas Jurk with the ID: 11004318 from the Fraction: SPD had: 1.0
+The speaker: Barbara Hendricks with the ID: 11002672 from the Fraction: SPD had: 1.0
+
+Mit Fraktionsfilter:
+
+Fraktion: CDU/CSU
+Datum1: 2017-10-23
+Datum2: 2017-11-20
+
+The speaker: Ursula Leyen with the ID: 11004092 from the Fraction: CDU/CSU had: 3.0
+The speaker: Anja Weisgerber with the ID: 11004440 from the Fraction: CDU/CSU had: 2.0
+The speaker: Joachim Pfeiffer with the ID: 11003608 from the Fraction: CDU/CSU had: 2.0
+The speaker: Michael Grosse-Brömer with the ID: 11003541 from the Fraction: CDU/CSU had: 2.0
+The speaker: Ralf Brauksiepe with the ID: 11003055 from the Fraction: CDU/CSU had: 2.0
+The speaker: Reinhard Brandl with the ID: 11004018 from the Fraction: CDU/CSU had: 2.0
+The speaker: Andreas Lenz with the ID: 11004339 from the Fraction: CDU/CSU had: 1.0
+The speaker: Wolfgang Schäuble with the ID: 11001938 from the Fraction: CDU/CSU had: 1.0
+The speaker: Eckhardt Rehberg with the ID: 11003826 from the Fraction: CDU/CSU had: 1.0
+The speaker: Michael Stübgen with the ID: 11002280 from the Fraction: CDU/CSU had: 1.0
+The speaker: Henning Otte with the ID: 11003821 from the Fraction: CDU/CSU had: 1.0
+The speaker: Hansjörg Durz with the ID: 11004264 from the Fraction: CDU/CSU had: 1.0
+The speaker: Volker Kauder with the ID: 11001074 from the Fraction: CDU/CSU had: 1.0
+The speaker: Thorsten Frei with the ID: 11004276 from the Fraction: CDU/CSU had: 1.0
+The speaker: Lothar Riebsamen with the ID: 11004135 from the Fraction: CDU/CSU had: 1.0
+The speaker: Jürgen Hardt with the ID: 11004050 from the Fraction: CDU/CSU had: 1.0
+The speaker: Jana Schimke with the ID: 11004398 from the Fraction: CDU/CSU had: 1.0
+The speaker: Hans-Peter Friedrich with the ID: 11003124 from the Fraction: CDU/CSU had: 1.0
+The speaker: Andreas G. Lämmel with the ID: 11003796 from the Fraction: CDU/CSU had: 1.0
+
+Mit Parteifilter:
+
+Partei: SPD
+Datum1: 2017-10-23
+Datum2: 2018-05-24
+The speaker: Heiko Maas with the ID: 11004809 from the party: SPD had: 37.0
+The speaker: Katarina Barley with the ID: 11004247 from the party: SPD had: 30.0
+The speaker: Barbara Hendricks with the ID: 11002672 from the party: SPD had: 29.0
+The speaker: Brigitte Zypries with the ID: 11003870 from the party: SPD had: 22.0
+The speaker: Lars Castellucci with the ID: 11004257 from the party: SPD had: 14.0
+The speaker: Eva Högl with the ID: 11003896 from the party: SPD had: 13.0
+The speaker: Niels Annen with the ID: 11003732 from the party: SPD had: 13.0
+The speaker: Lothar Binding with the ID: 11003050 from the party: SPD had: 11.0
+The speaker: Fritz Felgentreu with the ID: 11004272 from the party: SPD had: 10.0
+The speaker: Nils Schmid with the ID: 11004876 from the party: SPD had: 10.0
+The speaker: Gabriele Hiller-Ohm with the ID: 11003556 from the party: SPD had: 10.0
+The speaker: Sonja Amalie Steffen with the ID: 11004164 from the party: SPD had: 9.0
+The speaker: Siemtje Möller with the ID: 11004826 from the party: SPD had: 8.0
+The speaker: Johannes Fechner with the ID: 11004270 from the party: SPD had: 8.0
+The speaker: Bernd Westphal with the ID: 11004442 from the party: SPD had: 7.0
+The speaker: Karl Lauterbach with the ID: 11003797 from the party: SPD had: 7.0
+The speaker: Matthias Bartke with the ID: 11004248 from the party: SPD had: 7.0
+The speaker: Sigmar Gabriel with the ID: 11003755 from the party: SPD had: 7.0
+The speaker: Sören Bartol with the ID: 11003496 from the party: SPD had: 7.0
+The speaker: Karl-Heinz Brunner with the ID: 11004256 from the party: SPD had: 7.0
+The speaker: Christoph Matschie with the ID: 11001434 from the party: SPD had: 7.0
+The speaker: Johannes Kahrs with the ID: 11003157 from the party: SPD had: 7.0
+The speaker: Andrea Nahles with the ID: 11003196 from the party: SPD had: 7.0
+The speaker: Martin Gerster with the ID: 11003758 from the party: SPD had: 6.0
+The speaker: Nina Scheer with the ID: 11004396 from the party: SPD had: 6.0
+The speaker: Hubertus Heil with the ID: 11003142 from the party: SPD had: 6.0
+The speaker: Helge Lindh with the ID: 11004802 from the party: SPD had: 5.0
+The speaker: Johann Saathoff with the ID: 11004393 from the party: SPD had: 5.0
+The speaker: Thomas Hitschler with the ID: 11004303 from the party: SPD had: 5.0
+The speaker: Bernd Rützel with the ID: 11004392 from the party: SPD had: 5.0
+The speaker: Achim Post with the ID: 11004378 from the party: SPD had: 5.0
+The speaker: Daniela De Ridder with the ID: 11004386 from the party: SPD had: 5.0
+The speaker: Gabi Weber with the ID: 11004438 from the party: SPD had: 5.0
+The speaker: Kirsten Lühmann with the ID: 11004101 from the party: SPD had: 5.0
+The speaker: Johannes Schraps with the ID: 11004881 from the party: SPD had: 4.0
+The speaker: Rita Schwarzelühr-Sutter with the ID: 11003847 from the party: SPD had: 4.0
+The speaker: Ulli Nissen with the ID: 11004363 from the party: SPD had: 4.0
+The speaker: Kerstin Tack with the ID: 11004173 from the party: SPD had: 4.0
+The speaker: Gabriela Heinrich with the ID: 11004296 from the party: SPD had: 4.0
+The speaker: Sebastian Hartmann with the ID: 11004291 from the party: SPD had: 4.0
+The speaker: Wiebke Esdar with the ID: 11004710 from the party: SPD had: 4.0
+The speaker: Arno Klare with the ID: 11004329 from the party: SPD had: 4.0
+The speaker: Rolf Mützenich with the ID: 11003599 from the party: SPD had: 4.0
+The speaker: Oliver Kaczmarek with the ID: 11004063 from the party: SPD had: 4.0
+The speaker: Falko Mohrs with the ID: 11004824 from the party: SPD had: 4.0
+The speaker: Carsten Schneider with the ID: 11003218 from the party: SPD had: 4.0
+The speaker: Christian Petry with the ID: 11004605 from the party: SPD had: 4.0
+The speaker: Martin Rabanus with the ID: 11004381 from the party: SPD had: 4.0
+The speaker: Sabine Dittmar with the ID: 11004261 from the party: SPD had: 4.0
+The speaker: Ingrid Arndt-Brauer with the ID: 11003422 from the party: SPD had: 4.0
+The speaker: Ursula Schulte with the ID: 11004404 from the party: SPD had: 3.0
+The speaker: Frank Schwabe with the ID: 11003846 from the party: SPD had: 3.0
+The speaker: Gülistan Yüksel with the ID: 11004448 from the party: SPD had: 3.0
+The speaker: Josephine Ortleb with the ID: 11004844 from the party: SPD had: 3.0
+The speaker: Jens Zimmermann with the ID: 11004603 from the party: SPD had: 3.0
+The speaker: Florian Post with the ID: 11004379 from the party: SPD had: 3.0
+The speaker: Dagmar Freitag with the ID: 11002655 from the party: SPD had: 3.0
+The speaker: Rainer Spiering with the ID: 11004410 from the party: SPD had: 3.0
+The speaker: Susanne Mittag with the ID: 11004355 from the party: SPD had: 3.0
+The speaker: Katja Mast with the ID: 11003804 from the party: SPD had: 3.0
+The speaker: Wolfgang Hellmich with the ID: 11004226 from the party: SPD had: 3.0
+The speaker: Aydan Özoğuz with the ID: 11004124 from the party: SPD had: 3.0
+The speaker: Bärbel Bas with the ID: 11004006 from the party: SPD had: 2.0
+The speaker: Thomas Jurk with the ID: 11004318 from the party: SPD had: 2.0
+The speaker: Kerstin Griese with the ID: 11003440 from the party: SPD had: 2.0
+The speaker: Andreas Schwarz with the ID: 11004407 from the party: SPD had: 2.0
+The speaker: Martin Schulz with the ID: 11004886 from the party: SPD had: 2.0
+The speaker: Ralf Kapschack with the ID: 11004321 from the party: SPD had: 2.0
+The speaker: Michelle Müntefering with the ID: 11004359 from the party: SPD had: 2.0
+The speaker: Michael Roth with the ID: 11003213 from the party: SPD had: 2.0
+The speaker: Uli Grötsch with the ID: 11004282 from the party: SPD had: 2.0
+The speaker: Mahmut Özdemir with the ID: 11004368 from the party: SPD had: 2.0
+The speaker: Timon Gremmels with the ID: 11004732 from the party: SPD had: 2.0
+The speaker: Uwe Schmidt with the ID: 11004878 from the party: SPD had: 2.0
+The speaker: Bettina Hagedorn with the ID: 11003545 from the party: SPD had: 2.0
+The speaker: Karamba Diaby with the ID: 11004259 from the party: SPD had: 2.0
+The speaker: Elisabeth Kaiser with the ID: 11004771 from the party: SPD had: 2.0
+The speaker: Dirk Vöpel with the ID: 11004433 from the party: SPD had: 2.0
+The speaker: Yasmin Fahimi with the ID: 11004713 from the party: SPD had: 2.0
+The speaker: Sarah Ryglewski with the ID: 11004622 from the party: SPD had: 2.0
+The speaker: Esther Dilcher with the ID: 11004701 from the party: SPD had: 2.0
+The speaker: Markus Töns with the ID: 11004921 from the party: SPD had: 2.0
+The speaker: Sönke Rix with the ID: 11003830 from the party: SPD had: 2.0
+The speaker: Heike Baehrens with the ID: 11004244 from the party: SPD had: 2.0
+The speaker: Cansel Kiziltepe with the ID: 11004328 from the party: SPD had: 2.0
+The speaker: Angelika Glöckner with the ID: 11004614 from the party: SPD had: 2.0
+The speaker: Manja Schüle with the ID: 11004885 from the party: SPD had: 1.0
+The speaker: Bärbel Kofler with the ID: 11003710 from the party: SPD had: 1.0
+The speaker: Michael Schrodi with the ID: 11004884 from the party: SPD had: 1.0
+The speaker: Metin Hakverdi with the ID: 11004289 from the party: SPD had: 1.0
+The speaker: Claudia Moll with the ID: 11004825 from the party: SPD had: 1.0
+The speaker: Dagmar Schmidt with the ID: 11004401 from the party: SPD had: 1.0
+The speaker: Martin Burkert with the ID: 11003744 from the party: SPD had: 1.0
+The speaker: Josip Juratovic with the ID: 11003782 from the party: SPD had: 1.0
+The speaker: Ernst Dieter Rossmann with the ID: 11003211 from the party: SPD had: 1.0
+The speaker: Stefan Schwartze with the ID: 11004150 from the party: SPD had: 1.0
+The speaker: Marja-Liisa Völlers with the ID: 11004942 from the party: SPD had: 1.0
+The speaker: Rita Hagl-Kehl with the ID: 11004287 from the party: SPD had: 1.0
+The speaker: Edgar Franke with the ID: 11004033 from the party: SPD had: 1.0
+The speaker: Svenja Stadler with the ID: 11004412 from the party: SPD had: 1.0
+The speaker: Michael Thews with the ID: 11004424 from the party: SPD had: 1.0
+The speaker: Daniela Kolbe with the ID: 11004079 from the party: SPD had: 1.0
+The speaker: Martin Rosemann with the ID: 11004389 from the party: SPD had: 1.0
+The speaker: Michael Gerdes with the ID: 11004039 from the party: SPD had: 1.0
+The speaker: Susann Rüthrich with the ID: 11004391 from the party: SPD had: 1.0
+The speaker: Matthias Miersch with the ID: 11003809 from the party: SPD had: 1.0
+The speaker: Christian Lange with the ID: 11003168 from the party: SPD had: 1.0
+The speaker: Burkhard Lischka with the ID: 11004099 from the party: SPD had: 1.0
+The speaker: Thomas Oppermann with the ID: 11003820 from the party: SPD had: 1.0
+The speaker: Bernhard Daldrup with the ID: 11004258 from the party: SPD had: 1.0
+The speaker: René Röspel with the ID: 11003210 from the party: SPD had: 1.0
+The speaker: Dennis Rohde with the ID: 11004388 from the party: SPD had: 1.0
+The speaker: Udo Schiefner with the ID: 11004397 from the party: SPD had: 1.0
+The speaker: Swen Schulz with the ID: 11003630 from the party: SPD had: 1.0
+The speaker: Klaus Mindrup with the ID: 11004354 from the party: SPD had: 1.0

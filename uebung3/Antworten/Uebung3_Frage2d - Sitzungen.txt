@@ -1,0 +1,5 @@
+In between the session: 8 and 13 were: 355.0 speeches held in total
+The sentiment distribution across the entire corpus between the session: 8 and 13 is: 
+Positiv: 90.33311561071196%
+Negativ: 9.666884389288047%
+Neutral: 0.0%

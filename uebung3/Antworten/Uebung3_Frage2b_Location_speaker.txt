@@ -1,0 +1,150 @@
+NamedEntity-Location: Deutschland |frequenzy: 17
+NamedEntity-Location: Erfurt |frequenzy: 6
+NamedEntity-Location: Thüringen |frequenzy: 5
+NamedEntity-Location: Europa |frequenzy: 5
+NamedEntity-Location: Bund |frequenzy: 4
+NamedEntity-Location: Staaten |frequenzy: 4
+NamedEntity-Location: Union |frequenzy: 4
+NamedEntity-Location: Finanzminister |frequenzy: 4
+NamedEntity-Location: Unterschiede |frequenzy: 3
+NamedEntity-Location: Irland |frequenzy: 3
+NamedEntity-Location: Landes |frequenzy: 3
+NamedEntity-Location: Weimar |frequenzy: 3
+NamedEntity-Location: Deutschlands |frequenzy: 3
+NamedEntity-Location: Berlin |frequenzy: 3
+NamedEntity-Location: Superreichen |frequenzy: 2
+NamedEntity-Location: Augsburg |frequenzy: 2
+NamedEntity-Location: Erstens |frequenzy: 2
+NamedEntity-Location: Brandenburg |frequenzy: 2
+NamedEntity-Location: Sachsen |frequenzy: 2
+NamedEntity-Location: Konsens |frequenzy: 2
+NamedEntity-Location: Problem |frequenzy: 2
+NamedEntity-Location: Europas |frequenzy: 2
+NamedEntity-Location: Bundesminister |frequenzy: 2
+NamedEntity-Location: Bundesfinanzminister |frequenzy: 2
+NamedEntity-Location: Lindner |frequenzy: 2
+NamedEntity-Location: Opfern |frequenzy: 2
+NamedEntity-Location: Zweitens |frequenzy: 2
+NamedEntity-Location: Plenum |frequenzy: 2
+NamedEntity-Location: Wahlkämpfen |frequenzy: 2
+NamedEntity-Location: den USA |frequenzy: 2
+NamedEntity-Location: Weihnachtsferien |frequenzy: 2
+NamedEntity-Location: Frankfurt |frequenzy: 2
+NamedEntity-Location: Stadt |frequenzy: 2
+NamedEntity-Location: Irlands |frequenzy: 1
+NamedEntity-Location: Gesamtpaket |frequenzy: 1
+NamedEntity-Location: Einzelner |frequenzy: 1
+NamedEntity-Location: Übertreiben |frequenzy: 1
+NamedEntity-Location: Wahlkreis |frequenzy: 1
+NamedEntity-Location: Vereinbarungsweg |frequenzy: 1
+NamedEntity-Location: London |frequenzy: 1
+NamedEntity-Location: Bundesminister der Finanzen |frequenzy: 1
+NamedEntity-Location: St  Petersburg |frequenzy: 1
+NamedEntity-Location: Russland |frequenzy: 1
+NamedEntity-Location: Lügen |frequenzy: 1
+NamedEntity-Location: Europapolitik |frequenzy: 1
+NamedEntity-Location: Sachsen-Anhalt |frequenzy: 1
+NamedEntity-Location: Südafrika |frequenzy: 1
+NamedEntity-Location: Schwindeln |frequenzy: 1
+NamedEntity-Location: Afghanistan |frequenzy: 1
+NamedEntity-Location: Thüringer Landtag |frequenzy: 1
+NamedEntity-Location: Schuldenmacher |frequenzy: 1
+NamedEntity-Location: Individuums |frequenzy: 1
+NamedEntity-Location: Willy-Brandt-Haus |frequenzy: 1
+NamedEntity-Location: Republik |frequenzy: 1
+NamedEntity-Location: Bayern |frequenzy: 1
+NamedEntity-Location: Mehrheitswahlrechts |frequenzy: 1
+NamedEntity-Location: Krisenzeiten |frequenzy: 1
+NamedEntity-Location: PaulZiemiakCDU |frequenzy: 1
+NamedEntity-Location: näherer Zeit |frequenzy: 1
+NamedEntity-Location: Whatever |frequenzy: 1
+NamedEntity-Location: Großbritannien |frequenzy: 1
+NamedEntity-Location: Wieso |frequenzy: 1
+NamedEntity-Location: Schleswig-Holstein |frequenzy: 1
+NamedEntity-Location: Niederlande |frequenzy: 1
+NamedEntity-Location: Panama Papers |frequenzy: 1
+NamedEntity-Location: Entlastungen |frequenzy: 1
+NamedEntity-Location: Aufgabe – |frequenzy: 1
+NamedEntity-Location: Bundesrepublik Deutschland |frequenzy: 1
+NamedEntity-Location: Obergrenze |frequenzy: 1
+NamedEntity-Location: Mobilfunk |frequenzy: 1
+NamedEntity-Location: Datenschutzgründen |frequenzy: 1
+NamedEntity-Location: Russen |frequenzy: 1
+NamedEntity-Location: Redner |frequenzy: 1
+NamedEntity-Location: Herr Pofalla |frequenzy: 1
+NamedEntity-Location: Fairer |frequenzy: 1
+NamedEntity-Location: Hilfspaket |frequenzy: 1
+NamedEntity-Location: Linke – |frequenzy: 1
+NamedEntity-Location: Parlamentarische Staatssekretäre |frequenzy: 1
+NamedEntity-Location: Steuer |frequenzy: 1
+NamedEntity-Location: Land |frequenzy: 1
+NamedEntity-Location: Sprachlosigkeit |frequenzy: 1
+NamedEntity-Location: Bundesverfassungsgerichts |frequenzy: 1
+NamedEntity-Location: legal |frequenzy: 1
+NamedEntity-Location: Dobrindt |frequenzy: 1
+NamedEntity-Location: Schuldenbremse |frequenzy: 1
+NamedEntity-Location: Land Irland |frequenzy: 1
+NamedEntity-Location: Matterhorn |frequenzy: 1
+NamedEntity-Location: Beihilfeverfahrens |frequenzy: 1
+NamedEntity-Location: Corona |frequenzy: 1
+NamedEntity-Location: Mecklenburg-Vorpommern |frequenzy: 1
+NamedEntity-Location: LINKEFabio De Masi |frequenzy: 1
+NamedEntity-Location: Hirte |frequenzy: 1
+NamedEntity-Location: Uns |frequenzy: 1
+NamedEntity-Location: Herr Harbarth |frequenzy: 1
+NamedEntity-Location: Erde |frequenzy: 1
+NamedEntity-Location: Bundes |frequenzy: 1
+NamedEntity-Location: FriedrichStraetmannsDIE LINKEFriedrich Straetmanns |frequenzy: 1
+NamedEntity-Location: Infektionsrate |frequenzy: 1
+NamedEntity-Location: Milieus |frequenzy: 1
+NamedEntity-Location: Minister? |frequenzy: 1
+NamedEntity-Location: Ermessens |frequenzy: 1
+NamedEntity-Location: Nägeln |frequenzy: 1
+NamedEntity-Location: Lesen |frequenzy: 1
+NamedEntity-Location: Roth |frequenzy: 1
+NamedEntity-Location: Malta |frequenzy: 1
+NamedEntity-Location: Impfstoffes |frequenzy: 1
+NamedEntity-Location: Kitas |frequenzy: 1
+NamedEntity-Location: Abgeordnete,(Dr |frequenzy: 1
+NamedEntity-Location: Statistischen Bundesamt |frequenzy: 1
+NamedEntity-Location: Stimmt |frequenzy: 1
+NamedEntity-Location: Millionenhöhe |frequenzy: 1
+NamedEntity-Location: Diesel |frequenzy: 1
+NamedEntity-Location: Mehrheiten |frequenzy: 1
+NamedEntity-Location: Minsk |frequenzy: 1
+NamedEntity-Location: Jamaika |frequenzy: 1
+NamedEntity-Location: Zeit fürs Land |frequenzy: 1
+NamedEntity-Location: Berlins |frequenzy: 1
+NamedEntity-Location: Spitzensteuersatz |frequenzy: 1
+NamedEntity-Location: Portugal |frequenzy: 1
+NamedEntity-Location: Bremse |frequenzy: 1
+NamedEntity-Location: Herr Spahn |frequenzy: 1
+NamedEntity-Location: Abg |frequenzy: 1
+NamedEntity-Location: Millionen |frequenzy: 1
+NamedEntity-Location: Exportmarkt |frequenzy: 1
+NamedEntity-Location: Selbstkritisch |frequenzy: 1
+NamedEntity-Location: Berges |frequenzy: 1
+NamedEntity-Location: Personalisiertes |frequenzy: 1
+NamedEntity-Location: bedanke ich mich |frequenzy: 1
+NamedEntity-Location: Wahlrechtes |frequenzy: 1
+NamedEntity-Location: Newa |frequenzy: 1
+NamedEntity-Location: Kontinents |frequenzy: 1
+NamedEntity-Location: Pandemielage |frequenzy: 1
+NamedEntity-Location: Ostdeutschland |frequenzy: 1
+NamedEntity-Location: Schweiz |frequenzy: 1
+NamedEntity-Location: Ahrtal |frequenzy: 1
+NamedEntity-Location: Moskau |frequenzy: 1
+NamedEntity-Location: Ministern |frequenzy: 1
+NamedEntity-Location: Luxemburg  |frequenzy: 1
+NamedEntity-Location: kraftvoller |frequenzy: 1
+NamedEntity-Location: Bundesminister Heil |frequenzy: 1
+NamedEntity-Location: Mietern |frequenzy: 1
+NamedEntity-Location: Spitzensteuersatzes |frequenzy: 1
+NamedEntity-Location: Wiederaufbaufonds |frequenzy: 1
+NamedEntity-Location: Bewusstsein |frequenzy: 1
+NamedEntity-Location: Sanktionen |frequenzy: 1
+NamedEntity-Location: Bundesinnenminister |frequenzy: 1
+NamedEntity-Location: Bundesverfassungsgericht |frequenzy: 1
+NamedEntity-Location: Bundesrepublik |frequenzy: 1
+NamedEntity-Location: Vorgehens |frequenzy: 1
+NamedEntity-Location: GröFaZ |frequenzy: 1

@@ -1,0 +1,5 @@
+In the Session: 6 were: 43.0 speeches held in total
+The sentiment distribution across the entire corpus for the Session: 6 is: 
+Positiv: 94.82758620689656%
+Negativ: 5.172413793103448%
+Neutral: 0.0%

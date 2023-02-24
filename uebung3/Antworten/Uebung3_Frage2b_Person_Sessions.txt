@@ -1,0 +1,830 @@
+NamedEntity-Person: Wolfgang Kubicki |frequenzy: 61
+NamedEntity-Person: Dr  Wolfgang Schäuble |frequenzy: 59
+NamedEntity-Person: Liebe Kolleginnen |frequenzy: 52
+NamedEntity-Person: Claudia Roth |frequenzy: 43
+NamedEntity-Person: Danke |frequenzy: 31
+NamedEntity-Person: Ulli Nissen |frequenzy: 27
+NamedEntity-Person: Herzlichen |frequenzy: 27
+NamedEntity-Person: Petra Pau |frequenzy: 25
+NamedEntity-Person: Nächster Redner |frequenzy: 22
+NamedEntity-Person: Thomas Oppermann |frequenzy: 21
+NamedEntity-Person: Michael Grosse-Brömer |frequenzy: 16
+NamedEntity-Person: Marco Buschmann |frequenzy: 15
+NamedEntity-Person: Steffi Lemke |frequenzy: 14
+NamedEntity-Person: Heike Hänsel |frequenzy: 14
+NamedEntity-Person: Bernd Baumann |frequenzy: 12
+NamedEntity-Person: Volker Kauder |frequenzy: 12
+NamedEntity-Person: Lassen |frequenzy: 12
+NamedEntity-Person: Meine Damen |frequenzy: 12
+NamedEntity-Person: Martin Schulz |frequenzy: 12
+NamedEntity-Person: Alexander Gauland |frequenzy: 12
+NamedEntity-Person: Gabriel |frequenzy: 11
+NamedEntity-Person: Tobias Pflüger |frequenzy: 10
+NamedEntity-Person: Florian Hahn |frequenzy: 10
+NamedEntity-Person: Carsten Schneider |frequenzy: 10
+NamedEntity-Person: Henning Otte |frequenzy: 10
+NamedEntity-Person: Siemens |frequenzy: 9
+NamedEntity-Person: Hass |frequenzy: 9
+NamedEntity-Person: Alexander S  Neu |frequenzy: 9
+NamedEntity-Person: Stephan Thomae |frequenzy: 9
+NamedEntity-Person: Alexander Ulrich |frequenzy: 9
+NamedEntity-Person: Andrea Nahles |frequenzy: 8
+NamedEntity-Person: Sea Guardian |frequenzy: 8
+NamedEntity-Person: Klaus Ernst |frequenzy: 8
+NamedEntity-Person: Nicola Beer |frequenzy: 7
+NamedEntity-Person: Beatrix von Storch |frequenzy: 7
+NamedEntity-Person: Alexander Graf Lambsdorff |frequenzy: 7
+NamedEntity-Person: Jürgen Hardt |frequenzy: 7
+NamedEntity-Person: Sigmar Gabriel |frequenzy: 7
+NamedEntity-Person: Niels Annen |frequenzy: 7
+NamedEntity-Person: Katja Keul |frequenzy: 7
+NamedEntity-Person: Sevim |frequenzy: 7
+NamedEntity-Person: Harald Ebner |frequenzy: 6
+NamedEntity-Person: Jutta Krellmann |frequenzy: 6
+NamedEntity-Person: Merkel |frequenzy: 6
+NamedEntity-Person: Lambsdorff |frequenzy: 6
+NamedEntity-Person: Oliver Krischer |frequenzy: 6
+NamedEntity-Person: Donald Trump |frequenzy: 6
+NamedEntity-Person: Interfraktionell |frequenzy: 6
+NamedEntity-Person: Helin |frequenzy: 6
+NamedEntity-Person: Schulz |frequenzy: 6
+NamedEntity-Person: Christian Petry |frequenzy: 6
+NamedEntity-Person: Resolute Support |frequenzy: 6
+NamedEntity-Person: Matthias W  Birkwald |frequenzy: 6
+NamedEntity-Person: Ernst Dieter Rossmann |frequenzy: 6
+NamedEntity-Person: Jan Korte |frequenzy: 6
+NamedEntity-Person: Angela Merkel |frequenzy: 5
+NamedEntity-Person: Tankred Schipanski |frequenzy: 5
+NamedEntity-Person: Emmanuel Macron |frequenzy: 5
+NamedEntity-Person: Annalena Baerbock |frequenzy: 5
+NamedEntity-Person: Uwe Kekeritz |frequenzy: 5
+NamedEntity-Person: Stephan Mayer |frequenzy: 5
+NamedEntity-Person: Reinhard Brandl |frequenzy: 5
+NamedEntity-Person: Bull-Bischoff |frequenzy: 5
+NamedEntity-Person: Kai Gehring |frequenzy: 5
+NamedEntity-Person: Macron |frequenzy: 5
+NamedEntity-Person: Jürgen Braun |frequenzy: 5
+NamedEntity-Person: Ebner |frequenzy: 5
+NamedEntity-Person: Luise Amtsberg |frequenzy: 5
+NamedEntity-Person: Lothar Binding |frequenzy: 5
+NamedEntity-Person: Thomas Jurk |frequenzy: 4
+NamedEntity-Person: Pascal Kober |frequenzy: 4
+NamedEntity-Person: Niema Movassat |frequenzy: 4
+NamedEntity-Person: Steuerdumping |frequenzy: 4
+NamedEntity-Person: Jürgen Trittin |frequenzy: 4
+NamedEntity-Person: Johannes Fechner |frequenzy: 4
+NamedEntity-Person: Umso |frequenzy: 4
+NamedEntity-Person: Christian Schmidt |frequenzy: 4
+NamedEntity-Person: thyssenkrupp |frequenzy: 4
+NamedEntity-Person: Schneider |frequenzy: 4
+NamedEntity-Person: Christine Buchholz |frequenzy: 4
+NamedEntity-Person: Peter Boehringer |frequenzy: 4
+NamedEntity-Person: Lindner |frequenzy: 4
+NamedEntity-Person: Britta Haßelmann |frequenzy: 4
+NamedEntity-Person: Michael Theurer |frequenzy: 4
+NamedEntity-Person: Nahles |frequenzy: 4
+NamedEntity-Person: Pfeiffer |frequenzy: 3
+NamedEntity-Person: Renate Künast |frequenzy: 3
+NamedEntity-Person: Sven-Christian Kindler |frequenzy: 3
+NamedEntity-Person: Norbert Kleinwächter |frequenzy: 3
+NamedEntity-Person: Uns |frequenzy: 3
+NamedEntity-Person: Mayer |frequenzy: 3
+NamedEntity-Person: Katrin Göring-Eckardt |frequenzy: 3
+NamedEntity-Person: Christine Aschenberg-Dugnus |frequenzy: 3
+NamedEntity-Person: Dagmar Ziegler |frequenzy: 3
+NamedEntity-Person: Putin |frequenzy: 3
+NamedEntity-Person: Sören Pellmann |frequenzy: 3
+NamedEntity-Person: Anja Hajduk |frequenzy: 3
+NamedEntity-Person: Harald Weinberg |frequenzy: 3
+NamedEntity-Person: Linnemann |frequenzy: 3
+NamedEntity-Person: Bernd Rützel |frequenzy: 3
+NamedEntity-Person: Friedrich |frequenzy: 3
+NamedEntity-Person: Bernd Westphal |frequenzy: 3
+NamedEntity-Person: Ghani |frequenzy: 3
+NamedEntity-Person: Künast |frequenzy: 3
+NamedEntity-Person: Jahren |frequenzy: 3
+NamedEntity-Person: Gesetzentwurfs |frequenzy: 3
+NamedEntity-Person: Thomas Jarzombek |frequenzy: 3
+NamedEntity-Person: Ernstes |frequenzy: 3
+NamedEntity-Person: Hans Michelbach |frequenzy: 3
+NamedEntity-Person: Hören |frequenzy: 3
+NamedEntity-Person: Sitta |frequenzy: 3
+NamedEntity-Person: Manuel Sarrazin |frequenzy: 3
+NamedEntity-Person: Gottfried Curio |frequenzy: 3
+NamedEntity-Person: Grübel |frequenzy: 3
+NamedEntity-Person: Kollegin Dağdelen |frequenzy: 3
+NamedEntity-Person: Liebe Kollegen |frequenzy: 3
+NamedEntity-Person: Martin Hebner |frequenzy: 3
+NamedEntity-Person: Dietmar Bartsch |frequenzy: 3
+NamedEntity-Person: Schleuser |frequenzy: 3
+NamedEntity-Person: Joachim Pfeiffer |frequenzy: 3
+NamedEntity-Person: Norbert Röttgen |frequenzy: 3
+NamedEntity-Person: Christian Lindner |frequenzy: 3
+NamedEntity-Person: Nolte |frequenzy: 3
+NamedEntity-Person: Wolfgang Schäuble |frequenzy: 3
+NamedEntity-Person: Gitta Connemann |frequenzy: 3
+NamedEntity-Person: Schipanski |frequenzy: 3
+NamedEntity-Person: Frei |frequenzy: 3
+NamedEntity-Person: Ernst |frequenzy: 3
+NamedEntity-Person: Gesine Lötzsch |frequenzy: 3
+NamedEntity-Person: Roderich Kiesewetter |frequenzy: 3
+NamedEntity-Person: Karsten Hilse |frequenzy: 3
+NamedEntity-Person: Andrej Hunko |frequenzy: 3
+NamedEntity-Person: Bündnis 90 |frequenzy: 3
+NamedEntity-Person: Schmidt |frequenzy: 3
+NamedEntity-Person: Stefan Liebich |frequenzy: 3
+NamedEntity-Person: Ministerin |frequenzy: 3
+NamedEntity-Person: Werner von Siemens |frequenzy: 3
+NamedEntity-Person: Kurt Beck |frequenzy: 2
+NamedEntity-Person: Herrn |frequenzy: 2
+NamedEntity-Person: Michel Barnier |frequenzy: 2
+NamedEntity-Person: Fechner |frequenzy: 2
+NamedEntity-Person: Mali |frequenzy: 2
+NamedEntity-Person: Bußgeld |frequenzy: 2
+NamedEntity-Person: Anja Karliczek |frequenzy: 2
+NamedEntity-Person: Wortes |frequenzy: 2
+NamedEntity-Person: Christian Dürr |frequenzy: 2
+NamedEntity-Person: Dietmar Nietan |frequenzy: 2
+NamedEntity-Person: nicht –  |frequenzy: 2
+NamedEntity-Person: Herrn Macron |frequenzy: 2
+NamedEntity-Person: Alexander Radwan |frequenzy: 2
+NamedEntity-Person: Daniela Kolbe |frequenzy: 2
+NamedEntity-Person: Wilhelm II  |frequenzy: 2
+NamedEntity-Person: Riek Machar |frequenzy: 2
+NamedEntity-Person: Übrigens |frequenzy: 2
+NamedEntity-Person: Otto Fricke |frequenzy: 2
+NamedEntity-Person: Johannes Kahrs |frequenzy: 2
+NamedEntity-Person: Barbara Hendricks |frequenzy: 2
+NamedEntity-Person: Iraker |frequenzy: 2
+NamedEntity-Person: Joe Kaeser |frequenzy: 2
+NamedEntity-Person: Westphal |frequenzy: 2
+NamedEntity-Person: Alexander Hoffmann |frequenzy: 2
+NamedEntity-Person: MarkusFrohnmaierAfDMarkus Frohnmaier |frequenzy: 2
+NamedEntity-Person: Schleusernetzwerke |frequenzy: 2
+NamedEntity-Person: Gerd Müller |frequenzy: 2
+NamedEntity-Person: Dr   |frequenzy: 2
+NamedEntity-Person: Gerold Otten |frequenzy: 2
+NamedEntity-Person: Zugestimmt |frequenzy: 2
+NamedEntity-Person: Verdi |frequenzy: 2
+NamedEntity-Person: Hilde Mattheis |frequenzy: 2
+NamedEntity-Person: Wir |frequenzy: 2
+NamedEntity-Person: Thomas Lutze |frequenzy: 2
+NamedEntity-Person: Bettina Hagedorn |frequenzy: 2
+NamedEntity-Person: Dr  Fechner |frequenzy: 2
+NamedEntity-Person: Bärbel Kofler |frequenzy: 2
+NamedEntity-Person: Erdogan |frequenzy: 2
+NamedEntity-Person: MINUSMA |frequenzy: 2
+NamedEntity-Person: NorbertKleinwächterAfDNorbert Kleinwächter |frequenzy: 2
+NamedEntity-Person: Mich |frequenzy: 2
+NamedEntity-Person: Hellmich |frequenzy: 2
+NamedEntity-Person: Falles |frequenzy: 2
+NamedEntity-Person: Baumann |frequenzy: 2
+NamedEntity-Person: Marlene Mortler |frequenzy: 2
+NamedEntity-Person: Buchholz |frequenzy: 2
+NamedEntity-Person: Rößner |frequenzy: 2
+NamedEntity-Person: Erstens |frequenzy: 2
+NamedEntity-Person: Kofi Annan |frequenzy: 2
+NamedEntity-Person: Chan Schaichun |frequenzy: 2
+NamedEntity-Person: Stahl |frequenzy: 2
+NamedEntity-Person: Vieles |frequenzy: 2
+NamedEntity-Person: Richtig |frequenzy: 2
+NamedEntity-Person: Kollegin |frequenzy: 2
+NamedEntity-Person: Handelns |frequenzy: 2
+NamedEntity-Person: Tino Chrupalla |frequenzy: 2
+NamedEntity-Person: Armin-PaulusHampelAfDArmin-Paulus Hampel |frequenzy: 2
+NamedEntity-Person: Salva Kiir |frequenzy: 2
+NamedEntity-Person: Alexander S NeuDIE LINKEDr |frequenzy: 2
+NamedEntity-Person: Omid Nouripour |frequenzy: 2
+NamedEntity-Person: Drittens |frequenzy: 2
+NamedEntity-Person: Zypries |frequenzy: 2
+NamedEntity-Person: Brandner |frequenzy: 2
+NamedEntity-Person: Andreas Jung |frequenzy: 2
+NamedEntity-Person: Egal |frequenzy: 2
+NamedEntity-Person: Andreas Nick |frequenzy: 2
+NamedEntity-Person: Justizminister Maas |frequenzy: 2
+NamedEntity-Person: Barzani |frequenzy: 2
+NamedEntity-Person: Agnieszka Brugger |frequenzy: 2
+NamedEntity-Person: Dr  Neu |frequenzy: 2
+NamedEntity-Person: René Röspel |frequenzy: 2
+NamedEntity-Person: Assads |frequenzy: 2
+NamedEntity-Person: Karl-Heinz Brunner |frequenzy: 2
+NamedEntity-Person: Kraft |frequenzy: 2
+NamedEntity-Person: Hendricks |frequenzy: 2
+NamedEntity-Person: Bamako |frequenzy: 2
+NamedEntity-Person: Geflüchtete |frequenzy: 2
+NamedEntity-Person: al-Baschir |frequenzy: 2
+NamedEntity-Person: Harald Weyel |frequenzy: 2
+NamedEntity-Person: Kirsten Tackmann |frequenzy: 2
+NamedEntity-Person: Ministerin von der Leyen |frequenzy: 2
+NamedEntity-Person: Eckhardt Rehberg |frequenzy: 2
+NamedEntity-Person: Malis |frequenzy: 2
+NamedEntity-Person: Armin-Paulus Hampel |frequenzy: 2
+NamedEntity-Person: Menschenschmuggel |frequenzy: 2
+NamedEntity-Person: Bundeskanzlerin |frequenzy: 2
+NamedEntity-Person: Bartsch |frequenzy: 2
+NamedEntity-Person: Auftragsbücher |frequenzy: 2
+NamedEntity-Person: Stephan Protschka |frequenzy: 2
+NamedEntity-Person: Kollegin Mortler |frequenzy: 2
+NamedEntity-Person: Riad |frequenzy: 2
+NamedEntity-Person: Ehrlich |frequenzy: 2
+NamedEntity-Person: Bundesminister Schmidt |frequenzy: 2
+NamedEntity-Person: Mortler |frequenzy: 2
+NamedEntity-Person: Michael Georg Link |frequenzy: 2
+NamedEntity-Person: Hunderttausend |frequenzy: 1
+NamedEntity-Person: Ansgar Heveling |frequenzy: 1
+NamedEntity-Person: ChristianDürrFDPChristian Dürr |frequenzy: 1
+NamedEntity-Person: Sachverstand |frequenzy: 1
+NamedEntity-Person: Liebe SPD |frequenzy: 1
+NamedEntity-Person: Boris ­Johnson |frequenzy: 1
+NamedEntity-Person: egal –  |frequenzy: 1
+NamedEntity-Person: Herrn Gabriel |frequenzy: 1
+NamedEntity-Person: Slow |frequenzy: 1
+NamedEntity-Person: Apropos |frequenzy: 1
+NamedEntity-Person: Na |frequenzy: 1
+NamedEntity-Person: al-Abadi |frequenzy: 1
+NamedEntity-Person: Frank Schwabe |frequenzy: 1
+NamedEntity-Person: nation-building  |frequenzy: 1
+NamedEntity-Person: Ulrich Kelber |frequenzy: 1
+NamedEntity-Person: Grabe |frequenzy: 1
+NamedEntity-Person: Dr  Lindner |frequenzy: 1
+NamedEntity-Person: Weiterqualifikation |frequenzy: 1
+NamedEntity-Person: viel –  |frequenzy: 1
+NamedEntity-Person: Herrn Hariri |frequenzy: 1
+NamedEntity-Person: Protschka |frequenzy: 1
+NamedEntity-Person: Hartz IV |frequenzy: 1
+NamedEntity-Person: Heiko Maas |frequenzy: 1
+NamedEntity-Person: Bloß |frequenzy: 1
+NamedEntity-Person: StephanProtschkaAfDStephan Protschka |frequenzy: 1
+NamedEntity-Person: Udo Theodor Hemmelgarn |frequenzy: 1
+NamedEntity-Person: Dr  Carsten Linnemann |frequenzy: 1
+NamedEntity-Person: Ex-Jugoslawe |frequenzy: 1
+NamedEntity-Person: Jenes |frequenzy: 1
+NamedEntity-Person: Dr  Weisgerber |frequenzy: 1
+NamedEntity-Person: Anton Friesen |frequenzy: 1
+NamedEntity-Person: Otto von Bismarck |frequenzy: 1
+NamedEntity-Person: Dr  Ullrich |frequenzy: 1
+NamedEntity-Person: Michael Gerdes |frequenzy: 1
+NamedEntity-Person: Dr  Lauterbach |frequenzy: 1
+NamedEntity-Person: geschlossen –  |frequenzy: 1
+NamedEntity-Person: Herbizide |frequenzy: 1
+NamedEntity-Person: Burkhard Lischka |frequenzy: 1
+NamedEntity-Person: Hunderttausender von Menschen |frequenzy: 1
+NamedEntity-Person: Entweder |frequenzy: 1
+NamedEntity-Person: Ralf Kapschack |frequenzy: 1
+NamedEntity-Person: Willy Brandt |frequenzy: 1
+NamedEntity-Person: wollen – Ja |frequenzy: 1
+NamedEntity-Person: Beer  |frequenzy: 1
+NamedEntity-Person: Betonen |frequenzy: 1
+NamedEntity-Person: allemal besser |frequenzy: 1
+NamedEntity-Person: Höferlin |frequenzy: 1
+NamedEntity-Person: Gabi Weber |frequenzy: 1
+NamedEntity-Person: Michael Kretschmer |frequenzy: 1
+NamedEntity-Person: Dr  Karl Lauterbach |frequenzy: 1
+NamedEntity-Person: Katja Suding |frequenzy: 1
+NamedEntity-Person: Peschmerga-Kämpfer |frequenzy: 1
+NamedEntity-Person: verbessert –  |frequenzy: 1
+NamedEntity-Person: Exodus |frequenzy: 1
+NamedEntity-Person: Dekarbonisierung |frequenzy: 1
+NamedEntity-Person: Brigitte Zypries |frequenzy: 1
+NamedEntity-Person: Lars Windhorst |frequenzy: 1
+NamedEntity-Person: Herzlich |frequenzy: 1
+NamedEntity-Person: Swen Schulz |frequenzy: 1
+NamedEntity-Person: Frank-Walter Steinmeier  |frequenzy: 1
+NamedEntity-Person: Bagdads |frequenzy: 1
+NamedEntity-Person: Debatte |frequenzy: 1
+NamedEntity-Person: Klaus Kleinfeld |frequenzy: 1
+NamedEntity-Person: Christian Kühn |frequenzy: 1
+NamedEntity-Person: Guido Steinberg |frequenzy: 1
+NamedEntity-Person: Bilanz |frequenzy: 1
+NamedEntity-Person: Kretschmann |frequenzy: 1
+NamedEntity-Person: Wovor |frequenzy: 1
+NamedEntity-Person: Rüdiger Lucassen |frequenzy: 1
+NamedEntity-Person: Konzentrieren |frequenzy: 1
+NamedEntity-Person: Matthias Bartke |frequenzy: 1
+NamedEntity-Person: Homann |frequenzy: 1
+NamedEntity-Person: Lorenz Gösta Beutin |frequenzy: 1
+NamedEntity-Person: Theurer |frequenzy: 1
+NamedEntity-Person: Meiner |frequenzy: 1
+NamedEntity-Person: Tallowamine |frequenzy: 1
+NamedEntity-Person: Rita Hagl-Kehl |frequenzy: 1
+NamedEntity-Person: Bündnis  |frequenzy: 1
+NamedEntity-Person: Lothar |frequenzy: 1
+NamedEntity-Person: Kollegin Kolbe |frequenzy: 1
+NamedEntity-Person: Zaklin Nastic |frequenzy: 1
+NamedEntity-Person: Brechen |frequenzy: 1
+NamedEntity-Person: Rede  |frequenzy: 1
+NamedEntity-Person: Warum |frequenzy: 1
+NamedEntity-Person: Ausdrücklich |frequenzy: 1
+NamedEntity-Person: Klaus Naumann |frequenzy: 1
+NamedEntity-Person: Sunni |frequenzy: 1
+NamedEntity-Person: Goethe |frequenzy: 1
+NamedEntity-Person: Millionen |frequenzy: 1
+NamedEntity-Person: Suding |frequenzy: 1
+NamedEntity-Person: Weinberg |frequenzy: 1
+NamedEntity-Person: Herrn Mayer |frequenzy: 1
+NamedEntity-Person: Donald Tusk |frequenzy: 1
+NamedEntity-Person: Teufel |frequenzy: 1
+NamedEntity-Person: Herrn Frohnmaier |frequenzy: 1
+NamedEntity-Person: Dr  Frauke Petry |frequenzy: 1
+NamedEntity-Person: Bodo Ramelow |frequenzy: 1
+NamedEntity-Person: Wilhelms II  |frequenzy: 1
+NamedEntity-Person: Dr  Harbarth |frequenzy: 1
+NamedEntity-Person: Saddam Hussein |frequenzy: 1
+NamedEntity-Person: Buschmann |frequenzy: 1
+NamedEntity-Person: Lachen |frequenzy: 1
+NamedEntity-Person: Schön |frequenzy: 1
+NamedEntity-Person: Görlitz  |frequenzy: 1
+NamedEntity-Person: Terrorstaaten |frequenzy: 1
+NamedEntity-Person: Herrn Kretschmann |frequenzy: 1
+NamedEntity-Person: Weiteres |frequenzy: 1
+NamedEntity-Person: Marc Bernhard |frequenzy: 1
+NamedEntity-Person: Herrn Link |frequenzy: 1
+NamedEntity-Person: Matthias Höhn |frequenzy: 1
+NamedEntity-Person: lernen“ Vor |frequenzy: 1
+NamedEntity-Person: Göring-Eckardt |frequenzy: 1
+NamedEntity-Person: Amtsberg |frequenzy: 1
+NamedEntity-Person: PeterBoehringerAfDPeter Boehringer |frequenzy: 1
+NamedEntity-Person: Rakka |frequenzy: 1
+NamedEntity-Person: Genauso |frequenzy: 1
+NamedEntity-Person: Liebe Kollegin Mortler |frequenzy: 1
+NamedEntity-Person: Reinhard Houben |frequenzy: 1
+NamedEntity-Person: Lebensmittelverluste |frequenzy: 1
+NamedEntity-Person: Marie-Agnes Strack-Zimmermann |frequenzy: 1
+NamedEntity-Person: Mindeststandard |frequenzy: 1
+NamedEntity-Person: Mann |frequenzy: 1
+NamedEntity-Person: Herren –  |frequenzy: 1
+NamedEntity-Person: Stahl  |frequenzy: 1
+NamedEntity-Person: Collier |frequenzy: 1
+NamedEntity-Person: Sevim Dağdelen |frequenzy: 1
+NamedEntity-Person: Pegida  |frequenzy: 1
+NamedEntity-Person: CSUTankred Schipanski |frequenzy: 1
+NamedEntity-Person: reduziert –  |frequenzy: 1
+NamedEntity-Person: Franziska Brantner |frequenzy: 1
+NamedEntity-Person: Normales |frequenzy: 1
+NamedEntity-Person: Deine Familie |frequenzy: 1
+NamedEntity-Person: Herzlich Willkommen |frequenzy: 1
+NamedEntity-Person: Stefan Keuter |frequenzy: 1
+NamedEntity-Person: Großkonzerne |frequenzy: 1
+NamedEntity-Person: Bamakos |frequenzy: 1
+NamedEntity-Person: Nuer |frequenzy: 1
+NamedEntity-Person: Ebendiesem |frequenzy: 1
+NamedEntity-Person: Unangenehmem |frequenzy: 1
+NamedEntity-Person: befindet–  |frequenzy: 1
+NamedEntity-Person: Paul Collier |frequenzy: 1
+NamedEntity-Person: Markus Frohnmaier |frequenzy: 1
+NamedEntity-Person: Köhler |frequenzy: 1
+NamedEntity-Person: Martin Kobler |frequenzy: 1
+NamedEntity-Person: Bündnis 90/ |frequenzy: 1
+NamedEntity-Person: Daesh |frequenzy: 1
+NamedEntity-Person: Tabea Rößner |frequenzy: 1
+NamedEntity-Person: Fahrt |frequenzy: 1
+NamedEntity-Person: Winkelmeier-Becker |frequenzy: 1
+NamedEntity-Person: Olli Welke |frequenzy: 1
+NamedEntity-Person: Reißen |frequenzy: 1
+NamedEntity-Person: Dr  Brauksiepe |frequenzy: 1
+NamedEntity-Person: Kollegin Winkelmeier-Becker |frequenzy: 1
+NamedEntity-Person: Leid |frequenzy: 1
+NamedEntity-Person: Basel II |frequenzy: 1
+NamedEntity-Person: Michael Stübgen |frequenzy: 1
+NamedEntity-Person: Bundesministerin von der Leyen |frequenzy: 1
+NamedEntity-Person: Spannend |frequenzy: 1
+NamedEntity-Person: Gewalttätigem |frequenzy: 1
+NamedEntity-Person: Schlimmem |frequenzy: 1
+NamedEntity-Person: Dr  Kirsten Tackmann |frequenzy: 1
+NamedEntity-Person: Steuerbetrug |frequenzy: 1
+NamedEntity-Person: Herrn Hans-Werner Sinn |frequenzy: 1
+NamedEntity-Person: Dr  Heiko |frequenzy: 1
+NamedEntity-Person: Manfred Grund |frequenzy: 1
+NamedEntity-Person: Haider al-Abadi |frequenzy: 1
+NamedEntity-Person: Humanitas |frequenzy: 1
+NamedEntity-Person: Kollege |frequenzy: 1
+NamedEntity-Person: Dr  Baumann |frequenzy: 1
+NamedEntity-Person: Thomas Ehrhorn |frequenzy: 1
+NamedEntity-Person: Bewaffnete Milizen |frequenzy: 1
+NamedEntity-Person: Dr  Högl |frequenzy: 1
+NamedEntity-Person: Gehälter |frequenzy: 1
+NamedEntity-Person: Lorenz Gösta |frequenzy: 1
+NamedEntity-Person: Ansar al-Din |frequenzy: 1
+NamedEntity-Person: Herrn Kaeser Klartext |frequenzy: 1
+NamedEntity-Person: Chaos |frequenzy: 1
+NamedEntity-Person: Gabriel! |frequenzy: 1
+NamedEntity-Person: Graf Lambsdorff |frequenzy: 1
+NamedEntity-Person: SevimDağdelenDIE LINKESevim |frequenzy: 1
+NamedEntity-Person: Moin |frequenzy: 1
+NamedEntity-Person: Ingo Gädechens |frequenzy: 1
+NamedEntity-Person: Jan RalfNolteAfDJan Ralf Nolte |frequenzy: 1
+NamedEntity-Person: Kollegin Bull-Bischoff |frequenzy: 1
+NamedEntity-Person: selbst;denn |frequenzy: 1
+NamedEntity-Person: Dr  Bartsch |frequenzy: 1
+NamedEntity-Person: Anke Domscheit-Berg |frequenzy: 1
+NamedEntity-Person: Mitteln |frequenzy: 1
+NamedEntity-Person: Sea Guardian  |frequenzy: 1
+NamedEntity-Person: Wohin |frequenzy: 1
+NamedEntity-Person: Hariri |frequenzy: 1
+NamedEntity-Person: Lieber Herr Ernst |frequenzy: 1
+NamedEntity-Person: Simon |frequenzy: 1
+NamedEntity-Person: Freundschaftszins |frequenzy: 1
+NamedEntity-Person: Unwertes |frequenzy: 1
+NamedEntity-Person: ist –  |frequenzy: 1
+NamedEntity-Person: Basel III |frequenzy: 1
+NamedEntity-Person: Herrn Ghani |frequenzy: 1
+NamedEntity-Person: Dietmar Friedhoff |frequenzy: 1
+NamedEntity-Person: EU-Subventionen |frequenzy: 1
+NamedEntity-Person: Wadephul |frequenzy: 1
+NamedEntity-Person: Wahr |frequenzy: 1
+NamedEntity-Person: TankredSchipanskiCDU |frequenzy: 1
+NamedEntity-Person: Lieber Jan Korte |frequenzy: 1
+NamedEntity-Person: Hilfsgelder |frequenzy: 1
+NamedEntity-Person: Massud Barzani |frequenzy: 1
+NamedEntity-Person: Helmut Schmidt |frequenzy: 1
+NamedEntity-Person: Kober |frequenzy: 1
+NamedEntity-Person: Christoph Strässer |frequenzy: 1
+NamedEntity-Person: Tun |frequenzy: 1
+NamedEntity-Person: Juncker |frequenzy: 1
+NamedEntity-Person: Vogler |frequenzy: 1
+NamedEntity-Person: Stefan Kaufmann |frequenzy: 1
+NamedEntity-Person: Nation-Building |frequenzy: 1
+NamedEntity-Person: Traoré |frequenzy: 1
+NamedEntity-Person: Hassrede |frequenzy: 1
+NamedEntity-Person: Vaters |frequenzy: 1
+NamedEntity-Person: Risiko |frequenzy: 1
+NamedEntity-Person: Andreas Lenz |frequenzy: 1
+NamedEntity-Person: allemal |frequenzy: 1
+NamedEntity-Person: Bundeswehrmandates |frequenzy: 1
+NamedEntity-Person: Etikettenschwindel |frequenzy: 1
+NamedEntity-Person: Herrn Juncker |frequenzy: 1
+NamedEntity-Person: Konrad Adenauer |frequenzy: 1
+NamedEntity-Person: Dieter Janecek |frequenzy: 1
+NamedEntity-Person: Hagel |frequenzy: 1
+NamedEntity-Person: gibt –  |frequenzy: 1
+NamedEntity-Person: David Davis |frequenzy: 1
+NamedEntity-Person: Du |frequenzy: 1
+NamedEntity-Person: Parlamentarischen |frequenzy: 1
+NamedEntity-Person: Trump |frequenzy: 1
+NamedEntity-Person: Peter Danckert |frequenzy: 1
+NamedEntity-Person: Erich Honecker |frequenzy: 1
+NamedEntity-Person: Schwabe |frequenzy: 1
+NamedEntity-Person: Preisdumping |frequenzy: 1
+NamedEntity-Person: Mark Lowcock |frequenzy: 1
+NamedEntity-Person: Lieber Herr Gauland |frequenzy: 1
+NamedEntity-Person: Untauglich  |frequenzy: 1
+NamedEntity-Person: beileibe |frequenzy: 1
+NamedEntity-Person: Siemens-Chef Kaeser |frequenzy: 1
+NamedEntity-Person: Nordmali |frequenzy: 1
+NamedEntity-Person: Ilse Aigner |frequenzy: 1
+NamedEntity-Person: Klar |frequenzy: 1
+NamedEntity-Person: Wirtschaftsminister Gabriel |frequenzy: 1
+NamedEntity-Person: Schwarz-Gelb |frequenzy: 1
+NamedEntity-Person: Thomae |frequenzy: 1
+NamedEntity-Person: Kerstin Andreae |frequenzy: 1
+NamedEntity-Person: Karl Lauterbach |frequenzy: 1
+NamedEntity-Person: Ute Vogt |frequenzy: 1
+NamedEntity-Person: Kathrin Vogler |frequenzy: 1
+NamedEntity-Person: Syrer |frequenzy: 1
+NamedEntity-Person: Wem |frequenzy: 1
+NamedEntity-Person: Fukushima |frequenzy: 1
+NamedEntity-Person: Dr  Anja Weisgerber |frequenzy: 1
+NamedEntity-Person: meiner Zeit |frequenzy: 1
+NamedEntity-Person: Wurstverzehr  |frequenzy: 1
+NamedEntity-Person: Brunner |frequenzy: 1
+NamedEntity-Person: Herrn Schmidt |frequenzy: 1
+NamedEntity-Person: Gorbatschow |frequenzy: 1
+NamedEntity-Person: Verhaltens |frequenzy: 1
+NamedEntity-Person: Trump zu Jerusalem |frequenzy: 1
+NamedEntity-Person: Hunderte |frequenzy: 1
+NamedEntity-Person: Grosse-Brömer |frequenzy: 1
+NamedEntity-Person: Tonne |frequenzy: 1
+NamedEntity-Person: Felser |frequenzy: 1
+NamedEntity-Person: Hollande |frequenzy: 1
+NamedEntity-Person: Ach |frequenzy: 1
+NamedEntity-Person: Winfried Kretschmann |frequenzy: 1
+NamedEntity-Person: Kerry  |frequenzy: 1
+NamedEntity-Person: so;denn |frequenzy: 1
+NamedEntity-Person: Peter Schumann |frequenzy: 1
+NamedEntity-Person: gelesen – Nein |frequenzy: 1
+NamedEntity-Person: Gerd |frequenzy: 1
+NamedEntity-Person: Spiering |frequenzy: 1
+NamedEntity-Person: Movassat |frequenzy: 1
+NamedEntity-Person: Hansjörg Durz |frequenzy: 1
+NamedEntity-Person: Haßelmann |frequenzy: 1
+NamedEntity-Person: Fabio De Masi |frequenzy: 1
+NamedEntity-Person: Gunther |frequenzy: 1
+NamedEntity-Person: Zielführend |frequenzy: 1
+NamedEntity-Person: Dr  Gauland |frequenzy: 1
+NamedEntity-Person: Pseudoforderungen |frequenzy: 1
+NamedEntity-Person: Schuldenstand |frequenzy: 1
+NamedEntity-Person: Kiesewetter |frequenzy: 1
+NamedEntity-Person: Mosul |frequenzy: 1
+NamedEntity-Person: Schutzzölle |frequenzy: 1
+NamedEntity-Person: Herrn Hekmatjar |frequenzy: 1
+NamedEntity-Person: Verluste |frequenzy: 1
+NamedEntity-Person: Copy-and-paste  |frequenzy: 1
+NamedEntity-Person: Kollegin Künast |frequenzy: 1
+NamedEntity-Person: Helmut Kohl |frequenzy: 1
+NamedEntity-Person: Bijan Djir-Sarai |frequenzy: 1
+NamedEntity-Person: Herrn Kleinwächter |frequenzy: 1
+NamedEntity-Person: Zweitens  |frequenzy: 1
+NamedEntity-Person: Irrtümer |frequenzy: 1
+NamedEntity-Person: David |frequenzy: 1
+NamedEntity-Person: Wahlprogramm |frequenzy: 1
+NamedEntity-Person: Cotar |frequenzy: 1
+NamedEntity-Person: Lischka |frequenzy: 1
+NamedEntity-Person: Markus Töns |frequenzy: 1
+NamedEntity-Person: Funktioniert |frequenzy: 1
+NamedEntity-Person: werden – Oder |frequenzy: 1
+NamedEntity-Person: AASigmar Gabriel |frequenzy: 1
+NamedEntity-Person: Pflügen |frequenzy: 1
+NamedEntity-Person: Bundesumweltministerin Hendricks |frequenzy: 1
+NamedEntity-Person: Cem Özdemir |frequenzy: 1
+NamedEntity-Person: Nadler |frequenzy: 1
+NamedEntity-Person: Glyphosat? |frequenzy: 1
+NamedEntity-Person: Ulrich Oehme |frequenzy: 1
+NamedEntity-Person: Hunderttausend Syrer |frequenzy: 1
+NamedEntity-Person: Hendricks  |frequenzy: 1
+NamedEntity-Person: Frank Schäffler |frequenzy: 1
+NamedEntity-Person: Co |frequenzy: 1
+NamedEntity-Person: Hause |frequenzy: 1
+NamedEntity-Person: Iraks |frequenzy: 1
+NamedEntity-Person: Peter Caesar |frequenzy: 1
+NamedEntity-Person: CSUAnsgar Heveling |frequenzy: 1
+NamedEntity-Person: Rekordgewinnen |frequenzy: 1
+NamedEntity-Person: Manuel Höferlin |frequenzy: 1
+NamedEntity-Person: Tengelmann |frequenzy: 1
+NamedEntity-Person: Karl-Josef Laumann |frequenzy: 1
+NamedEntity-Person: Glyphosat Bescheid |frequenzy: 1
+NamedEntity-Person: Amnestie |frequenzy: 1
+NamedEntity-Person: Fake News |frequenzy: 1
+NamedEntity-Person: bekommen – Ja |frequenzy: 1
+NamedEntity-Person: angewiesen –  |frequenzy: 1
+NamedEntity-Person: Brandl |frequenzy: 1
+NamedEntity-Person: Hans-Werner Sinn |frequenzy: 1
+NamedEntity-Person: Adenauers |frequenzy: 1
+NamedEntity-Person: Bundesministerin Dr  von der Leyen |frequenzy: 1
+NamedEntity-Person: Olaf Scholz |frequenzy: 1
+NamedEntity-Person: Detlef Seif |frequenzy: 1
+NamedEntity-Person: Georg Picht |frequenzy: 1
+NamedEntity-Person: Täte Siemens |frequenzy: 1
+NamedEntity-Person: Transitland |frequenzy: 1
+NamedEntity-Person: Aktionsplan |frequenzy: 1
+NamedEntity-Person: Wagenknecht |frequenzy: 1
+NamedEntity-Person: Merkels |frequenzy: 1
+NamedEntity-Person: KayGottschalkAfDKay Gottschalk |frequenzy: 1
+NamedEntity-Person: Entsprechende |frequenzy: 1
+NamedEntity-Person: Leutheusser-Schnarrenberger |frequenzy: 1
+NamedEntity-Person: Theresa May |frequenzy: 1
+NamedEntity-Person: Rechtsstaates |frequenzy: 1
+NamedEntity-Person: Malsack-Winkemann  |frequenzy: 1
+NamedEntity-Person: Kommunikationsunternehmen |frequenzy: 1
+NamedEntity-Person: Kollege Rossmann |frequenzy: 1
+NamedEntity-Person: Claudia Müller |frequenzy: 1
+NamedEntity-Person: David Kaye |frequenzy: 1
+NamedEntity-Person: NicolaBeerFDPNicola Beer |frequenzy: 1
+NamedEntity-Person: ThomasEhrhornAfDThomas Ehrhorn |frequenzy: 1
+NamedEntity-Person: Kollegin Aschenberg-Dugnus |frequenzy: 1
+NamedEntity-Person: Baschar al-Assad |frequenzy: 1
+NamedEntity-Person: Robert Bosch |frequenzy: 1
+NamedEntity-Person: Peter Struck |frequenzy: 1
+NamedEntity-Person: übertragen – Meine Damen |frequenzy: 1
+NamedEntity-Person: Zauberlehrling |frequenzy: 1
+NamedEntity-Person: Hungersnot |frequenzy: 1
+NamedEntity-Person: herzlich egal |frequenzy: 1
+NamedEntity-Person: Hightechfirmen |frequenzy: 1
+NamedEntity-Person: ’s |frequenzy: 1
+NamedEntity-Person: Arbeitsplätzen  |frequenzy: 1
+NamedEntity-Person: Schlüssel |frequenzy: 1
+NamedEntity-Person: Mohammed bin Salman |frequenzy: 1
+NamedEntity-Person: Kopf |frequenzy: 1
+NamedEntity-Person: Holen |frequenzy: 1
+NamedEntity-Person: Torsten Herbst |frequenzy: 1
+NamedEntity-Person: Kollegin Hagedorn |frequenzy: 1
+NamedEntity-Person: Weisgerber |frequenzy: 1
+NamedEntity-Person: Walter Ulbricht |frequenzy: 1
+NamedEntity-Person: legal |frequenzy: 1
+NamedEntity-Person: Kollegin Nastic |frequenzy: 1
+NamedEntity-Person: Boris Johnson |frequenzy: 1
+NamedEntity-Person: Nigel Farage |frequenzy: 1
+NamedEntity-Person: Bankkredits |frequenzy: 1
+NamedEntity-Person: Lisa Winkelmeier-Becker |frequenzy: 1
+NamedEntity-Person: Frauke Petry |frequenzy: 1
+NamedEntity-Person: Marshallplans |frequenzy: 1
+NamedEntity-Person: Minister Schmidt |frequenzy: 1
+NamedEntity-Person: getan – |frequenzy: 1
+NamedEntity-Person: Lothar Riebsamen |frequenzy: 1
+NamedEntity-Person: Enrico |frequenzy: 1
+NamedEntity-Person: Gerhard Cromme |frequenzy: 1
+NamedEntity-Person: Steffen Kotré |frequenzy: 1
+NamedEntity-Person: möglichst |frequenzy: 1
+NamedEntity-Person: Schrott |frequenzy: 1
+NamedEntity-Person: Georg Garbotz |frequenzy: 1
+NamedEntity-Person: Jana Schimke |frequenzy: 1
+NamedEntity-Person: Jeanette Ihme |frequenzy: 1
+NamedEntity-Person: Tobias Lindner |frequenzy: 1
+NamedEntity-Person: Protokoll |frequenzy: 1
+NamedEntity-Person: Elisabeth Motschmann |frequenzy: 1
+NamedEntity-Person: Filiz Polat–  |frequenzy: 1
+NamedEntity-Person: Klimaziele  |frequenzy: 1
+NamedEntity-Person: Bernd Reuther |frequenzy: 1
+NamedEntity-Person: Strack-Zimmermann |frequenzy: 1
+NamedEntity-Person: Lukas Köhler |frequenzy: 1
+NamedEntity-Person: Kolbe |frequenzy: 1
+NamedEntity-Person: Eigenkapital |frequenzy: 1
+NamedEntity-Person: StephanBrandnerAfDStephan Brandner |frequenzy: 1
+NamedEntity-Person: Salman |frequenzy: 1
+NamedEntity-Person: Selbstverständlich |frequenzy: 1
+NamedEntity-Person: fortiter |frequenzy: 1
+NamedEntity-Person: Hans-Dietrich Genscher |frequenzy: 1
+NamedEntity-Person: haben – Herr |frequenzy: 1
+NamedEntity-Person: werden“ Man |frequenzy: 1
+NamedEntity-Person: Erwin Rüddel |frequenzy: 1
+NamedEntity-Person: Kollegin Beer |frequenzy: 1
+NamedEntity-Person: Margrethe Vestager |frequenzy: 1
+NamedEntity-Person: Erich Irlstorfer |frequenzy: 1
+NamedEntity-Person: Auskunftsansprüche Betroffener |frequenzy: 1
+NamedEntity-Person: Beobachterin |frequenzy: 1
+NamedEntity-Person: Overblocking |frequenzy: 1
+NamedEntity-Person: Kollegin Göring-Eckardt |frequenzy: 1
+NamedEntity-Person: Gemessen |frequenzy: 1
+NamedEntity-Person: Katarina Barley |frequenzy: 1
+NamedEntity-Person: Staat |frequenzy: 1
+NamedEntity-Person: Herrn Erdogan |frequenzy: 1
+NamedEntity-Person: James Joyce |frequenzy: 1
+NamedEntity-Person: Jahren  |frequenzy: 1
+NamedEntity-Person: MichaelTheurerFDPMichael Theurer |frequenzy: 1
+NamedEntity-Person: Frithjof Schmidt |frequenzy: 1
+NamedEntity-Person: Joe ­Kaeser |frequenzy: 1
+NamedEntity-Person: Posts |frequenzy: 1
+NamedEntity-Person: Bildungsministerin Wanka |frequenzy: 1
+NamedEntity-Person: Steuergeld |frequenzy: 1
+NamedEntity-Person: Meine Kollegen |frequenzy: 1
+NamedEntity-Person: Babys |frequenzy: 1
+NamedEntity-Person: Verantwortungsbereitschaft |frequenzy: 1
+NamedEntity-Person: Worum |frequenzy: 1
+NamedEntity-Person: Dr  Wadepuhl |frequenzy: 1
+NamedEntity-Person: Kommuniqués |frequenzy: 1
+NamedEntity-Person: Lex Siemens |frequenzy: 1
+NamedEntity-Person: Schlepper |frequenzy: 1
+NamedEntity-Person: Gefahr |frequenzy: 1
+NamedEntity-Person: Dumping |frequenzy: 1
+NamedEntity-Person: bedingungslos –  |frequenzy: 1
+NamedEntity-Person: Kollegin Weidel |frequenzy: 1
+NamedEntity-Person: Widerspruch?–  |frequenzy: 1
+NamedEntity-Person: Menschenrechtsverletzungen |frequenzy: 1
+NamedEntity-Person: Dr  Petry |frequenzy: 1
+NamedEntity-Person: Katharina Dröge |frequenzy: 1
+NamedEntity-Person: Stabspersonal |frequenzy: 1
+NamedEntity-Person: Margot |frequenzy: 1
+NamedEntity-Person: Eingangs |frequenzy: 1
+NamedEntity-Person: Satz  |frequenzy: 1
+NamedEntity-Person: Barsani |frequenzy: 1
+NamedEntity-Person: Hate Speech |frequenzy: 1
+NamedEntity-Person: Jahren sammle |frequenzy: 1
+NamedEntity-Person: Theo Müller |frequenzy: 1
+NamedEntity-Person: Pierer |frequenzy: 1
+NamedEntity-Person: All |frequenzy: 1
+NamedEntity-Person: Kollegin Tackmann |frequenzy: 1
+NamedEntity-Person: Bundeskanzlerin  |frequenzy: 1
+NamedEntity-Person: Sperrungen |frequenzy: 1
+NamedEntity-Person: FDP Diese Schwampel |frequenzy: 1
+NamedEntity-Person: Einseitige Schritte |frequenzy: 1
+NamedEntity-Person: RüdigerLucassenAfDRüdiger Lucassen |frequenzy: 1
+NamedEntity-Person: Besser |frequenzy: 1
+NamedEntity-Person: Kaeser |frequenzy: 1
+NamedEntity-Person: Marianne Schieder |frequenzy: 1
+NamedEntity-Person: Reinhold Robbe |frequenzy: 1
+NamedEntity-Person: Journalistinnen |frequenzy: 1
+NamedEntity-Person: Kollegin Filiz Polat |frequenzy: 1
+NamedEntity-Person: Nouripour |frequenzy: 1
+NamedEntity-Person: Marx |frequenzy: 1
+NamedEntity-Person: FlorianHahnCDU |frequenzy: 1
+NamedEntity-Person: nennen –  |frequenzy: 1
+NamedEntity-Person: Beenden |frequenzy: 1
+NamedEntity-Person: Ehrhorn |frequenzy: 1
+NamedEntity-Person: George Bush |frequenzy: 1
+NamedEntity-Person: Nordafrikas  |frequenzy: 1
+NamedEntity-Person: Stakkato |frequenzy: 1
+NamedEntity-Person: Herrn Schulz |frequenzy: 1
+NamedEntity-Person: Stephan Harbarth |frequenzy: 1
+NamedEntity-Person: starkmachen;denn |frequenzy: 1
+NamedEntity-Person: Kollegin Buchholz |frequenzy: 1
+NamedEntity-Person: Maier |frequenzy: 1
+NamedEntity-Person: Bundeswehreinsätzen“ |frequenzy: 1
+NamedEntity-Person: Hänsel |frequenzy: 1
+NamedEntity-Person: Weltruhm |frequenzy: 1
+NamedEntity-Person: Kleinunternehmen |frequenzy: 1
+NamedEntity-Person: Schwarz-Rot |frequenzy: 1
+NamedEntity-Person: Nadine Schön |frequenzy: 1
+NamedEntity-Person: Overblockings |frequenzy: 1
+NamedEntity-Person: Frank Sitta |frequenzy: 1
+NamedEntity-Person: Rekordgewinne  |frequenzy: 1
+NamedEntity-Person: Herz  |frequenzy: 1
+NamedEntity-Person: Abadi |frequenzy: 1
+NamedEntity-Person: Gestern |frequenzy: 1
+NamedEntity-Person: Oliver Kaczmarek |frequenzy: 1
+NamedEntity-Person: Dr  Malsack-Winkemann |frequenzy: 1
+NamedEntity-Person: Kollegin Klein-Schmeink |frequenzy: 1
+NamedEntity-Person: Gott |frequenzy: 1
+NamedEntity-Person: Frank-Walter Steinmeier |frequenzy: 1
+NamedEntity-Person: Sebastian Hartmann |frequenzy: 1
+NamedEntity-Person: Anja Weisgerber  |frequenzy: 1
+NamedEntity-Person: Lausitz |frequenzy: 1
+NamedEntity-Person: gerufen – |frequenzy: 1
+NamedEntity-Person: Andreas Pinkwart |frequenzy: 1
+NamedEntity-Person: Rüstungsschmiede Rheinmetall |frequenzy: 1
+NamedEntity-Person: Heveling |frequenzy: 1
+NamedEntity-Person: Gerhard Schröder |frequenzy: 1
+NamedEntity-Person: Joseph Stiglitz |frequenzy: 1
+NamedEntity-Person: Walter |frequenzy: 1
+NamedEntity-Person: Gaddafi |frequenzy: 1
+NamedEntity-Person: Wichtiger |frequenzy: 1
+NamedEntity-Person: Hunko |frequenzy: 1
+NamedEntity-Person: Kritisch |frequenzy: 1
+NamedEntity-Person: Active Endeavour |frequenzy: 1
+NamedEntity-Person: Jarzombek |frequenzy: 1
+NamedEntity-Person: Weltmarktes |frequenzy: 1
+NamedEntity-Person: Michael Link |frequenzy: 1
+NamedEntity-Person: CEO Abdullah |frequenzy: 1
+NamedEntity-Person: Rolf Mützenich |frequenzy: 1
+NamedEntity-Person: Stefan Schmidt |frequenzy: 1
+NamedEntity-Person: Digitales |frequenzy: 1
+NamedEntity-Person: landab Warnsteiks |frequenzy: 1
+NamedEntity-Person: Ihrem Lachen |frequenzy: 1
+NamedEntity-Person: Wahlgeschenke |frequenzy: 1
+NamedEntity-Person: Kollegin Esken |frequenzy: 1
+NamedEntity-Person: Steinmeier |frequenzy: 1
+NamedEntity-Person: Bedanken |frequenzy: 1
+NamedEntity-Person: Wozu |frequenzy: 1
+NamedEntity-Person: Dr  Götz Frömming |frequenzy: 1
+NamedEntity-Person: Nukleus |frequenzy: 1
+NamedEntity-Person: Lambsdorff  |frequenzy: 1
+NamedEntity-Person: Friedensaufbaus |frequenzy: 1
+NamedEntity-Person: Maria Klein-Schmeink |frequenzy: 1
+NamedEntity-Person: Andreas Lämmel |frequenzy: 1
+NamedEntity-Person: meine Zeit |frequenzy: 1
+NamedEntity-Person: Braindrain |frequenzy: 1
+NamedEntity-Person: Achim Post |frequenzy: 1
+NamedEntity-Person: desaströs |frequenzy: 1
+NamedEntity-Person: Petra Nicolaisen |frequenzy: 1
+NamedEntity-Person: Beantworten |frequenzy: 1
+NamedEntity-Person: Lisa Badum |frequenzy: 1
+NamedEntity-Person: Bengasi  |frequenzy: 1
+NamedEntity-Person: Helmut Kohls |frequenzy: 1
+NamedEntity-Person: Stimmt |frequenzy: 1
+NamedEntity-Person: Bedingungslos |frequenzy: 1
+NamedEntity-Person: Stanislaw Tillich |frequenzy: 1
+NamedEntity-Person: Bernd Höcke |frequenzy: 1
+NamedEntity-Person: Herren – Danke |frequenzy: 1
+NamedEntity-Person: Hermann Färber |frequenzy: 1
+NamedEntity-Person: Digitale Agenda |frequenzy: 1
+NamedEntity-Person: Herrn Lindner |frequenzy: 1
+NamedEntity-Person: Klaus Mindrup |frequenzy: 1
+NamedEntity-Person: MarleneMortlerCDU |frequenzy: 1
+NamedEntity-Person: AnsgarHevelingCDU |frequenzy: 1
+NamedEntity-Person: Meines Wissens |frequenzy: 1
+NamedEntity-Person: CSUElisabeth Winkelmeier-Becker |frequenzy: 1
+NamedEntity-Person: Peter Weiß |frequenzy: 1
+NamedEntity-Person: Herrn Abdullah |frequenzy: 1
+NamedEntity-Person: Merkel  |frequenzy: 1
+NamedEntity-Person: Wen |frequenzy: 1
+NamedEntity-Person: Wegschauen |frequenzy: 1
+NamedEntity-Person: Andreas G  Lämmel |frequenzy: 1
+NamedEntity-Person: Jeremy Corbyn |frequenzy: 1
+NamedEntity-Person: Herrn Kaeser |frequenzy: 1
+NamedEntity-Person: Imad Karim |frequenzy: 1
+NamedEntity-Person: Rehberg |frequenzy: 1
+NamedEntity-Person: Daniela De Ridder |frequenzy: 1
+NamedEntity-Person: Armin Laschet |frequenzy: 1
+NamedEntity-Person: Bewertungsbehörden |frequenzy: 1
+NamedEntity-Person: Armin-Paul Hampel |frequenzy: 1
+NamedEntity-Person: Aufwandes |frequenzy: 1
+NamedEntity-Person: Marode |frequenzy: 1
+NamedEntity-Person: Humboldt |frequenzy: 1
+NamedEntity-Person: Orwell’ |frequenzy: 1
+NamedEntity-Person: Meines Erachtens |frequenzy: 1
+NamedEntity-Person: Geschätzte |frequenzy: 1
+NamedEntity-Person: Arnold Vaatz |frequenzy: 1
+NamedEntity-Person: Dich |frequenzy: 1
+NamedEntity-Person: René Springer |frequenzy: 1
+NamedEntity-Person: Digitalpakt |frequenzy: 1
+NamedEntity-Person: JürgenBraunAfDJürgen Braun |frequenzy: 1
+NamedEntity-Person: Dr  Eva Högl |frequenzy: 1
+NamedEntity-Person: Georg Link |frequenzy: 1
+NamedEntity-Person: allmählich Zeit |frequenzy: 1
+NamedEntity-Person: Sabine Weiss |frequenzy: 1
+NamedEntity-Person: Josip Juratovic |frequenzy: 1
+NamedEntity-Person: Jens Maier |frequenzy: 1
+NamedEntity-Person: Kollegin Möller |frequenzy: 1
+NamedEntity-Person: Massenentlassungen |frequenzy: 1
+NamedEntity-Person: Tariflohn |frequenzy: 1
+NamedEntity-Person: Link |frequenzy: 1
+NamedEntity-Person: Gabriela Heinrich |frequenzy: 1
+NamedEntity-Person: Wilhelm |frequenzy: 1
+NamedEntity-Person: Stephan Kühn |frequenzy: 1
+NamedEntity-Person: Israel  |frequenzy: 1
+NamedEntity-Person: ­Hariri |frequenzy: 1
+NamedEntity-Person: Herrn Obama |frequenzy: 1
+NamedEntity-Person: Rückkehrwillige |frequenzy: 1
+NamedEntity-Person: Ulla Jelpke |frequenzy: 1
+NamedEntity-Person: Zahreddine |frequenzy: 1
+NamedEntity-Person: Wanka |frequenzy: 1
+NamedEntity-Person: ich–  |frequenzy: 1
+NamedEntity-Person: Tuareg |frequenzy: 1

@@ -1,0 +1,101 @@
+NamedEntity-Organisation: Bundestag |frequenzy: 18
+NamedEntity-Organisation: CDU |frequenzy: 9
+NamedEntity-Organisation: SPD |frequenzy: 8
+NamedEntity-Organisation: SPD-Fraktion |frequenzy: 6
+NamedEntity-Organisation: Die Linke |frequenzy: 6
+NamedEntity-Organisation: FDP |frequenzy: 6
+NamedEntity-Organisation: Sozialdemokraten |frequenzy: 5
+NamedEntity-Organisation: CDU/CSU |frequenzy: 5
+NamedEntity-Organisation: Deutschen Bundestag |frequenzy: 5
+NamedEntity-Organisation: Bundestages |frequenzy: 5
+NamedEntity-Organisation: FDP-Fraktion |frequenzy: 5
+NamedEntity-Organisation: Die Grünen |frequenzy: 4
+NamedEntity-Organisation: Deutschen Bundestages |frequenzy: 4
+NamedEntity-Organisation: Präsident! |frequenzy: 4
+NamedEntity-Organisation: Parlaments |frequenzy: 3
+NamedEntity-Organisation: AfD |frequenzy: 3
+NamedEntity-Organisation: Linken |frequenzy: 2
+NamedEntity-Organisation: CSU |frequenzy: 2
+NamedEntity-Organisation: AfD-Fraktion |frequenzy: 2
+NamedEntity-Organisation: Union |frequenzy: 2
+NamedEntity-Organisation: die Grünen |frequenzy: 2
+NamedEntity-Organisation: EU |frequenzy: 2
+NamedEntity-Organisation: Damen |frequenzy: 2
+NamedEntity-Organisation: EZB |frequenzy: 2
+NamedEntity-Organisation: Pandemie |frequenzy: 2
+NamedEntity-Organisation: Europäischen Union |frequenzy: 2
+NamedEntity-Organisation: Deutsche Bundestag |frequenzy: 2
+NamedEntity-Organisation: Union den Laden |frequenzy: 1
+NamedEntity-Organisation: OECD |frequenzy: 1
+NamedEntity-Organisation: Europäischen Zentralbank |frequenzy: 1
+NamedEntity-Organisation: Pfizer |frequenzy: 1
+NamedEntity-Organisation: Wohlstandsmotoren Auto |frequenzy: 1
+NamedEntity-Organisation: Deutschen Bundesbank |frequenzy: 1
+NamedEntity-Organisation: FDP Die AfD |frequenzy: 1
+NamedEntity-Organisation: Finanzministeriums |frequenzy: 1
+NamedEntity-Organisation: IWF |frequenzy: 1
+NamedEntity-Organisation: EFSF |frequenzy: 1
+NamedEntity-Organisation: CSUPhilipp Amthor |frequenzy: 1
+NamedEntity-Organisation: FinanzenBundesminister |frequenzy: 1
+NamedEntity-Organisation: Demokraten |frequenzy: 1
+NamedEntity-Organisation: Europäischen Kommission |frequenzy: 1
+NamedEntity-Organisation: Kommission |frequenzy: 1
+NamedEntity-Organisation: Liberalen |frequenzy: 1
+NamedEntity-Organisation: DDR |frequenzy: 1
+NamedEntity-Organisation: PR-Abteilung |frequenzy: 1
+NamedEntity-Organisation: SA |frequenzy: 1
+NamedEntity-Organisation: EZB-Rat |frequenzy: 1
+NamedEntity-Organisation: Mitgliedern |frequenzy: 1
+NamedEntity-Organisation: GroKo-Tarif |frequenzy: 1
+NamedEntity-Organisation: sind – Ja |frequenzy: 1
+NamedEntity-Organisation: SS |frequenzy: 1
+NamedEntity-Organisation: Flat Tax |frequenzy: 1
+NamedEntity-Organisation: Kommunisten |frequenzy: 1
+NamedEntity-Organisation: Kongressabgeordnete |frequenzy: 1
+NamedEntity-Organisation: Deutschen Institut für Wirtschaftsforschung |frequenzy: 1
+NamedEntity-Organisation: AstraZeneca |frequenzy: 1
+NamedEntity-Organisation: Europäische Parlament |frequenzy: 1
+NamedEntity-Organisation: Linke |frequenzy: 1
+NamedEntity-Organisation: Grüne |frequenzy: 1
+NamedEntity-Organisation: Grünen |frequenzy: 1
+NamedEntity-Organisation: Weimarer Republik |frequenzy: 1
+NamedEntity-Organisation: Europäischen Parlaments |frequenzy: 1
+NamedEntity-Organisation: Mehr Transparenz |frequenzy: 1
+NamedEntity-Organisation: Freien Demokraten |frequenzy: 1
+NamedEntity-Organisation: Staatsschuldscheine |frequenzy: 1
+NamedEntity-Organisation: EU-Kommission |frequenzy: 1
+NamedEntity-Organisation: den Grünen |frequenzy: 1
+NamedEntity-Organisation: SPD-Führung |frequenzy: 1
+NamedEntity-Organisation: Sozialdemokrat |frequenzy: 1
+NamedEntity-Organisation: Danke |frequenzy: 1
+NamedEntity-Organisation: PhilippAmthorCDU |frequenzy: 1
+NamedEntity-Organisation: Sowjetrepubliken |frequenzy: 1
+NamedEntity-Organisation: Europäischen Zentralbank – Herrn Coeuré |frequenzy: 1
+NamedEntity-Organisation: Deutscher Bundestag |frequenzy: 1
+NamedEntity-Organisation: Zusammenlebens |frequenzy: 1
+NamedEntity-Organisation: Europäische Zentralbank |frequenzy: 1
+NamedEntity-Organisation: Demokrat |frequenzy: 1
+NamedEntity-Organisation: Europäischen Union – das |frequenzy: 1
+NamedEntity-Organisation: Nationalstaates |frequenzy: 1
+NamedEntity-Organisation: stimmt |frequenzy: 1
+NamedEntity-Organisation: Deutsche Bundesbank |frequenzy: 1
+NamedEntity-Organisation: SPD-Minister |frequenzy: 1
+NamedEntity-Organisation: Gesellschaft in Deutschland |frequenzy: 1
+NamedEntity-Organisation: Ostdeutschland |frequenzy: 1
+NamedEntity-Organisation: Herr Abgeordneter |frequenzy: 1
+NamedEntity-Organisation: Sowjetunion |frequenzy: 1
+NamedEntity-Organisation: Apple |frequenzy: 1
+NamedEntity-Organisation: Abgeordneten |frequenzy: 1
+NamedEntity-Organisation: NATO |frequenzy: 1
+NamedEntity-Organisation: italienischen Regierung |frequenzy: 1
+NamedEntity-Organisation: SPD-Ministerpräsidenten |frequenzy: 1
+NamedEntity-Organisation: Bundesfinanzminister |frequenzy: 1
+NamedEntity-Organisation: Finanzminister Wolfgang Schäuble |frequenzy: 1
+NamedEntity-Organisation: Zentralbankrates |frequenzy: 1
+NamedEntity-Organisation: Abgeordneter |frequenzy: 1
+NamedEntity-Organisation: Gesellschaft Deutschlands |frequenzy: 1
+NamedEntity-Organisation: Verfassung |frequenzy: 1
+NamedEntity-Organisation: DSGVO |frequenzy: 1
+NamedEntity-Organisation: Arsenal |frequenzy: 1
+NamedEntity-Organisation: Tagesspiegel |frequenzy: 1
+NamedEntity-Organisation: Bundesbank |frequenzy: 1

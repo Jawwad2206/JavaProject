@@ -1,0 +1,280 @@
+mit Datumsfilter a) nur eins; b) für ein Bereich
+
+a) 
+Alle Redner
+
+Datum: 2017-10-23
+The speaker: Wolfgang Schäuble with the ID: 11001938 from the Fraction: CDU/CSU had: 34.0
+The speaker: Petra Pau with the ID: 11003206 from the Fraction: DIE LINKE. had: 300.0
+The speaker: Claudia Roth with the ID: 11003212 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3469.0
+The speaker: Alterspräsident Dr. Hermann Otto Solms with the ID: 11002190 from the Fraction: FDP had: 1653.5
+The speaker: Michael Grosse-Brömer with the ID: 11003541 from the Fraction: CDU/CSU had: 5088.0
+The speaker: Carsten Schneider with the ID: 11003218 from the Fraction: SPD had: 4221.0
+The speaker: Bernd Baumann with the ID: 11004662 from the Fraction: AfD had: 4052.0
+The speaker: Britta Haßelmann with the ID: 11003764 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 9295.0
+The speaker: Thomas Oppermann with the ID: 11003820 from the Fraction: SPD had: 236.0
+The speaker: Volker Kauder with the ID: 11001074 from the Fraction: CDU/CSU had: 95.0
+The speaker: Jan Korte with the ID: 11003790 from the Fraction: DIE LINKE. had: 4756.0
+The speaker: Dr. Wolfgang Schäuble with the ID: 11002190 from the Fraction: FDP had: 8947.5
+The speaker: Hans-Peter Friedrich with the ID: 11003124 from the Fraction: CDU/CSU had: 223.0
+The speaker: Marco Buschmann with the ID: 11004023 from the Fraction: FDP had: 3472.0
+The speaker: Wolfgang Kubicki with the ID: 11001235 from the Fraction: FDP had: 255.0
+
+b) 
+
+Datum1: 2017-10-23
+Datum2: 2018-01-01
+
+The speaker: Jutta Krellmann with the ID: 11004080 from the Fraction: DIE LINKE. had: 4192.0
+The speaker: Peter Boehringer with the ID: 11004675 from the Fraction: AfD had: 3798.8333333333335
+The speaker: Armin Schuster with the ID: 11004149 from the Fraction: CDU/CSU had: 5942.0
+The speaker: Leif-Erik Holm with the ID: 11004761 from the Fraction: AfD had: 4671.0
+The speaker: Dr. Wolfgang Schäuble with the ID: 11002190 from the Fraction: FDP had: 8947.5
+The speaker: Markus Töns with the ID: 11004921 from the Fraction: SPD had: 4774.0
+The speaker: Carsten Linnemann with the ID: 11004098 from the Fraction: CDU/CSU had: 2690.5
+The speaker: Marco Buschmann with the ID: 11004023 from the Fraction: FDP had: 2569.0
+The speaker: Heike Hänsel with the ID: 11003763 from the Fraction: DIE LINKE. had: 4470.0
+The speaker: Reinhard Brandl with the ID: 11004018 from the Fraction: CDU/CSU had: 4471.25
+The speaker: Nicola Beer with the ID: 11004668 from the Fraction: FDP had: 5159.0
+The speaker: Christian Petry with the ID: 11004605 from the Fraction: SPD had: 4254.0
+The speaker: Stephan Mayer with the ID: 11003589 from the Fraction: CDU/CSU had: 6230.0
+The speaker: Wilfried Oellers with the ID: 11004365 from the Fraction: CDU/CSU had: 5172.0
+The speaker: Claudia Roth with the ID: 11003212 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3469.0
+The speaker: Harald Weyel with the ID: 11004932 from the Fraction: AfD had: 4488.0
+The speaker: Thomas Ehrhorn with the ID: 11004707 from the Fraction: AfD had: 4749.0
+The speaker: Alice Weidel with the ID: 11004930 from the Fraction: AfD had: 4888.0
+The speaker: Carsten Schneider with the ID: 11003218 from the Fraction: SPD had: 4184.75
+The speaker: Stefan Keuter with the ID: 11004778 from the Fraction: AfD had: 3711.25
+The speaker: Alexander Radwan with the ID: 11004383 from the Fraction: CDU/CSU had: 7203.0
+The speaker: Bernd Baumann with the ID: 11004662 from the Fraction: AfD had: 3878.5714285714284
+The speaker: Elisabeth Winkelmeier-Becker with the ID: 11003865 from the Fraction: CDU/CSU had: 5905.6
+The speaker: Florian Toncar with the ID: 11003856 from the Fraction: FDP had: 5732.333333333333
+The speaker: Omid Nouripour with the ID: 11003881 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4759.5
+The speaker: Bernd Reuther with the ID: 11004864 from the Fraction: FDP had: 3380.0
+The speaker: Renate Künast with the ID: 11003576 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 2770.5
+The speaker: Sonja Amalie Steffen with the ID: 11004164 from the Fraction: SPD had: 5360.0
+The speaker: Caren Lay with the ID: 11004088 from the Fraction: DIE LINKE. had: 4962.0
+The speaker: Kai Gehring with the ID: 11003756 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 5617.0
+The speaker: Michael Theurer with the ID: 11004914 from the Fraction: FDP had: 5279.0
+The speaker: Katrin Göring-Eckardt with the ID: 11003132 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1712.0
+The speaker: Michael Frieser with the ID: 11004034 from the Fraction: CDU/CSU had: 2895.3333333333335
+The speaker: Harald Weinberg with the ID: 11004186 from the Fraction: DIE LINKE. had: 5310.5
+The speaker: Gabi Weber with the ID: 11004438 from the Fraction: SPD had: 4225.0
+The speaker: Sven-Christian Kindler with the ID: 11004070 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 5343.0
+The speaker: Martin Hebner with the ID: 11004740 from the Fraction: AfD had: 4746.0
+The speaker: Stefan Liebich with the ID: 11004093 from the Fraction: DIE LINKE. had: 4391.0
+The speaker: Petra Pau with the ID: 11003206 from the Fraction: DIE LINKE. had: 300.0
+The speaker: Alterspräsident Dr. Hermann Otto Solms with the ID: 11002190 from the Fraction: FDP had: 1653.5
+The speaker: Joachim Pfeiffer with the ID: 11003608 from the Fraction: CDU/CSU had: 6768.0
+The speaker: Tino Chrupalla with the ID: 11004695 from the Fraction: AfD had: 4698.0
+The speaker: Andrea Nahles with the ID: 11003196 from the Fraction: SPD had: 5694.0
+The speaker: Matthias Höhn with the ID: 11004759 from the Fraction: DIE LINKE. had: 3135.0
+The speaker: Gerold Otten with the ID: 11004846 from the Fraction: AfD had: 4074.25
+The speaker: Johannes Fechner with the ID: 11004270 from the Fraction: SPD had: 4879.75
+The speaker: Elisabeth Motschmann with the ID: 11004357 from the Fraction: CDU/CSU had: 4460.0
+The speaker: Roman Johannes Reusch with the ID: 11004863 from the Fraction: AfD had: 7204.0
+The speaker: Johannes Kahrs with the ID: 11003157 from the Fraction: SPD had: 3928.5
+The speaker: Stephan Thomae with the ID: 11004175 from the Fraction: FDP had: 4838.857142857143
+The speaker: Christoph Matschie with the ID: 11001434 from the Fraction: SPD had: 3787.0
+The speaker: Karl-Heinz Brunner with the ID: 11004256 from the Fraction: SPD had: 5647.0
+The speaker: Jan Ralf Nolte with the ID: 11004842 from the Fraction: AfD had: 3580.0
+The speaker: Maria Klein-Schmeink with the ID: 11004072 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4446.0
+The speaker: Jürgen Trittin with the ID: 11003246 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3152.0
+The speaker: Siemtje Möller with the ID: 11004826 from the Fraction: SPD had: 6119.0
+The speaker: Kay Gottschalk with the ID: 11004731 from the Fraction: AfD had: 5681.0
+The speaker: Sevim Dağdelen with the ID: 11003746 from the Fraction: DIE LINKE. had: 4770.6
+The speaker: Barbara Hendricks with the ID: 11002672 from the Fraction: SPD had: 4238.0
+The speaker: Marian Wendt with the ID: 11004441 from the Fraction: CDU/CSU had: 2713.0
+The speaker: Ulrich Oehme with the ID: 11004843 from the Fraction: AfD had: 4864.0
+The speaker: Alexander Graf Lambsdorff with the ID: 11004798 from the Fraction: FDP had: 3832.125
+The speaker: Ralf Brauksiepe with the ID: 11003055 from the Fraction: CDU/CSU had: 5003.0
+The speaker: Eberhardt Alexander Gauland with the ID: 11004724 from the Fraction: AfD had: 5325.0
+The speaker: Thomas Maizière with the ID: 11004105 from the Fraction: CDU/CSU had: 1153.2857142857142
+The speaker: Dirk Vöpel with the ID: 11004433 from the Fraction: SPD had: 5045.0
+The speaker: Heiko Heßenkemper with the ID: 11004751 from the Fraction: Fraktionslos had: 3655.0
+The speaker: Stefan Kaufmann with the ID: 11004065 from the Fraction: CDU/CSU had: 6042.0
+The speaker: Jens Kestner with the ID: 11004777 from the Fraction: AfD had: 2990.0
+The speaker: Lisa Paus with the ID: 11004127 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 5317.0
+The speaker: Thorsten Frei with the ID: 11004276 from the Fraction: CDU/CSU had: 4235.0
+The speaker: Thomas Oppermann with the ID: 11003820 from the Fraction: SPD had: 236.0
+The speaker: Nina Scheer with the ID: 11004396 from the Fraction: SPD had: 1161.0
+The speaker: Lars Herrmann with the ID: 11004748 from the Fraction: Fraktionslos had: 620.0
+The speaker: Jana Schimke with the ID: 11004398 from the Fraction: CDU/CSU had: 5791.0
+The speaker: Wolfgang Hellmich with the ID: 11004226 from the Fraction: SPD had: 3948.0
+The speaker: Manuel Höferlin with the ID: 11004057 from the Fraction: FDP had: 2418.0
+The speaker: Claudia Müller with the ID: 11004830 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3582.0
+The speaker: Andreas Lenz with the ID: 11004339 from the Fraction: CDU/CSU had: 4485.0
+The speaker: Peter Beyer with the ID: 11004010 from the Fraction: CDU/CSU had: 5039.0
+The speaker: Pascal Kober with the ID: 11004075 from the Fraction: FDP had: 3728.3333333333335
+The speaker: Susann Rüthrich with the ID: 11004391 from the Fraction: SPD had: 6041.0
+The speaker: André Hahn with the ID: 11004288 from the Fraction: DIE LINKE. had: 3532.0
+The speaker: Michael Stübgen with the ID: 11002280 from the Fraction: CDU/CSU had: 3947.0
+The speaker: Hermann Färber with the ID: 11004269 from the Fraction: CDU/CSU had: 4504.0
+The speaker: Axel Gehrke with the ID: 11004725 from the Fraction: AfD had: 4346.666666666667
+The speaker: Armin-Paulus Hampel with the ID: 11004735 from the Fraction: AfD had: 4736.666666666667
+The speaker: Norbert Röttgen with the ID: 11002765 from the Fraction: CDU/CSU had: 5238.666666666667
+The speaker: Detlef Seif with the ID: 11004152 from the Fraction: CDU/CSU had: 5031.0
+The speaker: Rüdiger Lucassen with the ID: 11004807 from the Fraction: AfD had: 5296.0
+The speaker: Joana Eleonora Cotar with the ID: 11004696 from the Fraction: AfD had: 5435.0
+The speaker: Hans Michelbach with the ID: 11002738 from the Fraction: CDU/CSU had: 5493.0
+The speaker: Lothar Riebsamen with the ID: 11004135 from the Fraction: CDU/CSU had: 4433.0
+The speaker: Marc Bernhard with the ID: 11004669 from the Fraction: AfD had: 4441.0
+The speaker: Sebastian Hartmann with the ID: 11004291 from the Fraction: SPD had: 5005.0
+The speaker: Andrej Hunko with the ID: 11004060 from the Fraction: DIE LINKE. had: 4735.0
+The speaker: Franziska Brantner with the ID: 11004255 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4750.0
+The speaker: Andreas G. Lämmel with the ID: 11003796 from the Fraction: CDU/CSU had: 4752.0
+The speaker: Mathias Middelberg with the ID: 11004110 from the Fraction: CDU/CSU had: 4725.0
+The speaker: Agnieszka Brugger with the ID: 11004106 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 6329.0
+The speaker: Klaus Ernst with the ID: 11003753 from the Fraction: DIE LINKE. had: 4038.0
+The speaker: Wolfgang Schäuble with the ID: 11001938 from the Fraction: CDU/CSU had: 34.0
+The speaker: Eckhardt Rehberg with the ID: 11003826 from the Fraction: CDU/CSU had: 3565.0
+The speaker: Michelle Müntefering with the ID: 11004359 from the Fraction: SPD had: 5708.0
+The speaker: Achim Post with the ID: 11004378 from the Fraction: SPD had: 3868.0
+The speaker: Tobias Pflüger with the ID: 11004852 from the Fraction: DIE LINKE. had: 4067.5
+The speaker: Kathrin Vogler with the ID: 11004181 from the Fraction: DIE LINKE. had: 3793.3333333333335
+The speaker: Zaklin Nastic with the ID: 11004837 from the Fraction: DIE LINKE. had: 6742.0
+The speaker: Ernst Dieter Rossmann with the ID: 11003211 from the Fraction: SPD had: 7531.0
+The speaker: Reinhard Houben with the ID: 11004763 from the Fraction: FDP had: 2981.0
+The speaker: Beatrix von Storch with the ID: 11004905 from the Fraction: AfD had: 3420.0
+The speaker: Filiz Polat with the ID: 11004857 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3914.5
+The speaker: Britta Haßelmann with the ID: 11003764 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4938.666666666667
+The speaker: Christine Buchholz with the ID: 11004022 from the Fraction: DIE LINKE. had: 2822.6666666666665
+The speaker: Harald Ebner with the ID: 11004215 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4435.0
+The speaker: Karsten Hilse with the ID: 11004752 from the Fraction: AfD had: 3708.0
+The speaker: Rolf Mützenich with the ID: 11003599 from the Fraction: SPD had: 5342.0
+The speaker: René Springer with the ID: 11004900 from the Fraction: AfD had: 2912.0
+The speaker: Norbert Kleinwächter with the ID: 11004781 from the Fraction: AfD had: 4581.5
+The speaker: Lukas Köhler with the ID: 11004786 from the Fraction: FDP had: 5625.0
+The speaker: Peter Altmaier with the ID:  from the Fraction: Fraktionslos had: 6381.0
+The speaker: Torsten Herbst with the ID: 11004746 from the Fraction: FDP had: 3604.0
+The speaker: Arno Klare with the ID: 11004329 from the Fraction: SPD had: 974.0
+The speaker: Karamba Diaby with the ID: 11004259 from the Fraction: SPD had: 2943.0
+The speaker: Sven Lehmann with the ID: 11004801 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 1316.0
+The speaker: Ulla Jelpke with the ID: 11001023 from the Fraction: DIE LINKE. had: 2196.0
+The speaker: Otto Fricke with the ID: 11003530 from the Fraction: FDP had: 4272.0
+The speaker: Anja Weisgerber with the ID: 11004440 from the Fraction: CDU/CSU had: 5313.0
+The speaker: Marie-Agnes Strack-Zimmermann with the ID: 11004906 from the Fraction: FDP had: 4127.0
+The speaker: Niels Annen with the ID: 11003732 from the Fraction: SPD had: 6475.333333333333
+The speaker: Manuel Sarrazin with the ID: 11003889 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4310.0
+The speaker: Katja Suding with the ID: 11004910 from the Fraction: FDP had: 1335.0
+The speaker: Bettina Hagedorn with the ID: 11003545 from the Fraction: SPD had: 4286.0
+The speaker: Alexander S. Neu with the ID: 11004361 from the Fraction: DIE LINKE. had: 4344.5
+The speaker: Stephan Brandner with the ID: 11004678 from the Fraction: AfD had: 2114.0
+The speaker: Sigmar Gabriel with the ID: 11003755 from the Fraction: SPD had: 6448.428571428572
+The speaker: Uwe Kekeritz with the ID: 11004066 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3835.0
+The speaker: Michael Georg Link with the ID: 11003802 from the Fraction: FDP had: 6753.333333333333
+The speaker: Gottfried Curio with the ID: 11004698 from the Fraction: AfD had: 3700.0
+The speaker: Eva Högl with the ID: 11003896 from the Fraction: SPD had: 5590.0
+The speaker: Alexander Gauland with the ID: 11004724 from the Fraction: AfD had: 4500.0
+The speaker: Lorenz Gösta Beutin with the ID: 11004672 from the Fraction: DIE LINKE. had: 4329.0
+The speaker: Friedrich Straetmanns with the ID: 11004907 from the Fraction: DIE LINKE. had: 1341.0
+The speaker: Fabio De Masi with the ID: 11004817 from the Fraction: DIE LINKE. had: 4000.5
+The speaker: Volker Kauder with the ID: 11001074 from the Fraction: CDU/CSU had: 2627.3333333333335
+The speaker: Hansjörg Durz with the ID: 11004264 from the Fraction: CDU/CSU had: 6306.0
+The speaker: Ingo Gädechens with the ID: 11004036 from the Fraction: CDU/CSU had: 5067.0
+The speaker: Götz Frömming with the ID: 11004722 from the Fraction: AfD had: 771.0
+The speaker: Lars Castellucci with the ID: 11004257 from the Fraction: SPD had: 2741.5
+The speaker: Jan Korte with the ID: 11003790 from the Fraction: DIE LINKE. had: 3487.0
+The speaker: Florian Hahn with the ID: 11004048 from the Fraction: CDU/CSU had: 6373.5
+The speaker: Bärbel Kofler with the ID: 11003710 from the Fraction: SPD had: 7606.0
+The speaker: Ralph Brinkhaus with the ID: 11004021 from the Fraction: CDU/CSU had: 5049.0
+The speaker: Tobias Lindner with the ID: 11004217 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 5812.5
+The speaker: Bijan Djir-Sarai with the ID: 11004029 from the Fraction: FDP had: 3664.6666666666665
+The speaker: Bernd Riexinger with the ID: 11004865 from the Fraction: DIE LINKE. had: 4659.0
+The speaker: Beate Müller-Gemmeke with the ID: 11004117 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 5050.0
+The speaker: Lothar Binding with the ID: 11003050 from the Fraction: SPD had: 4470.0
+The speaker: Ursula Leyen with the ID: 11004092 from the Fraction: CDU/CSU had: 5179.0
+The speaker: Peter Felser with the ID: 11004714 from the Fraction: AfD had: 2649.0
+The speaker: Enrico Komning with the ID: 11004787 from the Fraction: AfD had: 3604.0
+The speaker: Thomas Jurk with the ID: 11004318 from the Fraction: SPD had: 4739.0
+The speaker: Christian Dürr with the ID: 11004705 from the Fraction: FDP had: 5124.0
+The speaker: Michael Grosse-Brömer with the ID: 11003541 from the Fraction: CDU/CSU had: 4018.3333333333335
+The speaker: Frithjof Schmidt with the ID: 11004145 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 3979.3333333333335
+The speaker: Andrea Lindholz with the ID: 11004342 from the Fraction: CDU/CSU had: 1044.0
+The speaker: Frank Schwabe with the ID: 11003846 from the Fraction: SPD had: 8325.0
+The speaker: Johannes Vogel with the ID: 11004179 from the Fraction: FDP had: 4220.0
+The speaker: Christine Aschenberg-Dugnus with the ID: 11004003 from the Fraction: FDP had: 3530.0
+The speaker: Bernd Westphal with the ID: 11004442 from the Fraction: SPD had: 5529.0
+The speaker: Henning Otte with the ID: 11003821 from the Fraction: CDU/CSU had: 5085.5
+The speaker: Birke Bull-Bischoff with the ID: 11004688 from the Fraction: DIE LINKE. had: 4602.5
+The speaker: Konstantin Elias Kuhle with the ID: 11004796 from the Fraction: FDP had: 4532.5
+The speaker: Stephan Kühn with the ID: 11004085 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4800.0
+The speaker: Josip Juratovic with the ID: 11003782 from the Fraction: SPD had: 5222.0
+The speaker: Jürgen Hardt with the ID: 11004050 from the Fraction: CDU/CSU had: 4867.571428571428
+The speaker: Oliver Krischer with the ID: 11004081 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 5510.0
+The speaker: Frauke Petry with the ID: 11004851 from the Fraction: Fraktionslos had: 5574.0
+The speaker: Stephan Protschka with the ID: 11004858 from the Fraction: AfD had: 3246.6
+The speaker: Hans-Peter Friedrich with the ID: 11003124 from the Fraction: CDU/CSU had: 223.0
+The speaker: Wolfgang Kubicki with the ID: 11001235 from the Fraction: FDP had: 255.0
+The speaker: Roderich Kiesewetter with the ID: 11004068 from the Fraction: CDU/CSU had: 5107.0
+The speaker: Birgit Malsack-Winkemann with the ID: 11004813 from the Fraction: AfD had: 2972.0
+The speaker: Dietmar Bartsch with the ID: 11003034 from the Fraction: DIE LINKE. had: 4917.0
+The speaker: Thomas Lutze with the ID: 11004103 from the Fraction: DIE LINKE. had: 3067.0
+The speaker: Kerstin Andreae with the ID: 11003493 from the Fraction: BÜNDNIS 90/DIE GRÜNEN had: 4766.0
+The speaker: Karl Lauterbach with the ID: 11003797 from the Fraction: SPD had: 5597.0
+The speaker: Stephan Harbarth with the ID: 11004049 from the Fraction: CDU/CSU had: 3981.0
+The speaker: Martin Schulz with the ID: 11004886 from the Fraction: SPD had: 5509.0
+The speaker: Johann David Wadephul with the ID: 11004182 from the Fraction: CDU/CSU had: 4655.0
+The speaker: Steffen Kotré with the ID: 11004791 from the Fraction: AfD had: 5640.5
+The speaker: Frank Sitta with the ID: 11004894 from the Fraction: FDP had: 3699.5
+The speaker: Matthias Zimmer with the ID: 11004192 from the Fraction: CDU/CSU had: 3298.0
+The speaker: Bernd Rützel with the ID: 11004392 from the Fraction: SPD had: 2686.5
+The speaker: Jürgen Pohl with the ID: 11004856 from the Fraction: AfD had: 3955.0
+
+a) 
+
+Für alle Fraktionen
+
+Datum: 2017-10-23
+
+The fraction: AfD have an average speech length of: 4052.0
+The fraction: BÜNDNIS 90/DIE GRÜNEN have an average speech length of: 6382.0
+The fraction: CDU/CSU have an average speech length of: 1360.0
+The fraction: FDP have an average speech length of: 3529.5
+The fraction: SPD have an average speech length of: 2228.5
+The fraction: DIE LINKE. have an average speech length of: 2528.0
+
+b) 
+
+Für alle Fraktionen
+
+Datum1: 2017-10-23
+Datum2: 2018-01-01
+
+The fraction: SPD have an average speech length of: 4820.45
+The fraction: FDP have an average speech length of: 4245.625
+The fraction: DIE LINKE. have an average speech length of: 3984.6041666666665
+The fraction: AfD have an average speech length of: 4041.890410958904
+The fraction: Fraktionslos have an average speech length of: 4057.5
+The fraction: BÜNDNIS 90/DIE GRÜNEN have an average speech length of: 4515.078947368421
+The fraction: CDU/CSU have an average speech length of: 4073.3119266055046
+
+a) 
+Für alle Parteien
+
+Datum: 2017-10-23
+
+The party: SPD have an average speech length of: 2228.5
+The party: CDU have an average speech length of: 1739.0
+The party: FDP have an average speech length of: 3529.5
+The party: DIE LINKE. have an average speech length of: 2528.0
+The party: AfD have an average speech length of: 4052.0
+The party: CSU have an average speech length of: 223.0
+The party: BÜNDNIS 90/DIE GRÜNEN have an average speech length of: 6382.0
+
+b) 
+
+Für alle Parteien
+
+Datum1: 2017-10-23
+Datum2: 2018-01-01
+
+The party:  have an average speech length of: 6381.0
+The party: BÜNDNIS 90/DIE GRÜNEN have an average speech length of: 4515.078947368421
+The party: CDU have an average speech length of: 3964.811111111111
+The party: SPD have an average speech length of: 4820.45
+The party: FDP have an average speech length of: 4245.625
+The party: DIE LINKE. have an average speech length of: 3984.6041666666665
+The party: AfD have an average speech length of: 4041.890410958904
+The party: CSU have an average speech length of: 4587.263157894737
+The party: Plos have an average speech length of: 3283.0

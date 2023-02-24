@@ -1,0 +1,797 @@
+NamedEntity-Miscellanies: deutsche |frequenzy: 59
+NamedEntity-Miscellanies: deutschen |frequenzy: 57
+NamedEntity-Miscellanies: CSU-Fraktion |frequenzy: 51
+NamedEntity-Miscellanies: europäischen |frequenzy: 42
+NamedEntity-Miscellanies: Hauptausschuss |frequenzy: 35
+NamedEntity-Miscellanies: Zeit |frequenzy: 28
+NamedEntity-Miscellanies: deutscher |frequenzy: 27
+NamedEntity-Miscellanies: sozialen |frequenzy: 27
+NamedEntity-Miscellanies: europäische |frequenzy: 27
+NamedEntity-Miscellanies: soziale |frequenzy: 25
+NamedEntity-Miscellanies: Drucksache  |frequenzy: 22
+NamedEntity-Miscellanies: IS |frequenzy: 16
+NamedEntity-Miscellanies: europäischer |frequenzy: 15
+NamedEntity-Miscellanies: Krieg |frequenzy: 14
+NamedEntity-Miscellanies: Bündnis 90/ |frequenzy: 12
+NamedEntity-Miscellanies: Deutsche |frequenzy: 12
+NamedEntity-Miscellanies: Bundeskanzlerin |frequenzy: 12
+NamedEntity-Miscellanies: Tag |frequenzy: 11
+NamedEntity-Miscellanies: Euro |frequenzy: 11
+NamedEntity-Miscellanies: Facebook |frequenzy: 10
+NamedEntity-Miscellanies: Mir |frequenzy: 10
+NamedEntity-Miscellanies: AfD  |frequenzy: 10
+NamedEntity-Miscellanies: irakischen |frequenzy: 10
+NamedEntity-Miscellanies: Sea Guardian |frequenzy: 9
+NamedEntity-Miscellanies: MINUSMA |frequenzy: 9
+NamedEntity-Miscellanies: französische |frequenzy: 9
+NamedEntity-Miscellanies: demokratischen |frequenzy: 9
+NamedEntity-Miscellanies: Einwanderungsgesetz |frequenzy: 8
+NamedEntity-Miscellanies: französischen |frequenzy: 8
+NamedEntity-Miscellanies: … |frequenzy: 8
+NamedEntity-Miscellanies: UNMISS |frequenzy: 8
+NamedEntity-Miscellanies: Kohleausstieg |frequenzy: 8
+NamedEntity-Miscellanies: Jahr  |frequenzy: 8
+NamedEntity-Miscellanies: Weihnachten |frequenzy: 8
+NamedEntity-Miscellanies: deutsches |frequenzy: 8
+NamedEntity-Miscellanies: Bürgerkrieg |frequenzy: 7
+NamedEntity-Miscellanies: völkerrechtliche |frequenzy: 6
+NamedEntity-Miscellanies: Internet |frequenzy: 6
+NamedEntity-Miscellanies: sozialer |frequenzy: 6
+NamedEntity-Miscellanies: IARC |frequenzy: 6
+NamedEntity-Miscellanies: Krieges |frequenzy: 6
+NamedEntity-Miscellanies: Operation Sophia |frequenzy: 6
+NamedEntity-Miscellanies: AfD-Fraktion |frequenzy: 6
+NamedEntity-Miscellanies: NetzDG |frequenzy: 5
+NamedEntity-Miscellanies: Tages |frequenzy: 5
+NamedEntity-Miscellanies: Frieden |frequenzy: 5
+NamedEntity-Miscellanies: irischen |frequenzy: 5
+NamedEntity-Miscellanies: Anschluss |frequenzy: 5
+NamedEntity-Miscellanies: Weihnachtsfest |frequenzy: 5
+NamedEntity-Miscellanies: amerikanischen |frequenzy: 5
+NamedEntity-Miscellanies: irakische |frequenzy: 4
+NamedEntity-Miscellanies: Fakt |frequenzy: 4
+NamedEntity-Miscellanies: AfD |frequenzy: 4
+NamedEntity-Miscellanies: Deutschland  |frequenzy: 4
+NamedEntity-Miscellanies: Unabhängigkeitsreferendum |frequenzy: 4
+NamedEntity-Miscellanies: Meine lieben Kolleginnen und Kollegen |frequenzy: 4
+NamedEntity-Miscellanies: Wirtschaftsminister |frequenzy: 4
+NamedEntity-Miscellanies: Twitter |frequenzy: 4
+NamedEntity-Miscellanies: Gesprächen |frequenzy: 4
+NamedEntity-Miscellanies: Wort |frequenzy: 4
+NamedEntity-Miscellanies: ehrliche |frequenzy: 4
+NamedEntity-Miscellanies: arabischen |frequenzy: 4
+NamedEntity-Miscellanies: Augenblick |frequenzy: 4
+NamedEntity-Miscellanies: amerikanische |frequenzy: 3
+NamedEntity-Miscellanies: irische |frequenzy: 3
+NamedEntity-Miscellanies: Charta der Vereinten Nationen |frequenzy: 3
+NamedEntity-Miscellanies: Operation |frequenzy: 3
+NamedEntity-Miscellanies: Parlamentsarmee |frequenzy: 3
+NamedEntity-Miscellanies: GroKo |frequenzy: 3
+NamedEntity-Miscellanies: demokratische |frequenzy: 3
+NamedEntity-Miscellanies: Jahr für Jahr |frequenzy: 3
+NamedEntity-Miscellanies: russischen |frequenzy: 3
+NamedEntity-Miscellanies: Genfer Flüchtlingskonvention |frequenzy: 3
+NamedEntity-Miscellanies: Operation Active Endeavour |frequenzy: 3
+NamedEntity-Miscellanies: Fachkräftemangel |frequenzy: 3
+NamedEntity-Miscellanies: britische |frequenzy: 3
+NamedEntity-Miscellanies: Operation Sea Guardian |frequenzy: 3
+NamedEntity-Miscellanies: AfD  |frequenzy: 3
+NamedEntity-Miscellanies: deutschem |frequenzy: 3
+NamedEntity-Miscellanies: Bundestagswahl |frequenzy: 3
+NamedEntity-Miscellanies: EFSA |frequenzy: 3
+NamedEntity-Miscellanies: NATO-Vertrages |frequenzy: 3
+NamedEntity-Miscellanies: GIZ |frequenzy: 3
+NamedEntity-Miscellanies: Annen |frequenzy: 3
+NamedEntity-Miscellanies: UNAMID |frequenzy: 3
+NamedEntity-Miscellanies: CSU-Bundestagsfraktion |frequenzy: 3
+NamedEntity-Miscellanies: Bericht |frequenzy: 3
+NamedEntity-Miscellanies: Euro-Rettung |frequenzy: 3
+NamedEntity-Miscellanies: Deutschen |frequenzy: 3
+NamedEntity-Miscellanies: Berliner |frequenzy: 2
+NamedEntity-Miscellanies: NH90 |frequenzy: 2
+NamedEntity-Miscellanies: Fortschritten |frequenzy: 2
+NamedEntity-Miscellanies: Aufenthaltsgesetz |frequenzy: 2
+NamedEntity-Miscellanies: NATO-Mission |frequenzy: 2
+NamedEntity-Miscellanies: bayerische |frequenzy: 2
+NamedEntity-Miscellanies: sozialistischen |frequenzy: 2
+NamedEntity-Miscellanies: BVL |frequenzy: 2
+NamedEntity-Miscellanies: Troika |frequenzy: 2
+NamedEntity-Miscellanies: Angriff |frequenzy: 2
+NamedEntity-Miscellanies: Drucksache |frequenzy: 2
+NamedEntity-Miscellanies: nächsten Jahr |frequenzy: 2
+NamedEntity-Miscellanies: COP 23 |frequenzy: 2
+NamedEntity-Miscellanies: im Jahr |frequenzy: 2
+NamedEntity-Miscellanies: UNMISS  |frequenzy: 2
+NamedEntity-Miscellanies: Tata |frequenzy: 2
+NamedEntity-Miscellanies: Tiger |frequenzy: 2
+NamedEntity-Miscellanies: polnische |frequenzy: 2
+NamedEntity-Miscellanies: CIch |frequenzy: 2
+NamedEntity-Miscellanies: Weges |frequenzy: 2
+NamedEntity-Miscellanies: sudanesischen |frequenzy: 2
+NamedEntity-Miscellanies: Einsatzgebieten |frequenzy: 2
+NamedEntity-Miscellanies: unübersichtlicher |frequenzy: 2
+NamedEntity-Miscellanies: libanesischen |frequenzy: 2
+NamedEntity-Miscellanies: Versöhnungsprozess |frequenzy: 2
+NamedEntity-Miscellanies: Jamaika-Sondierungen |frequenzy: 2
+NamedEntity-Miscellanies: Jamaika-Sondierungsgesprächen |frequenzy: 2
+NamedEntity-Miscellanies: Kollege Pflüger |frequenzy: 2
+NamedEntity-Miscellanies: Personals |frequenzy: 2
+NamedEntity-Miscellanies: nordrhein-westfälische |frequenzy: 2
+NamedEntity-Miscellanies: Gesetzentwurfes |frequenzy: 2
+NamedEntity-Miscellanies: European Recovery Program |frequenzy: 2
+NamedEntity-Miscellanies: Der Entschließungsantrag |frequenzy: 2
+NamedEntity-Miscellanies: europäisches |frequenzy: 2
+NamedEntity-Miscellanies: Irland  |frequenzy: 2
+NamedEntity-Miscellanies: Selbstverständlich |frequenzy: 2
+NamedEntity-Miscellanies: Sitzungswoche |frequenzy: 2
+NamedEntity-Miscellanies: DigitalPakt |frequenzy: 2
+NamedEntity-Miscellanies: Vertrag von Lissabon |frequenzy: 2
+NamedEntity-Miscellanies: kanadische |frequenzy: 2
+NamedEntity-Miscellanies: TobiasPflügerDIE LINKETobias Pflüger |frequenzy: 2
+NamedEntity-Miscellanies: Waffenruhe |frequenzy: 2
+NamedEntity-Miscellanies: iranischen |frequenzy: 2
+NamedEntity-Miscellanies: Klimaziele |frequenzy: 2
+NamedEntity-Miscellanies: islamistischer |frequenzy: 2
+NamedEntity-Miscellanies: Regierung des Südsudan |frequenzy: 2
+NamedEntity-Miscellanies: Anführungszeichen  |frequenzy: 2
+NamedEntity-Miscellanies: Karlsruhe |frequenzy: 2
+NamedEntity-Miscellanies: Mission der Vereinten Nationen |frequenzy: 2
+NamedEntity-Miscellanies: christliche |frequenzy: 2
+NamedEntity-Miscellanies: Anti-IS-Koalition |frequenzy: 2
+NamedEntity-Miscellanies: Bundeswehreinsatzes |frequenzy: 2
+NamedEntity-Miscellanies: Jobs |frequenzy: 2
+NamedEntity-Miscellanies: Meine Frage |frequenzy: 2
+NamedEntity-Miscellanies: Genfer |frequenzy: 2
+NamedEntity-Miscellanies: SPD-geführten |frequenzy: 2
+NamedEntity-Miscellanies: 11  September 2001 |frequenzy: 2
+NamedEntity-Miscellanies: Iran  |frequenzy: 2
+NamedEntity-Miscellanies: Weihnacht |frequenzy: 2
+NamedEntity-Miscellanies: schlimm |frequenzy: 2
+NamedEntity-Miscellanies: Glyphosat-Ausstieg |frequenzy: 2
+NamedEntity-Miscellanies: Kleinwaffen |frequenzy: 2
+NamedEntity-Miscellanies: Aktiengesetz |frequenzy: 2
+NamedEntity-Miscellanies: Anreize |frequenzy: 2
+NamedEntity-Miscellanies: Unser Bildungssystem |frequenzy: 2
+NamedEntity-Miscellanies: MED |frequenzy: 2
+NamedEntity-Miscellanies: Europa  |frequenzy: 2
+NamedEntity-Miscellanies: türkischen |frequenzy: 2
+NamedEntity-Miscellanies: Vertrages |frequenzy: 2
+NamedEntity-Miscellanies: Hetze |frequenzy: 2
+NamedEntity-Miscellanies: Meister des diplomatischen Geschicks |frequenzy: 1
+NamedEntity-Miscellanies: 20  Jahrhunderts |frequenzy: 1
+NamedEntity-Miscellanies: Gesundheitspolitiker |frequenzy: 1
+NamedEntity-Miscellanies: niederländischen |frequenzy: 1
+NamedEntity-Miscellanies: Millionen |frequenzy: 1
+NamedEntity-Miscellanies: Kroko-Tränen |frequenzy: 1
+NamedEntity-Miscellanies: Regierungsbank |frequenzy: 1
+NamedEntity-Miscellanies: haben – Ja |frequenzy: 1
+NamedEntity-Miscellanies: Antrags der Bundesregierung |frequenzy: 1
+NamedEntity-Miscellanies: Sanitätskommando |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2016 |frequenzy: 1
+NamedEntity-Miscellanies: Jahr auf dem Weihnachtsmarkt |frequenzy: 1
+NamedEntity-Miscellanies: Tele2-Urteil |frequenzy: 1
+NamedEntity-Miscellanies: Europawahl  |frequenzy: 1
+NamedEntity-Miscellanies: spanische |frequenzy: 1
+NamedEntity-Miscellanies: SGB XII |frequenzy: 1
+NamedEntity-Miscellanies: Braunkohleausstieg |frequenzy: 1
+NamedEntity-Miscellanies: Kugelhagel |frequenzy: 1
+NamedEntity-Miscellanies: Siemens-Konzern |frequenzy: 1
+NamedEntity-Miscellanies: Mali  |frequenzy: 1
+NamedEntity-Miscellanies: Live Fake News |frequenzy: 1
+NamedEntity-Miscellanies: Siemens-Bashing |frequenzy: 1
+NamedEntity-Miscellanies: irischem |frequenzy: 1
+NamedEntity-Miscellanies: DAX-Konzerne |frequenzy: 1
+NamedEntity-Miscellanies: Nebeneinander–  |frequenzy: 1
+NamedEntity-Miscellanies: Du Fischvotze |frequenzy: 1
+NamedEntity-Miscellanies: Die Kollegin Künast |frequenzy: 1
+NamedEntity-Miscellanies: Zweiten Weltkrieg |frequenzy: 1
+NamedEntity-Miscellanies: Politikverdrossenheit |frequenzy: 1
+NamedEntity-Miscellanies: Frieden in der Region |frequenzy: 1
+NamedEntity-Miscellanies: englische |frequenzy: 1
+NamedEntity-Miscellanies: StreitkräfteDrucksachen |frequenzy: 1
+NamedEntity-Miscellanies: Betreibern |frequenzy: 1
+NamedEntity-Miscellanies: Das erkenne ich nicht |frequenzy: 1
+NamedEntity-Miscellanies: Ein Konzern wie |frequenzy: 1
+NamedEntity-Miscellanies: Vertrag von Maastricht |frequenzy: 1
+NamedEntity-Miscellanies: Meeres |frequenzy: 1
+NamedEntity-Miscellanies: 9 Millionen Euro |frequenzy: 1
+NamedEntity-Miscellanies: indischen |frequenzy: 1
+NamedEntity-Miscellanies: Inhaltliches |frequenzy: 1
+NamedEntity-Miscellanies: Vertrauen |frequenzy: 1
+NamedEntity-Miscellanies: Cap and Trade“-System |frequenzy: 1
+NamedEntity-Miscellanies: Körber-Stiftung |frequenzy: 1
+NamedEntity-Miscellanies: körpersprachliches |frequenzy: 1
+NamedEntity-Miscellanies: Syrien-Konfliktes |frequenzy: 1
+NamedEntity-Miscellanies: EU-Außen- |frequenzy: 1
+NamedEntity-Miscellanies: PESCO-Vorhaben |frequenzy: 1
+NamedEntity-Miscellanies: Truppenaufstockung |frequenzy: 1
+NamedEntity-Miscellanies: Kernkraft- |frequenzy: 1
+NamedEntity-Miscellanies: USA Wir |frequenzy: 1
+NamedEntity-Miscellanies: Euro im Jahr |frequenzy: 1
+NamedEntity-Miscellanies: EEG-Umlage |frequenzy: 1
+NamedEntity-Miscellanies: German Energiewende |frequenzy: 1
+NamedEntity-Miscellanies: australische |frequenzy: 1
+NamedEntity-Miscellanies: NetzDG Eines |frequenzy: 1
+NamedEntity-Miscellanies: GroKo-SPD |frequenzy: 1
+NamedEntity-Miscellanies: Wir Deutsche |frequenzy: 1
+NamedEntity-Miscellanies: Darfur-Friedensabkommens und dem Schutz |frequenzy: 1
+NamedEntity-Miscellanies: MRSA |frequenzy: 1
+NamedEntity-Miscellanies: Tino |frequenzy: 1
+NamedEntity-Miscellanies: Die Balance von Freiheit und Sicherheit |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2016 |frequenzy: 1
+NamedEntity-Miscellanies: Konstituierung |frequenzy: 1
+NamedEntity-Miscellanies: Frieden der Welt |frequenzy: 1
+NamedEntity-Miscellanies: AWACS |frequenzy: 1
+NamedEntity-Miscellanies: 130 Todesopfer der schrecklichen Anschlagsserie |frequenzy: 1
+NamedEntity-Miscellanies: Meine lieben Damen und Herren von der Linken |frequenzy: 1
+NamedEntity-Miscellanies: Drohnenkrieg |frequenzy: 1
+NamedEntity-Miscellanies: transfersozialistischen |frequenzy: 1
+NamedEntity-Miscellanies: Im Jahr 2000 |frequenzy: 1
+NamedEntity-Miscellanies: Würdigung –  |frequenzy: 1
+NamedEntity-Miscellanies: Der große Erfolg der deutschen Wirtschaft |frequenzy: 1
+NamedEntity-Miscellanies: Breaking the Silence |frequenzy: 1
+NamedEntity-Miscellanies: Jamaika-Gesprächen |frequenzy: 1
+NamedEntity-Miscellanies: Stellvertreterkrieg |frequenzy: 1
+NamedEntity-Miscellanies: tariflichen |frequenzy: 1
+NamedEntity-Miscellanies: Migrationsbewegungen |frequenzy: 1
+NamedEntity-Miscellanies: KaiGehringBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: innerirakische |frequenzy: 1
+NamedEntity-Miscellanies: Der nächste Redner |frequenzy: 1
+NamedEntity-Miscellanies: Luftangriffe |frequenzy: 1
+NamedEntity-Miscellanies: Aktuelle Stunde |frequenzy: 1
+NamedEntity-Miscellanies: Altmaier |frequenzy: 1
+NamedEntity-Miscellanies: AfD Damit |frequenzy: 1
+NamedEntity-Miscellanies: neuseeländischen |frequenzy: 1
+NamedEntity-Miscellanies: VKontakte |frequenzy: 1
+NamedEntity-Miscellanies: Rede –  |frequenzy: 1
+NamedEntity-Miscellanies: neuseeländische |frequenzy: 1
+NamedEntity-Miscellanies: Unsere Marine |frequenzy: 1
+NamedEntity-Miscellanies: Lichte |frequenzy: 1
+NamedEntity-Miscellanies: EFSF  |frequenzy: 1
+NamedEntity-Miscellanies: Wer Herz und Verstand für arme Menschen |frequenzy: 1
+NamedEntity-Miscellanies: Meine letzte Minute Redezeit widme ich der sozialen Marktwirtschaft |frequenzy: 1
+NamedEntity-Miscellanies: Plan B |frequenzy: 1
+NamedEntity-Miscellanies: Wort Dr  Marie-Agnes Strack-Zimmermann |frequenzy: 1
+NamedEntity-Miscellanies: Münchner |frequenzy: 1
+NamedEntity-Miscellanies: sozialdemokratischen |frequenzy: 1
+NamedEntity-Miscellanies: Räumung von Sprengfallen |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2007 |frequenzy: 1
+NamedEntity-Miscellanies: Sudan  |frequenzy: 1
+NamedEntity-Miscellanies: herangehen |frequenzy: 1
+NamedEntity-Miscellanies: Ersten Weltkrieg |frequenzy: 1
+NamedEntity-Miscellanies: Versprechen  |frequenzy: 1
+NamedEntity-Miscellanies: Bund-Länder-Verhandlungen |frequenzy: 1
+NamedEntity-Miscellanies: Nicht-EU-Ausländer |frequenzy: 1
+NamedEntity-Miscellanies: könnten?“Deswegen |frequenzy: 1
+NamedEntity-Miscellanies: CCS |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2015 |frequenzy: 1
+NamedEntity-Miscellanies: schwedischen |frequenzy: 1
+NamedEntity-Miscellanies: Afghanistan |frequenzy: 1
+NamedEntity-Miscellanies: ERP-Wirtschaftsplangesetz |frequenzy: 1
+NamedEntity-Miscellanies: Mission Operation Active Endeavour |frequenzy: 1
+NamedEntity-Miscellanies: UN-Mission MINUSMA |frequenzy: 1
+NamedEntity-Miscellanies: Die Situation |frequenzy: 1
+NamedEntity-Miscellanies: Verwaltungsrichterinnen |frequenzy: 1
+NamedEntity-Miscellanies: Permanent Structured Cooperation  |frequenzy: 1
+NamedEntity-Miscellanies: Kündigungen |frequenzy: 1
+NamedEntity-Miscellanies: Steuervermeidungsoase Niederlande |frequenzy: 1
+NamedEntity-Miscellanies: Venture-Capital-Finanzierungsmöglichkeiten |frequenzy: 1
+NamedEntity-Miscellanies: Eid  |frequenzy: 1
+NamedEntity-Miscellanies: demokratischer |frequenzy: 1
+NamedEntity-Miscellanies: Absprachen |frequenzy: 1
+NamedEntity-Miscellanies: NATO-Verteidigungsminister |frequenzy: 1
+NamedEntity-Miscellanies: Verfassungsgericht im Jahr 2016 |frequenzy: 1
+NamedEntity-Miscellanies: CO 2 |frequenzy: 1
+NamedEntity-Miscellanies: im Jahre  |frequenzy: 1
+NamedEntity-Miscellanies: Der Friedensprozess |frequenzy: 1
+NamedEntity-Miscellanies: Herzblut |frequenzy: 1
+NamedEntity-Miscellanies: syrischen Bürgerkrieg |frequenzy: 1
+NamedEntity-Miscellanies: Neu |frequenzy: 1
+NamedEntity-Miscellanies: Unkraut von Hand |frequenzy: 1
+NamedEntity-Miscellanies: Mitmenschlichkeit |frequenzy: 1
+NamedEntity-Miscellanies: FDP-Fraktion –  |frequenzy: 1
+NamedEntity-Miscellanies: Rot-Grün |frequenzy: 1
+NamedEntity-Miscellanies: BMZ |frequenzy: 1
+NamedEntity-Miscellanies: Russland-Embargo  |frequenzy: 1
+NamedEntity-Miscellanies: Schuldenbremse |frequenzy: 1
+NamedEntity-Miscellanies: AWACS-Besatzungen |frequenzy: 1
+NamedEntity-Miscellanies: Khartum-Prozesses |frequenzy: 1
+NamedEntity-Miscellanies: SPD-Vorsitzende |frequenzy: 1
+NamedEntity-Miscellanies: israelisch-palästinensische |frequenzy: 1
+NamedEntity-Miscellanies: Frieden: |frequenzy: 1
+NamedEntity-Miscellanies: britischen |frequenzy: 1
+NamedEntity-Miscellanies: CCU |frequenzy: 1
+NamedEntity-Miscellanies: Apple  |frequenzy: 1
+NamedEntity-Miscellanies: Iran-Nuklearabkommen |frequenzy: 1
+NamedEntity-Miscellanies: mein Wort |frequenzy: 1
+NamedEntity-Miscellanies: Bündnisses 90/ |frequenzy: 1
+NamedEntity-Miscellanies: Hohen Hauses |frequenzy: 1
+NamedEntity-Miscellanies: Waffenexporten |frequenzy: 1
+NamedEntity-Miscellanies: Tag aufs Meer |frequenzy: 1
+NamedEntity-Miscellanies: italienische |frequenzy: 1
+NamedEntity-Miscellanies: 19  Deutschen Bundestag |frequenzy: 1
+NamedEntity-Miscellanies: Herren Kollegen! |frequenzy: 1
+NamedEntity-Miscellanies: Ihres Gesetzentwurfs |frequenzy: 1
+NamedEntity-Miscellanies: Linkenantrag |frequenzy: 1
+NamedEntity-Miscellanies: Windräder |frequenzy: 1
+NamedEntity-Miscellanies: Operation Sea Guardian von uns |frequenzy: 1
+NamedEntity-Miscellanies: Ding |frequenzy: 1
+NamedEntity-Miscellanies: Ersten Weltkrieges |frequenzy: 1
+NamedEntity-Miscellanies: Frieden und Sicherheit |frequenzy: 1
+NamedEntity-Miscellanies: UNMISS-Einsatzes |frequenzy: 1
+NamedEntity-Miscellanies: Tag für Tag bezahlen die Arbeitnehmerinnen |frequenzy: 1
+NamedEntity-Miscellanies: israelischen |frequenzy: 1
+NamedEntity-Miscellanies: IS 40 |frequenzy: 1
+NamedEntity-Miscellanies: Wiedervereinigung |frequenzy: 1
+NamedEntity-Miscellanies: widersprüchlicher |frequenzy: 1
+NamedEntity-Miscellanies: City of Ghosts |frequenzy: 1
+NamedEntity-Miscellanies: Häme |frequenzy: 1
+NamedEntity-Miscellanies: Bagdad  |frequenzy: 1
+NamedEntity-Miscellanies: kanadischen |frequenzy: 1
+NamedEntity-Miscellanies: sozialdemokratische |frequenzy: 1
+NamedEntity-Miscellanies: Gute Ganztagsschule |frequenzy: 1
+NamedEntity-Miscellanies: Hugenotten |frequenzy: 1
+NamedEntity-Miscellanies: Buch Jeremia |frequenzy: 1
+NamedEntity-Miscellanies: Brennpunkten |frequenzy: 1
+NamedEntity-Miscellanies: Maastricht-Verträge |frequenzy: 1
+NamedEntity-Miscellanies: MINUSMA  |frequenzy: 1
+NamedEntity-Miscellanies: Liebe Frau Präsidentin! |frequenzy: 1
+NamedEntity-Miscellanies: Meine Redezeit |frequenzy: 1
+NamedEntity-Miscellanies: SPD-Minister im Kabinett |frequenzy: 1
+NamedEntity-Miscellanies: Operation Barkhane |frequenzy: 1
+NamedEntity-Miscellanies: Wählern  |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Partner  |frequenzy: 1
+NamedEntity-Miscellanies: AfD-Antrag |frequenzy: 1
+NamedEntity-Miscellanies: ­herausarbeiten |frequenzy: 1
+NamedEntity-Miscellanies: Krieg gegen den Terror |frequenzy: 1
+NamedEntity-Miscellanies: Hauses  |frequenzy: 1
+NamedEntity-Miscellanies: Grundgesetzes im Jahr  |frequenzy: 1
+NamedEntity-Miscellanies: 1  Ausschuss |frequenzy: 1
+NamedEntity-Miscellanies: syrischen Bürgerkrieg in unser Land |frequenzy: 1
+NamedEntity-Miscellanies: Weihnachtszeit |frequenzy: 1
+NamedEntity-Miscellanies: 968 Kameraden |frequenzy: 1
+NamedEntity-Miscellanies: Deutschen Einheit |frequenzy: 1
+NamedEntity-Miscellanies: Themenbereichen |frequenzy: 1
+NamedEntity-Miscellanies: Jahr über die Verlängerung dieses Mandats |frequenzy: 1
+NamedEntity-Miscellanies: OECD-Maßnahmeplan |frequenzy: 1
+NamedEntity-Miscellanies: General for Afghanistan Reconstruction |frequenzy: 1
+NamedEntity-Miscellanies: sanitätsdienstliche |frequenzy: 1
+NamedEntity-Miscellanies: russische |frequenzy: 1
+NamedEntity-Miscellanies: amerikanisches |frequenzy: 1
+NamedEntity-Miscellanies: Der Steuerzahler |frequenzy: 1
+NamedEntity-Miscellanies: Fest der Liebe |frequenzy: 1
+NamedEntity-Miscellanies: out of the box |frequenzy: 1
+NamedEntity-Miscellanies: Autonomiebehörde Barzani |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2020 |frequenzy: 1
+NamedEntity-Miscellanies: Lohndumping-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: Mezzanine-Finanzierungsformen |frequenzy: 1
+NamedEntity-Miscellanies: Siemens-Aktionäre |frequenzy: 1
+NamedEntity-Miscellanies: 16 Punkten |frequenzy: 1
+NamedEntity-Miscellanies: chaldäisch-katholischen |frequenzy: 1
+NamedEntity-Miscellanies: Saudi-Arabiens  |frequenzy: 1
+NamedEntity-Miscellanies: Europäer” Der französische |frequenzy: 1
+NamedEntity-Miscellanies: mitmachen |frequenzy: 1
+NamedEntity-Miscellanies: Standing Ovations |frequenzy: 1
+NamedEntity-Miscellanies: estnische Ratspräsidentschaft |frequenzy: 1
+NamedEntity-Miscellanies: US-amerikanische |frequenzy: 1
+NamedEntity-Miscellanies: Veränderungsprozesse |frequenzy: 1
+NamedEntity-Miscellanies: Werten im Euro-Raum |frequenzy: 1
+NamedEntity-Miscellanies: Okay |frequenzy: 1
+NamedEntity-Miscellanies: Aktion gegen den Hunger |frequenzy: 1
+NamedEntity-Miscellanies: IARC-Studien |frequenzy: 1
+NamedEntity-Miscellanies: Sea-Watch |frequenzy: 1
+NamedEntity-Miscellanies: belgische |frequenzy: 1
+NamedEntity-Miscellanies: KatjaKeulBÜNDNIS 90/ |frequenzy: 1
+NamedEntity-Miscellanies: Briten-Rabatt |frequenzy: 1
+NamedEntity-Miscellanies: Friedensnobelpreis |frequenzy: 1
+NamedEntity-Miscellanies: vier Jahre mit der |frequenzy: 1
+NamedEntity-Miscellanies: Dr  Fritz Felgentreu |frequenzy: 1
+NamedEntity-Miscellanies: Meine Wahrnehmung |frequenzy: 1
+NamedEntity-Miscellanies: GRÜNENKatrin |frequenzy: 1
+NamedEntity-Miscellanies: Ulysses“:Geschichte |frequenzy: 1
+NamedEntity-Miscellanies: Vorbeigehen |frequenzy: 1
+NamedEntity-Miscellanies: Radolfzell-II-Abkommen |frequenzy: 1
+NamedEntity-Miscellanies: sachlichen |frequenzy: 1
+NamedEntity-Miscellanies: Drei Jahre später |frequenzy: 1
+NamedEntity-Miscellanies: Ihr Lieblingswort |frequenzy: 1
+NamedEntity-Miscellanies: japanische |frequenzy: 1
+NamedEntity-Miscellanies: nehmen –  |frequenzy: 1
+NamedEntity-Miscellanies: Zuwanderungsgesetz |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Zone |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Rettungspolitik |frequenzy: 1
+NamedEntity-Miscellanies: Augsburg  |frequenzy: 1
+NamedEntity-Miscellanies: Strommangel |frequenzy: 1
+NamedEntity-Miscellanies: Was liegt euch am Herzen |frequenzy: 1
+NamedEntity-Miscellanies: Non-Hodgkin-Lymphome |frequenzy: 1
+NamedEntity-Miscellanies: Ägäis-Einsatz  |frequenzy: 1
+NamedEntity-Miscellanies: Krieg in der Sahara |frequenzy: 1
+NamedEntity-Miscellanies: Das finde ich völlig inkonsistent |frequenzy: 1
+NamedEntity-Miscellanies: Abstimmung 1   |frequenzy: 1
+NamedEntity-Miscellanies: AWACS-Flüge |frequenzy: 1
+NamedEntity-Miscellanies: Heron-Drohne  |frequenzy: 1
+NamedEntity-Miscellanies: Recce-Tornados  |frequenzy: 1
+NamedEntity-Miscellanies: Patientensicherheit |frequenzy: 1
+NamedEntity-Miscellanies: UN-mandatierten |frequenzy: 1
+NamedEntity-Miscellanies: Kriegseinsatz |frequenzy: 1
+NamedEntity-Miscellanies: Koalitionsverhandlungen 2013 |frequenzy: 1
+NamedEntity-Miscellanies: G 5 Sahel |frequenzy: 1
+NamedEntity-Miscellanies: SPD Wir |frequenzy: 1
+NamedEntity-Miscellanies: Bürgerkriegsland Afghanistan |frequenzy: 1
+NamedEntity-Miscellanies: kurdische |frequenzy: 1
+NamedEntity-Miscellanies: entspräche |frequenzy: 1
+NamedEntity-Miscellanies: spanischen |frequenzy: 1
+NamedEntity-Miscellanies: Peacebuilding  |frequenzy: 1
+NamedEntity-Miscellanies: hessische |frequenzy: 1
+NamedEntity-Miscellanies: VN-Friedensprozess |frequenzy: 1
+NamedEntity-Miscellanies: CIA-Direktor |frequenzy: 1
+NamedEntity-Miscellanies: SevimDağdelenDIE LINKESevim |frequenzy: 1
+NamedEntity-Miscellanies: europäischem |frequenzy: 1
+NamedEntity-Miscellanies: CDU-Wahlwerbung |frequenzy: 1
+NamedEntity-Miscellanies: Backloading-Beschluss |frequenzy: 1
+NamedEntity-Miscellanies: Zuschauern |frequenzy: 1
+NamedEntity-Miscellanies: BeschlagnahmebeschlüsseDrucksache |frequenzy: 1
+NamedEntity-Miscellanies: Der vorliegende Wirtschaftsplan |frequenzy: 1
+NamedEntity-Miscellanies: ausspreche |frequenzy: 1
+NamedEntity-Miscellanies: europäischen Armee |frequenzy: 1
+NamedEntity-Miscellanies: Sondierungsgespräche zur Schwampel |frequenzy: 1
+NamedEntity-Miscellanies: Kata­strophen |frequenzy: 1
+NamedEntity-Miscellanies: Führungsstäben |frequenzy: 1
+NamedEntity-Miscellanies: rät |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 100  |frequenzy: 1
+NamedEntity-Miscellanies: SPD-Entwurf |frequenzy: 1
+NamedEntity-Miscellanies: Waffen­embargo |frequenzy: 1
+NamedEntity-Miscellanies: Angriff von Staaten |frequenzy: 1
+NamedEntity-Miscellanies: Die Sorge |frequenzy: 1
+NamedEntity-Miscellanies: Tiger  |frequenzy: 1
+NamedEntity-Miscellanies: Fakten“?Absolute Fehlanzeige |frequenzy: 1
+NamedEntity-Miscellanies: Russland  |frequenzy: 1
+NamedEntity-Miscellanies: FDP-Gesetzentwurfs |frequenzy: 1
+NamedEntity-Miscellanies: gegen den Terror |frequenzy: 1
+NamedEntity-Miscellanies: Regenwürmern |frequenzy: 1
+NamedEntity-Miscellanies: Die schlimme Entwicklung im Südsudan |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland |frequenzy: 1
+NamedEntity-Miscellanies: auszusprechen |frequenzy: 1
+NamedEntity-Miscellanies: mittelalterliche |frequenzy: 1
+NamedEntity-Miscellanies: Syrien“ Zur Begründung |frequenzy: 1
+NamedEntity-Miscellanies: Wer gegen die Überweisung des Gesetzentwurfs |frequenzy: 1
+NamedEntity-Miscellanies: rot-rot-grün |frequenzy: 1
+NamedEntity-Miscellanies: Tag zu Tag |frequenzy: 1
+NamedEntity-Miscellanies: Verlaub |frequenzy: 1
+NamedEntity-Miscellanies: italienischen |frequenzy: 1
+NamedEntity-Miscellanies: Im Jahr 2012 |frequenzy: 1
+NamedEntity-Miscellanies: Mein Rat an uns alle |frequenzy: 1
+NamedEntity-Miscellanies: Hungerkrisen  |frequenzy: 1
+NamedEntity-Miscellanies: IS ja |frequenzy: 1
+NamedEntity-Miscellanies: Meinungsaustausches |frequenzy: 1
+NamedEntity-Miscellanies: 2013 |frequenzy: 1
+NamedEntity-Miscellanies: Dieselabgase |frequenzy: 1
+NamedEntity-Miscellanies: Männern |frequenzy: 1
+NamedEntity-Miscellanies: Bürgerkriegs |frequenzy: 1
+NamedEntity-Miscellanies: eigentümlicher |frequenzy: 1
+NamedEntity-Miscellanies: Du, du! |frequenzy: 1
+NamedEntity-Miscellanies: Start-up- |frequenzy: 1
+NamedEntity-Miscellanies: Hunger auf der Welt |frequenzy: 1
+NamedEntity-Miscellanies: Verbot des Verkaufs |frequenzy: 1
+NamedEntity-Miscellanies: Astana-Prozess |frequenzy: 1
+NamedEntity-Miscellanies: rot-grün |frequenzy: 1
+NamedEntity-Miscellanies: ERP-Beteiligungsprogramm |frequenzy: 1
+NamedEntity-Miscellanies: KatrinGöring-EckardtBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: Die Zeit |frequenzy: 1
+NamedEntity-Miscellanies: Die Menschenrechtslage |frequenzy: 1
+NamedEntity-Miscellanies: Parlament/ |frequenzy: 1
+NamedEntity-Miscellanies: Lebensunterhalts bei Qualifikation |frequenzy: 1
+NamedEntity-Miscellanies: 1 Million |frequenzy: 1
+NamedEntity-Miscellanies: Regime-Change-Politik |frequenzy: 1
+NamedEntity-Miscellanies: US-amerikanischen |frequenzy: 1
+NamedEntity-Miscellanies: schön für die Frage |frequenzy: 1
+NamedEntity-Miscellanies: CO2-Ausstoß |frequenzy: 1
+NamedEntity-Miscellanies: Englisch  |frequenzy: 1
+NamedEntity-Miscellanies: Sachsen  |frequenzy: 1
+NamedEntity-Miscellanies: Industriezweiges |frequenzy: 1
+NamedEntity-Miscellanies: durchgewunken |frequenzy: 1
+NamedEntity-Miscellanies: Vertrags |frequenzy: 1
+NamedEntity-Miscellanies: Wirtschaftsminister Verantwortung |frequenzy: 1
+NamedEntity-Miscellanies: Better Migration Managements |frequenzy: 1
+NamedEntity-Miscellanies: iPad |frequenzy: 1
+NamedEntity-Miscellanies: Russen |frequenzy: 1
+NamedEntity-Miscellanies: Tag aufs Neue! |frequenzy: 1
+NamedEntity-Miscellanies: israelische |frequenzy: 1
+NamedEntity-Miscellanies: Treffen in Göteborg |frequenzy: 1
+NamedEntity-Miscellanies: Die Relevanz dieses Themas |frequenzy: 1
+NamedEntity-Miscellanies: Fake News“?Sind |frequenzy: 1
+NamedEntity-Miscellanies: Gute Nacht! |frequenzy: 1
+NamedEntity-Miscellanies: Zeit der Nazidiktatur |frequenzy: 1
+NamedEntity-Miscellanies: ABC- |frequenzy: 1
+NamedEntity-Miscellanies: Die Zeiten sind vorbei |frequenzy: 1
+NamedEntity-Miscellanies: Nächstes Jahr |frequenzy: 1
+NamedEntity-Miscellanies: Morgenmagazin |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 5  |frequenzy: 1
+NamedEntity-Miscellanies: gegeben 1 |frequenzy: 1
+NamedEntity-Miscellanies: Gelöbnis  |frequenzy: 1
+NamedEntity-Miscellanies: arabische |frequenzy: 1
+NamedEntity-Miscellanies: Terroranschläge vom 11  September |frequenzy: 1
+NamedEntity-Miscellanies: Friede auf Erden |frequenzy: 1
+NamedEntity-Miscellanies: Die Außenminister der |frequenzy: 1
+NamedEntity-Miscellanies: Die Sicherheit |frequenzy: 1
+NamedEntity-Miscellanies: handwerkliche |frequenzy: 1
+NamedEntity-Miscellanies: Evangelische |frequenzy: 1
+NamedEntity-Miscellanies: Doha-Abkommen |frequenzy: 1
+NamedEntity-Miscellanies: Ramschpreisen |frequenzy: 1
+NamedEntity-Miscellanies: NGO-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: AWACS-Flugzeugen |frequenzy: 1
+NamedEntity-Miscellanies: FDP-Gesetzentwurf |frequenzy: 1
+NamedEntity-Miscellanies: Schlimmes |frequenzy: 1
+NamedEntity-Miscellanies: unerträglicher |frequenzy: 1
+NamedEntity-Miscellanies: Frieden und Demokratie |frequenzy: 1
+NamedEntity-Miscellanies: PDS  |frequenzy: 1
+NamedEntity-Miscellanies: macht – |frequenzy: 1
+NamedEntity-Miscellanies: SPD-Bundestagsfraktion |frequenzy: 1
+NamedEntity-Miscellanies: Unser Auftrag |frequenzy: 1
+NamedEntity-Miscellanies: Marineoffizier |frequenzy: 1
+NamedEntity-Miscellanies: Debattentages |frequenzy: 1
+NamedEntity-Miscellanies: KatharinaDrögeBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: FDP- |frequenzy: 1
+NamedEntity-Miscellanies: Rundfunkstaatsvertrag |frequenzy: 1
+NamedEntity-Miscellanies: UN-Sicherheitsresolution 2254 |frequenzy: 1
+NamedEntity-Miscellanies: Frieden und Freiheit |frequenzy: 1
+NamedEntity-Miscellanies: Militäreinsätzen |frequenzy: 1
+NamedEntity-Miscellanies: Nicht-Erreichten |frequenzy: 1
+NamedEntity-Miscellanies: osmanische |frequenzy: 1
+NamedEntity-Miscellanies: Kollege Rüddel |frequenzy: 1
+NamedEntity-Miscellanies: Good Friday Agreement |frequenzy: 1
+NamedEntity-Miscellanies: Rüstungsexportbericht |frequenzy: 1
+NamedEntity-Miscellanies: Europäische |frequenzy: 1
+NamedEntity-Miscellanies: G‑20‑Prozesses |frequenzy: 1
+NamedEntity-Miscellanies: ECHA |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2006 |frequenzy: 1
+NamedEntity-Miscellanies: sächsischen |frequenzy: 1
+NamedEntity-Miscellanies: Energiewirtschaftsgesetz |frequenzy: 1
+NamedEntity-Miscellanies: Hizb-e |frequenzy: 1
+NamedEntity-Miscellanies: Sanitätsregiments 2 |frequenzy: 1
+NamedEntity-Miscellanies: Europäischen |frequenzy: 1
+NamedEntity-Miscellanies: Putin & Co |frequenzy: 1
+NamedEntity-Miscellanies: AfD-Programms |frequenzy: 1
+NamedEntity-Miscellanies: Pförtner |frequenzy: 1
+NamedEntity-Miscellanies: CWir |frequenzy: 1
+NamedEntity-Miscellanies: CSUThorsten |frequenzy: 1
+NamedEntity-Miscellanies: Systems |frequenzy: 1
+NamedEntity-Miscellanies: Anschlägen des 11  September |frequenzy: 1
+NamedEntity-Miscellanies: Partnern |frequenzy: 1
+NamedEntity-Miscellanies: georgische |frequenzy: 1
+NamedEntity-Miscellanies: brandgefährliche |frequenzy: 1
+NamedEntity-Miscellanies: Umfinanzierung |frequenzy: 1
+NamedEntity-Miscellanies: Kraft |frequenzy: 1
+NamedEntity-Miscellanies: Die Verlängerung des Mandats |frequenzy: 1
+NamedEntity-Miscellanies: vorbei – Langsam |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Stabilisierung |frequenzy: 1
+NamedEntity-Miscellanies: UN-Mandat MINUSMA |frequenzy: 1
+NamedEntity-Miscellanies: Liste der Gewinne der Firmengeschichte |frequenzy: 1
+NamedEntity-Miscellanies: Operation MINUSMA |frequenzy: 1
+NamedEntity-Miscellanies: Missionen der Vereinten Nationen |frequenzy: 1
+NamedEntity-Miscellanies: Herren Neu |frequenzy: 1
+NamedEntity-Miscellanies: Verlust |frequenzy: 1
+NamedEntity-Miscellanies: Der vorliegende Gesetzentwurf |frequenzy: 1
+NamedEntity-Miscellanies: AfD-Sicht |frequenzy: 1
+NamedEntity-Miscellanies: jüdischen |frequenzy: 1
+NamedEntity-Miscellanies: EU-Projekte |frequenzy: 1
+NamedEntity-Miscellanies: Griechenland-Rettungspaketen |frequenzy: 1
+NamedEntity-Miscellanies: IG-Metaller  |frequenzy: 1
+NamedEntity-Miscellanies: Der nächste und letzte Redner |frequenzy: 1
+NamedEntity-Miscellanies: Kollegin Brugger |frequenzy: 1
+NamedEntity-Miscellanies: BMG – die Unabhängigkeit |frequenzy: 1
+NamedEntity-Miscellanies: Nachweislich |frequenzy: 1
+NamedEntity-Miscellanies: dritten Jahr |frequenzy: 1
+NamedEntity-Miscellanies: Bürgerrechtestärkungs-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: Nahostkonflikt |frequenzy: 1
+NamedEntity-Miscellanies: Kleinst­unternehmen |frequenzy: 1
+NamedEntity-Miscellanies: irakischen Verfassung |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Krise |frequenzy: 1
+NamedEntity-Miscellanies: EEG |frequenzy: 1
+NamedEntity-Miscellanies: außenpolitischen |frequenzy: 1
+NamedEntity-Miscellanies: Gründungsmütter |frequenzy: 1
+NamedEntity-Miscellanies: Co |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2003 |frequenzy: 1
+NamedEntity-Miscellanies: Bedürfnissen des deutschen Arbeitsmarktes |frequenzy: 1
+NamedEntity-Miscellanies: chinesische |frequenzy: 1
+NamedEntity-Miscellanies: Operation Counter Daesh |frequenzy: 1
+NamedEntity-Miscellanies: Monsanto  |frequenzy: 1
+NamedEntity-Miscellanies: biologisches |frequenzy: 1
+NamedEntity-Miscellanies: Das sehe ich |frequenzy: 1
+NamedEntity-Miscellanies: MINT-Herbstbericht |frequenzy: 1
+NamedEntity-Miscellanies: KfW-Tochter |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2013 |frequenzy: 1
+NamedEntity-Miscellanies: Bild“-Zeitung |frequenzy: 1
+NamedEntity-Miscellanies: Sachsen |frequenzy: 1
+NamedEntity-Miscellanies: Währungsunion |frequenzy: 1
+NamedEntity-Miscellanies: Ausschusses für Wahlprüfung, Immunität |frequenzy: 1
+NamedEntity-Miscellanies: Föderalismusreform I |frequenzy: 1
+NamedEntity-Miscellanies: AFRICOM |frequenzy: 1
+NamedEntity-Miscellanies: empfindlicher |frequenzy: 1
+NamedEntity-Miscellanies: 11  September |frequenzy: 1
+NamedEntity-Miscellanies: Die Peschmerga |frequenzy: 1
+NamedEntity-Miscellanies: Militärbereich |frequenzy: 1
+NamedEntity-Miscellanies: Zwei Jahre |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Landes |frequenzy: 1
+NamedEntity-Miscellanies: Deutsch |frequenzy: 1
+NamedEntity-Miscellanies: Innerkurdische |frequenzy: 1
+NamedEntity-Miscellanies: Bluecard-System |frequenzy: 1
+NamedEntity-Miscellanies: marktwirtschaftliche |frequenzy: 1
+NamedEntity-Miscellanies: Pflügen |frequenzy: 1
+NamedEntity-Miscellanies: WHO  |frequenzy: 1
+NamedEntity-Miscellanies: SGB XI |frequenzy: 1
+NamedEntity-Miscellanies: Irakkrieg |frequenzy: 1
+NamedEntity-Miscellanies: RenateKünastBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: irgendwelchen |frequenzy: 1
+NamedEntity-Miscellanies: Es tut mir leid |frequenzy: 1
+NamedEntity-Miscellanies: Bundestages der Reichstag |frequenzy: 1
+NamedEntity-Miscellanies: Kanzlerin |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2008 |frequenzy: 1
+NamedEntity-Miscellanies: Werten der Charta der Vereinten Nationen |frequenzy: 1
+NamedEntity-Miscellanies: Soldatenberufs |frequenzy: 1
+NamedEntity-Miscellanies: Kleinwaffen an die Peschmerga |frequenzy: 1
+NamedEntity-Miscellanies: Christen |frequenzy: 1
+NamedEntity-Miscellanies: afrikanische |frequenzy: 1
+NamedEntity-Miscellanies: TARGET2-System |frequenzy: 1
+NamedEntity-Miscellanies: Siemens  |frequenzy: 1
+NamedEntity-Miscellanies: Herz der Demokratie |frequenzy: 1
+NamedEntity-Miscellanies: Tatort |frequenzy: 1
+NamedEntity-Miscellanies: Blinken |frequenzy: 1
+NamedEntity-Miscellanies: Vorjahren |frequenzy: 1
+NamedEntity-Miscellanies: Personalumfang |frequenzy: 1
+NamedEntity-Miscellanies: Kohleausstieg in Deutschland |frequenzy: 1
+NamedEntity-Miscellanies: Bund-Länder-Finanzbeziehungen |frequenzy: 1
+NamedEntity-Miscellanies: Co  |frequenzy: 1
+NamedEntity-Miscellanies: Die Sicherheitslage |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Zone  |frequenzy: 1
+NamedEntity-Miscellanies: Koran |frequenzy: 1
+NamedEntity-Miscellanies: Hüttengase |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 5,4  |frequenzy: 1
+NamedEntity-Miscellanies: Wende |frequenzy: 1
+NamedEntity-Miscellanies: indiskutabel |frequenzy: 1
+NamedEntity-Miscellanies: Gesetzes hinter dem Beschluss des Jahres  |frequenzy: 1
+NamedEntity-Miscellanies: Gleichgültig ob die grüne Bundestagsfraktion |frequenzy: 1
+NamedEntity-Miscellanies: Balance von Freiheit und Sicherheit |frequenzy: 1
+NamedEntity-Miscellanies: Mission Sea Guardian |frequenzy: 1
+NamedEntity-Miscellanies: wir im vergangenen Jahr |frequenzy: 1
+NamedEntity-Miscellanies: Parlamentarischen Geschäftsführerinnen |frequenzy: 1
+NamedEntity-Miscellanies: NATO Gerade |frequenzy: 1
+NamedEntity-Miscellanies: Afghanistan-Engagement |frequenzy: 1
+NamedEntity-Miscellanies: Siemens-Standorten |frequenzy: 1
+NamedEntity-Miscellanies: 100  |frequenzy: 1
+NamedEntity-Miscellanies: Der Staat |frequenzy: 1
+NamedEntity-Miscellanies: ERP-Wirtschaftsplangesetz  |frequenzy: 1
+NamedEntity-Miscellanies: Maghreb-Staaten |frequenzy: 1
+NamedEntity-Miscellanies: innerkurdische |frequenzy: 1
+NamedEntity-Miscellanies: katholischen |frequenzy: 1
+NamedEntity-Miscellanies: AWACS-Tornados |frequenzy: 1
+NamedEntity-Miscellanies: Frieden in der Welt |frequenzy: 1
+NamedEntity-Miscellanies: Siemens-Management |frequenzy: 1
+NamedEntity-Miscellanies: zehn Jahre in |frequenzy: 1
+NamedEntity-Miscellanies: Frieden und für Sicherheit |frequenzy: 1
+NamedEntity-Miscellanies: Berechnungsmethode |frequenzy: 1
+NamedEntity-Miscellanies: Trumps Intervention |frequenzy: 1
+NamedEntity-Miscellanies: G36-Sturmgewehren |frequenzy: 1
+NamedEntity-Miscellanies: Auffanggesetz |frequenzy: 1
+NamedEntity-Miscellanies: EZB – –– |frequenzy: 1
+NamedEntity-Miscellanies: Frieden in dieser Region |frequenzy: 1
+NamedEntity-Miscellanies: Griechenland-Rettung |frequenzy: 1
+NamedEntity-Miscellanies: Mossul  |frequenzy: 1
+NamedEntity-Miscellanies: Mitnichten |frequenzy: 1
+NamedEntity-Miscellanies: Das muss uns |frequenzy: 1
+NamedEntity-Miscellanies: EUNAVFOR MED Operation Sophia |frequenzy: 1
+NamedEntity-Miscellanies: rechtsstaatliche |frequenzy: 1
+NamedEntity-Miscellanies: Schicksal  |frequenzy: 1
+NamedEntity-Miscellanies: Die Abgeordnete von der Linken |frequenzy: 1
+NamedEntity-Miscellanies: Kobane |frequenzy: 1
+NamedEntity-Miscellanies: MILAN-Abwehrraketen |frequenzy: 1
+NamedEntity-Miscellanies: Merkel-Regierung |frequenzy: 1
+NamedEntity-Miscellanies: Friedens im Südsudan |frequenzy: 1
+NamedEntity-Miscellanies: Wort – |frequenzy: 1
+NamedEntity-Miscellanies: Parametern |frequenzy: 1
+NamedEntity-Miscellanies: CSUElisabeth Winkelmeier-Becker |frequenzy: 1
+NamedEntity-Miscellanies: lateinischen |frequenzy: 1
+NamedEntity-Miscellanies: Target-Salden |frequenzy: 1
+NamedEntity-Miscellanies: MariaKlein-SchmeinkBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: PUO-Messe |frequenzy: 1
+NamedEntity-Miscellanies: Ihr Gesetz  |frequenzy: 1
+NamedEntity-Miscellanies: IOM-Studie |frequenzy: 1
+NamedEntity-Miscellanies: Digitale Agenda |frequenzy: 1
+NamedEntity-Miscellanies: ­UNMISS-Soldaten |frequenzy: 1
+NamedEntity-Miscellanies: MINUSMA-Soldaten |frequenzy: 1
+NamedEntity-Miscellanies: bautechnischen |frequenzy: 1
+NamedEntity-Miscellanies: TAB-Bericht |frequenzy: 1
+NamedEntity-Miscellanies: Zeit der Hungersnot das Land |frequenzy: 1
+NamedEntity-Miscellanies: Vertrauen  |frequenzy: 1
+NamedEntity-Miscellanies: Syrien-Krise |frequenzy: 1
+NamedEntity-Miscellanies: innersyrischen |frequenzy: 1
+NamedEntity-Miscellanies: Paradise Papers |frequenzy: 1
+NamedEntity-Miscellanies: Katastrophe |frequenzy: 1
+NamedEntity-Miscellanies: Siemens-Beschäftigten |frequenzy: 1
+NamedEntity-Miscellanies: US-amerikanischer |frequenzy: 1
+NamedEntity-Miscellanies: AfD – –– Ich |frequenzy: 1
+NamedEntity-Miscellanies: 2  August |frequenzy: 1
+NamedEntity-Miscellanies: Zweiten Weltkrieges |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland an die Peschmerga |frequenzy: 1
+NamedEntity-Miscellanies: im Jahr  |frequenzy: 1
+NamedEntity-Miscellanies: Im Jahre 2015 |frequenzy: 1
+NamedEntity-Miscellanies: Luftwaffe |frequenzy: 1
+NamedEntity-Miscellanies: Reichstag |frequenzy: 1
+NamedEntity-Miscellanies: Dürre |frequenzy: 1
+NamedEntity-Miscellanies: Pa­trouillen |frequenzy: 1
+NamedEntity-Miscellanies: gefallen –  |frequenzy: 1
+NamedEntity-Miscellanies: Sozialplan  |frequenzy: 1
+NamedEntity-Miscellanies: Terroranschlägen |frequenzy: 1
+NamedEntity-Miscellanies: Tarif­ausgleich |frequenzy: 1
+NamedEntity-Miscellanies: französischen Armee |frequenzy: 1
+NamedEntity-Miscellanies: Rahmens |frequenzy: 1
+NamedEntity-Miscellanies: UNMISS-Mitarbeiter |frequenzy: 1
+NamedEntity-Miscellanies: Uni-Studien |frequenzy: 1
+NamedEntity-Miscellanies: Zeit der beiden deutschen Diktaturen |frequenzy: 1
+NamedEntity-Miscellanies: Emissionszertifikate |frequenzy: 1
+NamedEntity-Miscellanies: Tages  |frequenzy: 1
+NamedEntity-Miscellanies: Dr AnjaWeisgerberCDU |frequenzy: 1
+NamedEntity-Miscellanies: Krise |frequenzy: 1
+NamedEntity-Miscellanies: Khartum-Prozess |frequenzy: 1
+NamedEntity-Miscellanies: Stabilisierungsmechanismusgesetzes |frequenzy: 1
+NamedEntity-Miscellanies: Massenmord |frequenzy: 1
+NamedEntity-Miscellanies: Mein letzter Satz |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Stabilisierungspolitik |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2003 |frequenzy: 1
+NamedEntity-Miscellanies: Um Afghanistan |frequenzy: 1
+NamedEntity-Miscellanies: französische Nationalversammlung |frequenzy: 1
+NamedEntity-Miscellanies: nutzen –  |frequenzy: 1
+NamedEntity-Miscellanies: Verbrechen “Da |frequenzy: 1
+NamedEntity-Miscellanies: Sondierungsgespräche |frequenzy: 1
+NamedEntity-Miscellanies: Erneuerbare-Energien-Gesetz |frequenzy: 1
+NamedEntity-Miscellanies: Euro-Raumes |frequenzy: 1
+NamedEntity-Miscellanies: Deutschland Mali |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2010 |frequenzy: 1
+NamedEntity-Miscellanies: bewegen –  |frequenzy: 1
+NamedEntity-Miscellanies: Pflegepersonal für Dokumentation und Bürokratie |frequenzy: 1
+NamedEntity-Miscellanies: Target-Falle |frequenzy: 1
+NamedEntity-Miscellanies: Zeit der sozialen Netzwerke |frequenzy: 1
+NamedEntity-Miscellanies: China  |frequenzy: 1
+NamedEntity-Miscellanies: Japanische |frequenzy: 1
+NamedEntity-Miscellanies: katholische |frequenzy: 1
+NamedEntity-Miscellanies: indische |frequenzy: 1
+NamedEntity-Miscellanies: Angriff gegen Israel |frequenzy: 1
+NamedEntity-Miscellanies: TobiasLindnerBÜNDNIS 90 |frequenzy: 1
+NamedEntity-Miscellanies: KfW-Beteiligungstochter |frequenzy: 1
+NamedEntity-Miscellanies: Netz-DG |frequenzy: 1
+NamedEntity-Miscellanies: innerafghanischer |frequenzy: 1
+NamedEntity-Miscellanies: Agenda |frequenzy: 1
+NamedEntity-Miscellanies: Kollegin Esken |frequenzy: 1
+NamedEntity-Miscellanies: nächsten zwei Jahre |frequenzy: 1
+NamedEntity-Miscellanies: Wir  |frequenzy: 1
+NamedEntity-Miscellanies: Jahr 2011 |frequenzy: 1
+NamedEntity-Miscellanies: Ihre Einlassungen bin ich |frequenzy: 1
+NamedEntity-Miscellanies: Innovationspotenzial |frequenzy: 1
+NamedEntity-Miscellanies: ­LuxLeaks |frequenzy: 1
+NamedEntity-Miscellanies: Das Wort |frequenzy: 1
+NamedEntity-Miscellanies: deutsch-britischen |frequenzy: 1
+NamedEntity-Miscellanies: Mission in Afghanistan |frequenzy: 1
+NamedEntity-Miscellanies: ICE |frequenzy: 1
+NamedEntity-Miscellanies: Deutschen  |frequenzy: 1
+NamedEntity-Miscellanies: polnischen |frequenzy: 1
+NamedEntity-Miscellanies: französischem |frequenzy: 1
+NamedEntity-Miscellanies: gesundheitliches |frequenzy: 1
+NamedEntity-Miscellanies: Ihr Masterplan |frequenzy: 1
+NamedEntity-Miscellanies: Windkraft |frequenzy: 1
+NamedEntity-Miscellanies: Balfour-Deklaration |frequenzy: 1
+NamedEntity-Miscellanies: OMT-Programmen |frequenzy: 1
+NamedEntity-Miscellanies: libanesische |frequenzy: 1
+NamedEntity-Miscellanies: 4  April |frequenzy: 1
+NamedEntity-Miscellanies: Europäischer |frequenzy: 1
+NamedEntity-Miscellanies: Google |frequenzy: 1
+NamedEntity-Miscellanies: Wer weiß was? |frequenzy: 1
+NamedEntity-Miscellanies: Last-minute-Antrag |frequenzy: 1
+NamedEntity-Miscellanies: europäisch-britischen |frequenzy: 1
+NamedEntity-Miscellanies: NATO-Verbund |frequenzy: 1
+NamedEntity-Miscellanies: Parlamentsbeteiligungsgesetz |frequenzy: 1
+NamedEntity-Miscellanies: Parlamentarischen Geschäftsführerinnen und Geschäftsführer |frequenzy: 1
+NamedEntity-Miscellanies: Deutscher |frequenzy: 1
+NamedEntity-Miscellanies: Der neue Eingeladene |frequenzy: 1
+NamedEntity-Miscellanies: Jahr Polizisten |frequenzy: 1
+NamedEntity-Miscellanies: Share Pix |frequenzy: 1
+NamedEntity-Miscellanies: ISAF-Mission |frequenzy: 1
+NamedEntity-Miscellanies: Das Gelächter |frequenzy: 1
